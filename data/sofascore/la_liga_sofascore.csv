@@ -1,0 +1,4003 @@
+player,team,rating,season
+Lionel Messi,Barcelona,8.48,17-18
+Cristiano Ronaldo,Real Madrid,7.9,17-18
+Yoel Rodríguez,Eibar,7.9,17-18
+Toni Kroos,Real Madrid,7.73,17-18
+Javier Mascherano,Barcelona,7.7,17-18
+Iago Aspas,Celta Vigo,7.6,17-18
+Jasper Cillessen,Barcelona,7.6,17-18
+Dani Parejo,Valencia,7.59,17-18
+Gareth Bale,Real Madrid,7.52,17-18
+Luis Suárez,Barcelona,7.51,17-18
+Antoine Griezmann,Atlético Madrid,7.49,17-18
+Philippe Coutinho,Barcelona,7.47,17-18
+Filipe Luís,Atlético Madrid,7.45,17-18
+Iván López,Levante UD,7.4,17-18
+Casemiro,Real Madrid,7.35,17-18
+Marc Bartra,Real Betis,7.34,17-18
+Luka Modrić,Real Madrid,7.34,17-18
+Asier Illarramendi,Real Sociedad,7.33,17-18
+Sergio Ramos,Real Madrid,7.3,17-18
+Jonathan Viera,Las Palmas,7.3,17-18
+Gerard Moreno,Espanyol,7.26,17-18
+Alex Granell,Girona FC,7.24,17-18
+Lucas Hernández,Atlético Madrid,7.23,17-18
+Sergio Canales,Real Sociedad,7.22,17-18
+Isco,Real Madrid,7.22,17-18
+Iker Muniain,Athletic Club,7.21,17-18
+Marco Asensio,Real Madrid,7.21,17-18
+Aymeric Laporte,Athletic Club,7.21,17-18
+Jordi Alba,Barcelona,7.2,17-18
+João Cancelo,Valencia,7.2,17-18
+Axel Werner,Atlético Madrid,7.2,17-18
+Francis Uzoho,Deportivo La Coruña,7.2,17-18
+Ivan Rakitić,Barcelona,7.2,17-18
+Éver Banega,Sevilla,7.2,17-18
+Sergio Busquets,Barcelona,7.19,17-18
+Pedro León,Eibar,7.19,17-18
+Dani Giménez,Real Betis,7.18,17-18
+Gerard Piqué,Barcelona,7.17,17-18
+Rodri,Villarreal,7.17,17-18
+Daniel Carvajal,Real Madrid,7.16,17-18
+Borja García,Girona FC,7.16,17-18
+Joaquín,Real Betis,7.15,17-18
+Samuel Umtiti,Barcelona,7.15,17-18
+Yerry Mina,Barcelona,7.14,17-18
+Saúl Ñíguez,Atlético Madrid,7.14,17-18
+Geoffrey Kondogbia,Valencia,7.14,17-18
+Koke,Atlético Madrid,7.14,17-18
+Marcelo,Real Madrid,7.14,17-18
+Willian José,Real Sociedad,7.13,17-18
+Thomas Partey,Atlético Madrid,7.13,17-18
+José Ángel,Eibar,7.13,17-18
+Rodrigo,Valencia,7.13,17-18
+Lucas Pérez,Deportivo La Coruña,7.13,17-18
+Fabián Ruiz,Real Betis,7.13,17-18
+Sergi Roberto,Barcelona,7.12,17-18
+Mario Gaspar,Villarreal,7.11,17-18
+Diego Godín,Atlético Madrid,7.1,17-18
+Manu Trigueros,Villarreal,7.09,17-18
+Jeison Murillo,Valencia,7.09,17-18
+José Luis Gayà,Valencia,7.09,17-18
+Munir El Haddadi,Deportivo Alavés,7.08,17-18
+Jan Oblak,Atlético Madrid,7.08,17-18
+Šime Vrsaljko,Atlético Madrid,7.08,17-18
+Jaume Doménech,Valencia,7.08,17-18
+Carlos Bacca,Villarreal,7.08,17-18
+Unai Núñez,Athletic Club,7.06,17-18
+Iván Ramis,Eibar,7.06,17-18
+Andrés Guardado,Real Betis,7.06,17-18
+Andrés Iniesta,Barcelona,7.06,17-18
+Diego Rico,Leganés,7.06,17-18
+José María Giménez,Atlético Madrid,7.06,17-18
+Aritz Elustondo,Real Sociedad,7.05,17-18
+Daniel Wass,Celta Vigo,7.05,17-18
+Cristhian Stuani,Girona FC,7.05,17-18
+Gonçalo Guedes,Valencia,7.04,17-18
+Héctor Moreno,Real Sociedad,7.04,17-18
+Marc-André ter Stegen,Barcelona,7.03,17-18
+Junior Firpo,Real Betis,7.03,17-18
+José Campaña,Levante UD,7.03,17-18
+Karim Benzema,Real Madrid,7.03,17-18
+Rubén Pérez,Leganés,7.02,17-18
+Gabriel Paulista,Valencia,7.02,17-18
+Djené,Getafe,7.02,17-18
+Pione Sisto,Celta Vigo,7.01,17-18
+Raúl García,Athletic Club,7.01,17-18
+Roberto Rosales,Málaga,7.01,17-18
+Maximiliano Gómez,Celta Vigo,7.01,17-18
+Xabi Prieto,Real Sociedad,7.01,17-18
+Cédric Bakambu,Villarreal,7.01,17-18
+Mikel Oyarzabal,Real Sociedad,7.01,17-18
+Ermedin Demirović,Deportivo Alavés,7.0,17-18
+Juan Cruz,Málaga,7.0,17-18
+Borja Lasso,Sevilla,7.0,17-18
+Aythami Artiles,Las Palmas,7.0,17-18
+Nicolás Pareja,Sevilla,7.0,17-18
+Pablo Fornals,Villarreal,7.0,17-18
+Anaitz Arbilla,Eibar,7.0,17-18
+Sidnei,Deportivo La Coruña,7.0,17-18
+Oghenekaro Etebo,Las Palmas,6.99,17-18
+Diego Llorente,Real Sociedad,6.99,17-18
+Raphaël Varane,Real Madrid,6.99,17-18
+Aïssa Mandi,Real Betis,6.99,17-18
+Stefan Savić,Atlético Madrid,6.99,17-18
+Achraf Hakimi,Real Madrid,6.99,17-18
+Martín Montoya,Valencia,6.99,17-18
+Zouhair Feddal,Real Betis,6.99,17-18
+Iñigo Martínez,Athletic Club,6.99,17-18
+Hugo Mallo,Celta Vigo,6.99,17-18
+Víctor Ruiz,Villarreal,6.99,17-18
+Beñat Etxebarria,Athletic Club,6.98,17-18
+Simon Kjær,Sevilla,6.97,17-18
+Loren Morón,Real Betis,6.97,17-18
+Nacho Fernández,Real Madrid,6.97,17-18
+Vicente Guaita,Getafe,6.97,17-18
+Lucas Vázquez,Real Madrid,6.97,17-18
+Ganso,Sevilla,6.97,17-18
+Alberto de la Bella,Real Sociedad,6.97,17-18
+Jefferson Lerma,Levante UD,6.97,17-18
+Fayçal Fajr,Getafe,6.97,17-18
+Keylor Navas,Real Madrid,6.97,17-18
+Raúl Navas,Real Sociedad,6.97,17-18
+Alexander Szymanowski,Leganés,6.96,17-18
+Marc Muniesa,Girona FC,6.96,17-18
+Luisinho,Deportivo La Coruña,6.96,17-18
+Víctor Laguardia,Deportivo Alavés,6.96,17-18
+Carlos Vela,Real Sociedad,6.96,17-18
+Santi Mina,Valencia,6.96,17-18
+Samu Castillejo,Villarreal,6.96,17-18
+Naldo,Espanyol,6.95,17-18
+Enric Saborit,Athletic Club,6.95,17-18
+Steven​ N'Zonzi,Sevilla,6.95,17-18
+Sergio Escudero,Sevilla,6.95,17-18
+Carlos Fernández,Sevilla,6.95,17-18
+Iago Herrerín,Athletic Club,6.95,17-18
+Gabriel Pires,Leganés,6.95,17-18
+Gonzalo Castro,Málaga,6.95,17-18
+Paulo Oliveira,Eibar,6.95,17-18
+Ángel Rodríguez,Getafe,6.95,17-18
+Lucas Digne,Barcelona,6.95,17-18
+Leandro Chichizola,Las Palmas,6.94,17-18
+Sergi Darder,Espanyol,6.94,17-18
+Dimitrios Siovas,Leganés,6.94,17-18
+David López,Espanyol,6.94,17-18
+Adrián López,Deportivo La Coruña,6.94,17-18
+Borja Mayoral,Real Madrid,6.94,17-18
+Neto,Valencia,6.94,17-18
+Joel Campbell,Real Betis,6.94,17-18
+Federico Cartabia,Deportivo La Coruña,6.94,17-18
+Raúl Fernández,Levante UD,6.94,17-18
+Jesús Navas,Sevilla,6.94,17-18
+Nolito,Sevilla,6.93,17-18
+Clément Lenglet,Sevilla,6.93,17-18
+David Lombán,Eibar,6.93,17-18
+Charles Días,Eibar,6.93,17-18
+Jesús Vallejo,Real Madrid,6.93,17-18
+Ander Iturraspe,Athletic Club,6.93,17-18
+Bernardo Espinosa,Girona FC,6.93,17-18
+Martín Aguirregabiria,Deportivo Alavés,6.92,17-18
+Ousmane Dembélé,Barcelona,6.92,17-18
+Joseba Zaldúa,Leganés,6.92,17-18
+Thomas Vermaelen,Barcelona,6.92,17-18
+David Soria,Sevilla,6.92,17-18
+Pau López,Espanyol,6.92,17-18
+Cristian Tello,Real Betis,6.92,17-18
+Juan Cala,Getafe,6.92,17-18
+Oussama Tannane,Las Palmas,6.91,17-18
+Pablo Hernández,Celta Vigo,6.91,17-18
+Mateo Kovačić,Real Madrid,6.91,17-18
+Rodrigo Ely,Deportivo Alavés,6.91,17-18
+Paul Baysse,Málaga,6.91,17-18
+Sergi Gómez,Celta Vigo,6.91,17-18
+Raúl Carnero,Leganés,6.9,17-18
+Víctor López,Deportivo Alavés,6.9,17-18
+Walter Montoya,Sevilla,6.9,17-18
+Asier Riesgo,Eibar,6.9,17-18
+Sergi Samper,Las Palmas,6.9,17-18
+Leandro Cabrera,Getafe,6.9,17-18
+Antonio Sanabria,Real Betis,6.89,17-18
+Álvaro González,Villarreal,6.89,17-18
+Dani Ceballos,Real Madrid,6.89,17-18
+Dani García,Eibar,6.89,17-18
+Diego López,Espanyol,6.89,17-18
+Rubén Duarte,Deportivo Alavés,6.89,17-18
+Yeray Álvarez,Athletic Club,6.89,17-18
+Recio,Málaga,6.89,17-18
+Javi López,Espanyol,6.89,17-18
+Aleix García,Girona FC,6.88,17-18
+Nemanja Maksimović,Valencia,6.88,17-18
+Ezequiel Garay,Valencia,6.88,17-18
+Fernando Pacheco,Deportivo Alavés,6.88,17-18
+Gabriel Mercado,Sevilla,6.88,17-18
+Jaume Costa,Villarreal,6.88,17-18
+Pablo Sarabia,Sevilla,6.88,17-18
+Federico Ricca,Málaga,6.88,17-18
+Dídac Vila,Espanyol,6.88,17-18
+Gabi,Atlético Madrid,6.88,17-18
+Unai Bustinza,Leganés,6.88,17-18
+Guilherme,Deportivo La Coruña,6.87,17-18
+Daniele Bonera,Villarreal,6.87,17-18
+Bruno González,Getafe,6.87,17-18
+Aritz Aduriz,Athletic Club,6.87,17-18
+Guido Pizarro,Sevilla,6.87,17-18
+Ximo Navarro,Las Palmas,6.87,17-18
+Nicola Sansone,Villarreal,6.87,17-18
+Jonny Otto,Celta Vigo,6.87,17-18
+Francis Coquelin,Valencia,6.87,17-18
+Sergio Asenjo,Villarreal,6.87,17-18
+Paulinho,Barcelona,6.86,17-18
+Kepa Arrizabalaga,Athletic Club,6.86,17-18
+Paco Alcácer,Barcelona,6.86,17-18
+Pedro Alcalá,Girona FC,6.86,17-18
+Simone Zaza,Valencia,6.86,17-18
+Celso Borges,Deportivo La Coruña,6.86,17-18
+Sergi Enrich,Eibar,6.86,17-18
+Enis Bardhi,Levante UD,6.86,17-18
+Miguel Ángel Moyà,Real Sociedad,6.86,17-18
+Ibai Gómez,Deportivo Alavés,6.85,17-18
+Rúben Vezo,Valencia,6.85,17-18
+Ryad Boudebouz,Real Betis,6.85,17-18
+Alejandro Gálvez,Las Palmas,6.85,17-18
+David Juncà,Eibar,6.85,17-18
+Yannick Carrasco,Atlético Madrid,6.85,17-18
+Adnan Januzaj,Real Sociedad,6.85,17-18
+Juanfran,Deportivo La Coruña,6.85,17-18
+Portu,Girona FC,6.84,17-18
+Jonathan Calleri,Las Palmas,6.84,17-18
+Juanpe,Girona FC,6.84,17-18
+Nacho Vidal,Valencia,6.84,17-18
+Loïc Rémy,Getafe,6.84,17-18
+Mariano Barbosa,Villarreal,6.84,17-18
+Ezequiel Muñoz,Leganés,6.84,17-18
+Stanislav Lobotka,Celta Vigo,6.84,17-18
+Juanfran,Atlético Madrid,6.84,17-18
+Joan Jordán,Eibar,6.83,17-18
+Diego Costa,Atlético Madrid,6.83,17-18
+Kévin Rodrigues,Real Sociedad,6.83,17-18
+Alen Halilović,Las Palmas,6.83,17-18
+Emre Mor,Celta Vigo,6.83,17-18
+Igor Zubeldia,Real Sociedad,6.83,17-18
+Denis Suárez,Barcelona,6.83,17-18
+Óscar de Marcos,Athletic Club,6.82,17-18
+Pablo Piatti,Espanyol,6.82,17-18
+Guillermo Maripán,Deportivo Alavés,6.82,17-18
+Pablo Maffeo,Girona FC,6.82,17-18
+Emmanuel Boateng,Levante UD,6.82,17-18
+Fabian Schär,Deportivo La Coruña,6.82,17-18
+Gerard Deulofeu,Barcelona,6.82,17-18
+Emiliano Martínez,Getafe,6.82,17-18
+Kike García,Eibar,6.82,17-18
+Martín Mantovani,Leganés,6.82,17-18
+Javi Castellano,Las Palmas,6.81,17-18
+Miguel Torres,Málaga,6.81,17-18
+Iñaki Williams,Athletic Club,6.81,17-18
+Víctor Sánchez,Espanyol,6.81,17-18
+Aarón Martín,Espanyol,6.81,17-18
+Iván Cuéllar,Leganés,6.81,17-18
+Michael Olunga,Girona FC,6.81,17-18
+Miguel Layún,Sevilla,6.81,17-18
+David Timor,Girona FC,6.81,17-18
+José Luis Morales,Levante UD,6.81,17-18
+Markel Bergara,Getafe,6.81,17-18
+Manu García,Deportivo Alavés,6.8,17-18
+Léo Baptistão,Espanyol,6.8,17-18
+Gonzalo Escalante,Eibar,6.8,17-18
+Antonio Barragán,Real Betis,6.8,17-18
+Bebé,Eibar,6.8,17-18
+Isaac Success,Málaga,6.8,17-18
+Álex Robles,Málaga,6.8,17-18
+Emanuel Cecchini,Málaga,6.8,17-18
+Andrés Fernández,Villarreal,6.8,17-18
+Marcos Llorente,Real Madrid,6.8,17-18
+Facundo Roncaglia,Celta Vigo,6.8,17-18
+Markel Susaeta,Athletic Club,6.8,17-18
+Tomás Pina,Deportivo Alavés,6.8,17-18
+Sergio Postigo,Levante UD,6.8,17-18
+Esteban Granero,Espanyol,6.8,17-18
+Alberto Aquilani,Las Palmas,6.8,17-18
+Roberto Jiménez,Málaga,6.79,17-18
+Johannes Geis,Sevilla,6.79,17-18
+Luis Hernández,Málaga,6.79,17-18
+Emre Çolak,Deportivo La Coruña,6.79,17-18
+Damián Suárez,Getafe,6.79,17-18
+Sergio García,Espanyol,6.79,17-18
+Marc Roca,Espanyol,6.79,17-18
+Bono,Girona FC,6.79,17-18
+Roque Mesa,Sevilla,6.79,17-18
+Lionel Carole,Sevilla,6.78,17-18
+Álvaro Medrán,Deportivo Alavés,6.78,17-18
+David García,Las Palmas,6.78,17-18
+Miguel Ángel Guerrero,Leganés,6.78,17-18
+Mauricio Lemos,Las Palmas,6.78,17-18
+Rubén Rochina,Levante UD,6.78,17-18
+Xabier Etxeita,Athletic Club,6.78,17-18
+Sergio León,Real Betis,6.78,17-18
+Mikel Rico,Athletic Club,6.78,17-18
+Fernando Torres,Atlético Madrid,6.77,17-18
+Juan Narváez,Real Betis,6.77,17-18
+Rubén Peña,Eibar,6.77,17-18
+Wissam Ben Yedder,Sevilla,6.77,17-18
+Jorge Molina,Getafe,6.77,17-18
+Mikel Balenziaga,Athletic Club,6.77,17-18
+Antonio Adán,Real Betis,6.77,17-18
+Daniel Carriço,Sevilla,6.77,17-18
+Íñigo Lekue,Athletic Club,6.77,17-18
+Roger Martí,Levante UD,6.76,17-18
+Mubarak Wakaso,Deportivo Alavés,6.76,17-18
+Dani Raba,Villarreal,6.76,17-18
+Toni Lato,Valencia,6.76,17-18
+Rubén Sobrino,Deportivo Alavés,6.76,17-18
+Jozabed Sánchez,Celta Vigo,6.76,17-18
+Vitorino Antunes,Getafe,6.76,17-18
+Anthony Lozano,Girona FC,6.76,17-18
+Michel Macedo,Las Palmas,6.76,17-18
+Gustavo Cabral,Celta Vigo,6.76,17-18
+Nélson Semedo,Barcelona,6.75,17-18
+Enes Ünal,Villarreal,6.75,17-18
+Juanmi,Real Sociedad,6.75,17-18
+Francis Guerrero,Real Betis,6.75,17-18
+Sergio Araujo,Las Palmas,6.75,17-18
+Sergio Sánchez,Espanyol,6.75,17-18
+John Guidetti,Deportivo Alavés,6.75,17-18
+Coke,Levante UD,6.75,17-18
+Pedro Bigas,Las Palmas,6.75,17-18
+Dani Pacheco,Getafe,6.74,17-18
+Kévin Gameiro,Atlético Madrid,6.74,17-18
+Ander Capa,Eibar,6.74,17-18
+Aday Benítez,Girona FC,6.74,17-18
+Franco Vázquez,Sevilla,6.74,17-18
+Iván Alejo,Eibar,6.74,17-18
+Erick Cabaco,Levante UD,6.74,17-18
+Vitolo,Atlético Madrid,6.73,17-18
+Momo,Las Palmas,6.73,17-18
+Brais Méndez,Celta Vigo,6.73,17-18
+Theo Hernández,Real Madrid,6.73,17-18
+Juankar,Málaga,6.73,17-18
+Roger Martínez,Villarreal,6.73,17-18
+Jordi Amat,Real Betis,6.73,17-18
+Oier Olazábal,Levante UD,6.73,17-18
+Burgui,Deportivo Alavés,6.73,17-18
+Róber Pier,Levante UD,6.72,17-18
+Sandro Ramírez,Sevilla,6.72,17-18
+Adalberto Peñaranda,Málaga,6.72,17-18
+Mauro Dos Santos,Leganés,6.72,17-18
+Jonas Ramalho,Girona FC,6.72,17-18
+Carles Planas,Girona FC,6.72,17-18
+Rubén Blanco,Celta Vigo,6.72,17-18
+Antonio Rukavina,Villarreal,6.72,17-18
+Antonio Luna,Levante UD,6.72,17-18
+Chema,Levante UD,6.72,17-18
+Gabriel Peñalba,Las Palmas,6.71,17-18
+Sulley Muntari,Deportivo La Coruña,6.71,17-18
+Gorka Iraizoz,Girona FC,6.71,17-18
+Carlos Soler,Valencia,6.71,17-18
+Víctor Camarasa,Real Betis,6.71,17-18
+Sébastien Corchia,Sevilla,6.71,17-18
+Toño,Levante UD,6.71,17-18
+Borja Valle,Deportivo La Coruña,6.71,17-18
+Ángel Correa,Atlético Madrid,6.71,17-18
+Youssef En-Nesyri,Málaga,6.7,17-18
+David Zurutuza,Real Sociedad,6.7,17-18
+Javi García,Real Betis,6.7,17-18
+Joaquín Correa,Sevilla,6.7,17-18
+Mathías Olivera,Getafe,6.7,17-18
+Pedro Mosquera,Deportivo La Coruña,6.7,17-18
+Carles Gil,Deportivo La Coruña,6.7,17-18
+Antonio Sivera,Deportivo Alavés,6.7,17-18
+Ivan Rodríguez,Málaga,6.7,17-18
+Héctor Hernández,Deportivo Alavés,6.7,17-18
+Carlos Calderón,Getafe,6.7,17-18
+Enzo Zidane,Deportivo Alavés,6.7,17-18
+Alfred N'Diaye,Villarreal,6.7,17-18
+Nicolás Gaitán,Atlético Madrid,6.7,17-18
+Alin Toșca,Real Betis,6.7,17-18
+Cristian Rivera,Eibar,6.7,17-18
+Ivi López,Levante UD,6.7,17-18
+Riza Durmisi,Real Betis,6.7,17-18
+Sergio Álvarez,Celta Vigo,6.69,17-18
+Alexis Ruano,Deportivo Alavés,6.69,17-18
+Carlos Sánchez,Espanyol,6.69,17-18
+Diego Rolán,Málaga,6.69,17-18
+Mikel San José,Athletic Club,6.69,17-18
+Luciano Vietto,Valencia,6.69,17-18
+Raúl Albentosa,Deportivo La Coruña,6.69,17-18
+Ignasi Miquel,Málaga,6.69,17-18
+Michael Krohn-Dehli,Deportivo La Coruña,6.68,17-18
+Costel Pantilimon,Deportivo La Coruña,6.68,17-18
+Sergio Rico,Sevilla,6.68,17-18
+Johan Mojica,Girona FC,6.68,17-18
+Mario Hermoso,Espanyol,6.68,17-18
+Óscar Duarte,Espanyol,6.68,17-18
+Pedro López,Levante UD,6.68,17-18
+Kiko Casilla,Real Madrid,6.68,17-18
+Adrián González,Málaga,6.68,17-18
+Augusto Fernández,Atlético Madrid,6.68,17-18
+Tana,Las Palmas,6.67,17-18
+Marko Dmitrović,Eibar,6.67,17-18
+Denis Cheryshev,Villarreal,6.67,17-18
+Luis Muriel,Sevilla,6.67,17-18
+Diego González,Málaga,6.67,17-18
+Andreu Fontàs,Celta Vigo,6.67,17-18
+Rafa Navarro,Real Betis,6.67,17-18
+Fernando Navarro,Deportivo La Coruña,6.67,17-18
+Manuel Iturra,Málaga,6.67,17-18
+David Simón,Las Palmas,6.66,17-18
+Aleix Vidal,Barcelona,6.66,17-18
+Darko Brašanac,Leganés,6.66,17-18
+Andreas Pereira,Valencia,6.66,17-18
+Mehdi Lacen,Málaga,6.66,17-18
+Dani Castellano,Las Palmas,6.65,17-18
+Matías Aguirregaray,Las Palmas,6.65,17-18
+Daniel Torres,Deportivo Alavés,6.65,17-18
+Eneko Bóveda,Deportivo La Coruña,6.65,17-18
+Mujaid Sadick,Deportivo La Coruña,6.65,17-18
+El Hacen,Levante UD,6.65,17-18
+Papakouli Diop,Eibar,6.65,17-18
+Bojan Krkic,Deportivo Alavés,6.65,17-18
+Federico Valverde,Deportivo La Coruña,6.64,17-18
+Alfonso Pedraza,Deportivo Alavés,6.64,17-18
+Takashi Inui,Eibar,6.64,17-18
+Guilherme Arana,Sevilla,6.63,17-18
+Chuca,Villarreal,6.63,17-18
+José Jurado,Espanyol,6.63,17-18
+Javier Eraso,Leganés,6.63,17-18
+Roberto Soriano,Villarreal,6.63,17-18
+Mauro Arambarri,Getafe,6.62,17-18
+Álvaro Odriozola,Real Sociedad,6.62,17-18
+Saša Lukić,Levante UD,6.62,17-18
+Jason,Levante UD,6.62,17-18
+Hernán,Las Palmas,6.62,17-18
+José Naranjo,Leganés,6.62,17-18
+Gerónimo Rulli,Real Sociedad,6.62,17-18
+Claudio Beauvue,Leganés,6.61,17-18
+Gerard Gumbau,Leganés,6.61,17-18
+Mikel Vesga,Athletic Club,6.61,17-18
+Raúl Lizoain,Las Palmas,6.61,17-18
+Olarenwaju Kayode,Girona FC,6.61,17-18
+Javi Fuego,Villarreal,6.61,17-18
+Óscar Melendo,Espanyol,6.61,17-18
+Erik Expósito,Las Palmas,6.6,17-18
+Jon Bautista,Real Sociedad,6.6,17-18
+Maxime Lestienne,Málaga,6.6,17-18
+Ferran Torres,Valencia,6.6,17-18
+Omar Ramos,Leganés,6.6,17-18
+José Manuel Arnáiz,Barcelona,6.6,17-18
+Leonardo Suárez,Villarreal,6.6,17-18
+Aly Abeid,Levante UD,6.6,17-18
+Carlos Isaac,Atlético Madrid,6.6,17-18
+David Alba,Getafe,6.6,17-18
+Alberto López,Málaga,6.6,17-18
+Sergio Arribas,Leganés,6.6,17-18
+Alberto Redondo,Getafe,6.6,17-18
+Marlos Moreno,Girona FC,6.6,17-18
+Óscar Romero,Deportivo Alavés,6.6,17-18
+Matías Nahuel,Real Betis,6.6,17-18
+Nemanja Radoja,Celta Vigo,6.6,17-18
+Gaku Shibasaki,Getafe,6.6,17-18
+Rubén Castro,Real Betis,6.59,17-18
+Christian Robert Santos,Deportivo Alavés,6.59,17-18
+Francisco Portillo,Getafe,6.59,17-18
+Keko,Málaga,6.59,17-18
+Marc Navarro,Espanyol,6.58,17-18
+Nano Mesa,Levante UD,6.58,17-18
+Pere Pons,Girona FC,6.58,17-18
+Nacho Gil,Las Palmas,6.58,17-18
+Benito Ramírez,Las Palmas,6.58,17-18
+Mathieu Flamini,Getafe,6.58,17-18
+Douglas Luiz,Girona FC,6.58,17-18
+Esteban Rolón,Málaga,6.57,17-18
+Álex Alegría,Levante UD,6.57,17-18
+Nabil El Zhar,Leganés,6.56,17-18
+Javier Ontiveros,Málaga,6.56,17-18
+Cheick Doukouré,Levante UD,6.56,17-18
+Sabin Merino,Athletic Club,6.56,17-18
+Borja Bastón,Málaga,6.56,17-18
+Rubén Pardo,Real Sociedad,6.55,17-18
+Andoni Gorosabel,Real Sociedad,6.55,17-18
+Mario González,Villarreal,6.55,17-18
+Róbert Mazáň,Celta Vigo,6.55,17-18
+Armando Sadiku,Levante UD,6.55,17-18
+Sergio Mora,Getafe,6.55,17-18
+Florin Andone,Deportivo La Coruña,6.55,17-18
+Álvaro Jiménez,Getafe,6.55,17-18
+Alberto Bueno Calvo,Málaga,6.55,17-18
+Iñigo Cordoba,Athletic Club,6.54,17-18
+Zakaria Bakkali,Deportivo La Coruña,6.54,17-18
+Imanol Agirretxe,Real Sociedad,6.54,17-18
+Hernán Toledo,Las Palmas,6.53,17-18
+Merveil Ndockyt,Getafe,6.53,17-18
+Shaq Moore,Levante UD,6.53,17-18
+Rubén Martínez,Deportivo La Coruña,6.53,17-18
+Brown Ideye,Málaga,6.53,17-18
+Lucas Boyé,Celta Vigo,6.53,17-18
+Francisco Molinero,Getafe,6.52,17-18
+Nordin Amrabat,Leganés,6.51,17-18
+Vicente Gómez,Las Palmas,6.51,17-18
+Fabián Orellana,Eibar,6.5,17-18
+Miguel Rubio,Getafe,6.5,17-18
+Fabio González,Las Palmas,6.5,17-18
+José Lara,Sevilla,6.5,17-18
+Koke,Levante UD,6.5,17-18
+Diego Barri,Getafe,6.5,17-18
+Eloi Amagat,Girona FC,6.5,17-18
+Ager Aketxe,Athletic Club,6.5,17-18
+Imanol Sarriegi,Eibar,6.5,17-18
+Tito,Leganés,6.49,17-18
+Giampaolo Pazzini,Levante UD,6.49,17-18
+Pedro López,Real Betis,6.48,17-18
+Juanpi Añor,Málaga,6.48,17-18
+Jon Guridi,Real Sociedad,6.48,17-18
+Álex Mula,Málaga,6.47,17-18
+Amath Ndiaye,Getafe,6.47,17-18
+André Gomes,Barcelona,6.47,17-18
+Jefferson Montero,Getafe,6.47,17-18
+Adrián Diéguez,Deportivo Alavés,6.47,17-18
+Imoh Ezekiel,Las Palmas,6.47,17-18
+Carlos Vigaray,Deportivo Alavés,6.46,17-18
+Hernán Pérez,Deportivo Alavés,6.45,17-18
+Edu Expósito,Deportivo La Coruña,6.43,17-18
+Jairo Samperio,Las Palmas,6.42,17-18
+Zdravko Kuzmanović,Málaga,6.41,17-18
+Jon Ander Serantes,Leganés,6.4,17-18
+Pau Torres,Villarreal,6.4,17-18
+Aitor Ruibal,Real Betis,6.4,17-18
+Kévin Soni,Girona FC,6.4,17-18
+Jaime Sierra,Leganés,6.4,17-18
+Aleksandar Katai,Deportivo Alavés,6.4,17-18
+Jony,Málaga,6.4,17-18
+Bruno Gama,Deportivo La Coruña,6.4,17-18
+Erik Morán,Leganés,6.4,17-18
+Samu García,Málaga,6.37,17-18
+Fahad Al-Muwallad,Levante UD,6.35,17-18
+Rúben Semedo,Villarreal,6.33,17-18
+Ramiro Guerra,Villarreal,6.33,17-18
+Salem Al-Dawsari,Villarreal,6.3,17-18
+Luca Zidane,Real Madrid,6.3,17-18
+Andoni López,Athletic Club,6.3,17-18
+Álex Mozo,Leganés,6.3,17-18
+Hugo Duro,Getafe,6.3,17-18
+Andrew Hjulsager,Celta Vigo,6.3,17-18
+Julio Gracia,Real Betis,6.3,17-18
+Gerard Valentín,Deportivo La Coruña,6.3,17-18
+Andrés Prieto,Málaga,6.3,17-18
+Alejandro Arribas,Deportivo La Coruña,6.23,17-18
+Toño Ramírez,Real Sociedad,6.18,17-18
+Adrián Marín,Villarreal,6.17,17-18
+Borja Herrera,Las Palmas,6.13,17-18
+Przemysław Tytoń,Deportivo La Coruña,6.05,17-18
+Nereo Champagne,Leganés,6.05,17-18
+Arona Sané,Atlético Madrid,6.0,17-18
+Miguel Cifuentes,Málaga,5.95,17-18
+Aldo One Esteve,Deportivo La Coruña,5.7,17-18
+Maksym Koval,Deportivo La Coruña,5.55,17-18
+Toni Moya,Atlético Madrid,0.0,17-18
+Darío Poveda,Villarreal,0.0,17-18
+Francesc Regis,Eibar,0.0,17-18
+Dani Molina,Celta Vigo,0.0,17-18
+Carlos Martínez,Real Sociedad,0.0,17-18
+Lionel Messi,Barcelona,8.43,18-19
+Iago Aspas,Celta Vigo,7.63,18-19
+Dani Parejo,Valencia,7.52,18-19
+Toni Kroos,Real Madrid,7.43,18-19
+Álex Sola,Real Sociedad,7.4,18-19
+Antoine Griezmann,Atlético Madrid,7.38,18-19
+Karim Benzema,Real Madrid,7.38,18-19
+Jaume Doménech,Valencia,7.38,18-19
+Luis Suárez,Barcelona,7.34,18-19
+Sergio Camello,Atlético Madrid,7.3,18-19
+Koke,Levante UD,7.3,18-19
+Pablo Sarabia,Sevilla,7.28,18-19
+Sergio Ramos,Real Madrid,7.26,18-19
+Santi Cazorla,Villarreal,7.25,18-19
+Ousmane Dembélé,Barcelona,7.24,18-19
+Gerard Piqué,Barcelona,7.24,18-19
+Joan Jordán,Eibar,7.21,18-19
+Carlos Isaac,Atlético Madrid,7.2,18-19
+Wissam Ben Yedder,Sevilla,7.2,18-19
+Jesús Navas,Sevilla,7.18,18-19
+Cristhian Stuani,Girona FC,7.18,18-19
+Sergio Canales,Real Betis,7.18,18-19
+Koke,Atlético Madrid,7.18,18-19
+Ivan Rakitić,Barcelona,7.17,18-19
+Rodri,Atlético Madrid,7.16,18-19
+Gorka Iraizoz,Girona FC,7.16,18-19
+Juan Soriano,Sevilla,7.15,18-19
+Giovani Lo Celso,Real Betis,7.13,18-19
+José María Giménez,Atlético Madrid,7.13,18-19
+Guillermo Maripán,Deportivo Alavés,7.13,18-19
+Luka Modrić,Real Madrid,7.11,18-19
+Éver Banega,Sevilla,7.11,18-19
+Andrés Solano,Atlético Madrid,7.1,18-19
+Joaquín,Real Betis,7.09,18-19
+Lucas Hernández,Atlético Madrid,7.09,18-19
+Daniel Carvajal,Real Madrid,7.09,18-19
+Jorge Molina,Getafe,7.08,18-19
+José Campaña,Levante UD,7.08,18-19
+José Ángel,Eibar,7.08,18-19
+Casemiro,Real Madrid,7.08,18-19
+Jan Oblak,Atlético Madrid,7.07,18-19
+Unai Núñez,Athletic Club,7.07,18-19
+Mario Hermoso,Espanyol,7.06,18-19
+Jordi Alba,Barcelona,7.06,18-19
+Rodrigo,Valencia,7.05,18-19
+Alex Granell,Girona FC,7.05,18-19
+Borja García,Girona FC,7.05,18-19
+Gareth Bale,Real Madrid,7.05,18-19
+Jonathan Calleri,Deportivo Alavés,7.04,18-19
+Sergio Reguilón,Real Madrid,7.04,18-19
+Geoffrey Kondogbia,Valencia,7.03,18-19
+Gabriel Paulista,Valencia,7.03,18-19
+Álvaro Morata,Atlético Madrid,7.03,18-19
+Ezequiel Garay,Valencia,7.03,18-19
+Borja Iglesias,Espanyol,7.02,18-19
+Zouhair Feddal,Real Betis,7.02,18-19
+Willian José,Real Sociedad,7.02,18-19
+Arturo Vidal,Barcelona,7.02,18-19
+Joel Robles,Real Betis,7.02,18-19
+Simon Kjær,Sevilla,7.02,18-19
+Rubén Peña,Eibar,7.02,18-19
+Thomas Partey,Atlético Madrid,7.02,18-19
+Marco Asensio,Real Madrid,7.01,18-19
+Sergio Asenjo,Villarreal,7.01,18-19
+Nacho Martínez,Real Valladolid,7.01,18-19
+Santiago Arias,Atlético Madrid,7.01,18-19
+Jaime Mata,Getafe,7.0,18-19
+Sergio Busquets,Barcelona,7.0,18-19
+Iñaki Williams,Athletic Club,7.0,18-19
+Jony,Deportivo Alavés,7.0,18-19
+Philippe Coutinho,Barcelona,7.0,18-19
+Naldo,Espanyol,7.0,18-19
+Antonio Adán,Atlético Madrid,7.0,18-19
+Ander Guevara,Real Sociedad,7.0,18-19
+Alejandro Catena,Rayo Vallecano,7.0,18-19
+Miguel de la Fuente,Real Valladolid,7.0,18-19
+Maximiliano Gómez,Celta Vigo,7.0,18-19
+Rubén Pardo,Real Sociedad,7.0,18-19
+Brais Méndez,Celta Vigo,6.99,18-19
+Aïssa Mandi,Real Betis,6.99,18-19
+Gonçalo Guedes,Valencia,6.99,18-19
+Guido Carrillo,Leganés,6.99,18-19
+Francis Coquelin,Valencia,6.98,18-19
+Cristian Tello,Real Betis,6.98,18-19
+Sergi Roberto,Barcelona,6.98,18-19
+Lucas Olaza,Celta Vigo,6.98,18-19
+Marc Roca,Espanyol,6.97,18-19
+Charles Días,Eibar,6.97,18-19
+Bono,Girona FC,6.97,18-19
+Raúl de Tomás,Rayo Vallecano,6.97,18-19
+Jonathan Silva,Leganés,6.97,18-19
+Marc Bartra,Real Betis,6.97,18-19
+Rúben Vezo,Levante UD,6.96,18-19
+David Soria,Getafe,6.96,18-19
+Keylor Navas,Real Madrid,6.96,18-19
+André Silva,Sevilla,6.96,18-19
+Néstor Araujo,Celta Vigo,6.96,18-19
+Iñigo Martínez,Athletic Club,6.96,18-19
+Marcos Llorente,Real Madrid,6.96,18-19
+Jorge Miramón,Huesca,6.96,18-19
+Raúl Navas,Real Sociedad,6.96,18-19
+Míchel Herrero,Real Valladolid,6.95,18-19
+Filipe Luís,Atlético Madrid,6.95,18-19
+Yuri Berchiche,Athletic Club,6.95,18-19
+Saúl Ñíguez,Atlético Madrid,6.95,18-19
+Roberto Rosales,Espanyol,6.95,18-19
+Gerard Moreno,Villarreal,6.95,18-19
+Ximo Navarro,Deportivo Alavés,6.95,18-19
+Marcelo,Real Madrid,6.95,18-19
+Diego Godín,Atlético Madrid,6.94,18-19
+Chimy Ávila,Huesca,6.94,18-19
+Andriy Lunin,Leganés,6.94,18-19
+Wesley Hoedt,Celta Vigo,6.94,18-19
+Pedro Alcalá,Girona FC,6.94,18-19
+Okay Yokuşlu,Celta Vigo,6.94,18-19
+Vitorino Antunes,Getafe,6.94,18-19
+Raúl García,Athletic Club,6.93,18-19
+Sergi Darder,Espanyol,6.93,18-19
+Rubén Alcaraz,Real Valladolid,6.93,18-19
+Esteban Granero,Espanyol,6.93,18-19
+Enric Gallego,Huesca,6.93,18-19
+Raphaël Varane,Real Madrid,6.93,18-19
+Adnan Januzaj,Real Sociedad,6.93,18-19
+Sergi Enrich,Eibar,6.93,18-19
+Dimitrios Siovas,Leganés,6.92,18-19
+Vinícius Júnior,Real Madrid,6.92,18-19
+Neto,Valencia,6.92,18-19
+Clément Lenglet,Barcelona,6.92,18-19
+Andrés Fernández,Villarreal,6.92,18-19
+Leandro Cabrera,Getafe,6.91,18-19
+Brahim Díaz,Real Madrid,6.91,18-19
+Adrián Embarba,Rayo Vallecano,6.91,18-19
+David López,Espanyol,6.91,18-19
+José Luis Gayà,Valencia,6.91,18-19
+Bernardo Espinosa,Girona FC,6.91,18-19
+Vicente Iborra,Villarreal,6.91,18-19
+Oier Olazábal,Levante UD,6.9,18-19
+Youssef En-Nesyri,Leganés,6.9,18-19
+Junior Firpo,Real Betis,6.9,18-19
+Peru Nolaskoain Esnal,Athletic Club,6.9,18-19
+Álvaro González,Villarreal,6.9,18-19
+Borja Garcés,Atlético Madrid,6.9,18-19
+Aritz Elustondo,Real Sociedad,6.9,18-19
+William Carvalho,Real Betis,6.9,18-19
+Manu Morlanes,Villarreal,6.9,18-19
+Toni Moya,Atlético Madrid,6.9,18-19
+Róbert Mazáň,Celta Vigo,6.9,18-19
+Jean-Clair Todibo,Barcelona,6.9,18-19
+Aitor Fernández,Levante UD,6.9,18-19
+Víctor Ruiz,Villarreal,6.9,18-19
+Marc-André ter Stegen,Barcelona,6.9,18-19
+Daniel Wass,Valencia,6.9,18-19
+Sergi Gómez,Sevilla,6.9,18-19
+Santi Mina,Valencia,6.9,18-19
+Kenneth Omeruo,Leganés,6.9,18-19
+Dani Ceballos,Real Madrid,6.9,18-19
+Munir El Haddadi,Sevilla,6.9,18-19
+Emiliano Velázquez,Rayo Vallecano,6.89,18-19
+Karl Toko Ekambi,Villarreal,6.89,18-19
+Marc Muniesa,Girona FC,6.89,18-19
+Beñat Etxebarria,Athletic Club,6.89,18-19
+Hugo Mallo,Celta Vigo,6.89,18-19
+Unai Bustinza,Leganés,6.89,18-19
+Asier Illarramendi,Real Sociedad,6.89,18-19
+Fernando Pacheco,Deportivo Alavés,6.88,18-19
+Damián Suárez,Getafe,6.88,18-19
+Roberto Santamaría,Huesca,6.88,18-19
+Óscar Rodríguez,Leganés,6.88,18-19
+Mariano Díaz,Real Madrid,6.88,18-19
+Daniele Bonera,Villarreal,6.88,18-19
+Sidnei,Real Betis,6.87,18-19
+Ramiro Funes Mori,Villarreal,6.87,18-19
+Samuel Umtiti,Barcelona,6.87,18-19
+Diego Llorente,Real Sociedad,6.87,18-19
+Quincy Promes,Sevilla,6.87,18-19
+Yeray Álvarez,Athletic Club,6.87,18-19
+Iker Muniain,Athletic Club,6.87,18-19
+Cucho Hernández,Huesca,6.86,18-19
+Léo Baptistão,Espanyol,6.86,18-19
+Ibai Gómez,Athletic Club,6.86,18-19
+Juanfran,Atlético Madrid,6.86,18-19
+Iván Ramis,Eibar,6.86,18-19
+Juanfran,Leganés,6.86,18-19
+Thomas Lemar,Atlético Madrid,6.85,18-19
+Daniel Carriço,Sevilla,6.85,18-19
+Abdoulaye Ba,Rayo Vallecano,6.85,18-19
+Papakouli Diop,Eibar,6.85,18-19
+Mario Suárez,Rayo Vallecano,6.85,18-19
+Malcom,Barcelona,6.85,18-19
+Diego López,Espanyol,6.85,18-19
+Raúl Carnero,Girona FC,6.85,18-19
+Roger Martí,Levante UD,6.85,18-19
+Sergi Guardiola,Real Valladolid,6.84,18-19
+Lucas Vázquez,Real Madrid,6.84,18-19
+Denis Cheryshev,Valencia,6.84,18-19
+Víctor Laguardia,Deportivo Alavés,6.84,18-19
+Ryad Boudebouz,Celta Vigo,6.84,18-19
+Isco,Real Madrid,6.83,18-19
+Álvaro Medrán,Rayo Vallecano,6.83,18-19
+Martín Mantovani,Huesca,6.83,18-19
+Kévin Rodrigues,Real Sociedad,6.83,18-19
+Nélson Semedo,Barcelona,6.83,18-19
+Héctor Moreno,Real Sociedad,6.83,18-19
+Mikel Oyarzabal,Real Sociedad,6.83,18-19
+Álvaro Odriozola,Real Madrid,6.83,18-19
+Joris Gnagnon,Sevilla,6.83,18-19
+Aleix García,Girona FC,6.83,18-19
+Arthur,Barcelona,6.83,18-19
+Pablo Fornals,Villarreal,6.83,18-19
+Jaume Costa,Villarreal,6.83,18-19
+Óscar Melendo,Espanyol,6.83,18-19
+Javi Galán,Huesca,6.83,18-19
+Kiko Olivas,Real Valladolid,6.82,18-19
+Rubén Rochina,Levante UD,6.82,18-19
+Fernando Calero,Real Valladolid,6.82,18-19
+Rodri Tarín,Leganés,6.82,18-19
+Martin Braithwaite,Leganés,6.82,18-19
+Anaitz Arbilla,Eibar,6.82,18-19
+Óscar Plano,Real Valladolid,6.82,18-19
+Tomás Pina,Deportivo Alavés,6.82,18-19
+Álex Gallar,Huesca,6.82,18-19
+Moi Gómez,Huesca,6.82,18-19
+Diego Reyes,Leganés,6.82,18-19
+Dídac Vila,Espanyol,6.81,18-19
+Rubén Pérez,Leganés,6.81,18-19
+Joseba Zaldúa,Real Sociedad,6.81,18-19
+Sergio García,Espanyol,6.81,18-19
+Stefan Savić,Atlético Madrid,6.81,18-19
+Sergio Escudero,Sevilla,6.81,18-19
+Jordi Masip,Real Valladolid,6.81,18-19
+Thibaut Courtois,Real Madrid,6.8,18-19
+Ángel Rodríguez,Getafe,6.8,18-19
+José Luis Morales,Levante UD,6.8,18-19
+Nicola Sansone,Villarreal,6.8,18-19
+Martín Zubimendi,Real Sociedad,6.8,18-19
+Denis Suárez,Barcelona,6.8,18-19
+David Timor,Girona FC,6.8,18-19
+Jeison Murillo,Barcelona,6.8,18-19
+Rafinha Alcântara,Barcelona,6.8,18-19
+Maximilian Wöber,Sevilla,6.8,18-19
+Juanpe,Girona FC,6.8,18-19
+Mouctar Diakhaby,Valencia,6.8,18-19
+Cristian Rivera,Huesca,6.8,18-19
+David Juncà,Celta Vigo,6.8,18-19
+David Costas,Celta Vigo,6.79,18-19
+Jorge Pulido,Huesca,6.79,18-19
+Mikel Merino,Real Sociedad,6.79,18-19
+Gustavo Cabral,Celta Vigo,6.79,18-19
+Nacho Fernández,Real Madrid,6.79,18-19
+Igor Zubeldia,Real Sociedad,6.78,18-19
+Pau López,Real Betis,6.78,18-19
+Vasyl Kravets,Leganés,6.78,18-19
+Djené,Getafe,6.78,18-19
+Gerónimo Rulli,Real Sociedad,6.78,18-19
+Gorka Elustondo,Rayo Vallecano,6.78,18-19
+Rubén Duarte,Deportivo Alavés,6.78,18-19
+Federico Valverde,Real Madrid,6.78,18-19
+Santiago Cáseres,Villarreal,6.78,18-19
+David Ferreiro,Huesca,6.78,18-19
+Robin Le Normand,Real Sociedad,6.78,18-19
+Miguel Layún,Villarreal,6.78,18-19
+Sofiane Boufal,Celta Vigo,6.77,18-19
+Ferran Torres,Valencia,6.77,18-19
+Allan Nyom,Leganés,6.77,18-19
+Gabriel Mercado,Sevilla,6.77,18-19
+Luis Muriel,Sevilla,6.77,18-19
+Sandro Ramírez,Real Sociedad,6.77,18-19
+Enes Ünal,Real Valladolid,6.77,18-19
+Javi López,Espanyol,6.77,18-19
+Andrés Guardado,Real Betis,6.76,18-19
+Pione Sisto,Celta Vigo,6.76,18-19
+Kévin Gameiro,Valencia,6.76,18-19
+Óscar Duarte,Espanyol,6.76,18-19
+Luis Advíncula,Rayo Vallecano,6.76,18-19
+Markel Susaeta,Athletic Club,6.76,18-19
+Samuel Chukwueze,Villarreal,6.76,18-19
+Carles Aleñá,Barcelona,6.76,18-19
+Paulo Oliveira,Eibar,6.76,18-19
+Loren Morón,Real Betis,6.76,18-19
+Franco Vázquez,Sevilla,6.76,18-19
+Theo Hernández,Real Sociedad,6.75,18-19
+Portu,Girona FC,6.75,18-19
+Chema,Levante UD,6.75,18-19
+Dani García,Athletic Club,6.75,18-19
+Wu Lei,Espanyol,6.75,18-19
+Sanjin Prcić,Levante UD,6.75,18-19
+Sergio Álvarez,Eibar,6.75,18-19
+Tomáš Vaclík,Sevilla,6.75,18-19
+Kike García,Eibar,6.75,18-19
+Cristiano Piccini,Valencia,6.75,18-19
+Iván Cuéllar,Leganés,6.75,18-19
+Roque Mesa,Sevilla,6.75,18-19
+Róber Pier,Levante UD,6.75,18-19
+Francis Guerrero,Real Betis,6.75,18-19
+Carlos Soler,Valencia,6.75,18-19
+Nemanja Maksimović,Getafe,6.74,18-19
+Carlos Bacca,Villarreal,6.74,18-19
+Juanmi,Real Sociedad,6.74,18-19
+Facundo Roncaglia,Valencia,6.74,18-19
+Xabier Etxeita,Huesca,6.74,18-19
+Alfonso Pedraza,Villarreal,6.74,18-19
+Pablo Piatti,Espanyol,6.74,18-19
+Rodrigo Ely,Deportivo Alavés,6.74,18-19
+Ibrahim Amadou,Sevilla,6.74,18-19
+Mario Gaspar,Villarreal,6.74,18-19
+David Zurutuza,Real Sociedad,6.73,18-19
+Moises Delgado,Real Valladolid,6.73,18-19
+Joaquín Fernández,Real Valladolid,6.73,18-19
+Recio,Leganés,6.73,18-19
+Manu Trigueros,Villarreal,6.73,18-19
+Aleix Vidal,Sevilla,6.73,18-19
+Marc Cucurella,Eibar,6.73,18-19
+Ignasi Miquel,Getafe,6.73,18-19
+Toni Villa,Real Valladolid,6.72,18-19
+Giannelli Imbula,Rayo Vallecano,6.72,18-19
+Bruno González,Getafe,6.72,18-19
+Sergio Postigo,Levante UD,6.72,18-19
+Adrià Pedrosa,Espanyol,6.72,18-19
+Hugo Duro,Getafe,6.72,18-19
+Aihen Muñoz,Real Sociedad,6.72,18-19
+Alejandro Gálvez,Rayo Vallecano,6.72,18-19
+Borja Mayoral,Levante UD,6.71,18-19
+Daniele Verde,Real Valladolid,6.71,18-19
+Jon Bautista,Real Sociedad,6.71,18-19
+Gonzalo Escalante,Eibar,6.71,18-19
+Guilherme Arana,Sevilla,6.71,18-19
+Pedro León,Eibar,6.71,18-19
+Takashi Inui,Deportivo Alavés,6.71,18-19
+Óscar Trejo,Rayo Vallecano,6.71,18-19
+Mubarak Wakaso,Deportivo Alavés,6.71,18-19
+Mauro Arambarri,Getafe,6.7,18-19
+Waldo Rubio Marín,Real Valladolid,6.7,18-19
+Emmanuel Boateng,Levante UD,6.7,18-19
+Abel Ruíz,Barcelona,6.7,18-19
+El Hacen,Real Valladolid,6.7,18-19
+Francisco De La Manzanara,Levante UD,6.7,18-19
+Lluis Sastre,Huesca,6.7,18-19
+Marko Rog,Sevilla,6.7,18-19
+Rubén Blanco,Celta Vigo,6.7,18-19
+Javi Moyano,Real Valladolid,6.7,18-19
+Pedro Porro,Girona FC,6.69,18-19
+Stole Dimitrievski,Rayo Vallecano,6.69,18-19
+Aday Benítez,Girona FC,6.69,18-19
+Bebé,Rayo Vallecano,6.69,18-19
+Samu Sáiz,Getafe,6.69,18-19
+Stanislav Lobotka,Celta Vigo,6.69,18-19
+Juanpi Añor,Huesca,6.69,18-19
+Manu García,Deportivo Alavés,6.69,18-19
+Coke,Levante UD,6.69,18-19
+Santi Comesaña,Rayo Vallecano,6.68,18-19
+Álex Moreno,Rayo Vallecano,6.68,18-19
+Rúben Semedo,Huesca,6.68,18-19
+Miguel Ángel Moyà,Real Sociedad,6.68,18-19
+Dani Raba,Villarreal,6.68,18-19
+Enis Bardhi,Levante UD,6.68,18-19
+Hernán Pérez,Espanyol,6.68,18-19
+Jesús Vallejo,Real Madrid,6.68,18-19
+Junior Alonso,Celta Vigo,6.68,18-19
+Marko Dmitrović,Eibar,6.68,18-19
+Óscar de Marcos,Athletic Club,6.67,18-19
+Ángel Correa,Atlético Madrid,6.67,18-19
+Andoni Gorosabel,Real Sociedad,6.67,18-19
+Damián Musto,Huesca,6.67,18-19
+Nabil El Zhar,Leganés,6.67,18-19
+Borja Bastón,Deportivo Alavés,6.67,18-19
+Antonio Sanabria,Real Betis,6.67,18-19
+Bryan Gil,Sevilla,6.67,18-19
+Pablo Hervías,Real Valladolid,6.67,18-19
+Martín Aguirregabiria,Deportivo Alavés,6.67,18-19
+Alberto Garcia,Rayo Vallecano,6.66,18-19
+Fabián Orellana,Eibar,6.66,18-19
+John Guidetti,Deportivo Alavés,6.66,18-19
+Javi Guerra,Rayo Vallecano,6.66,18-19
+Carlos Akapo,Huesca,6.66,18-19
+Jozabed Sánchez,Celta Vigo,6.66,18-19
+Emerson Royal,Real Betis,6.66,18-19
+Sebastián Cristóforo,Getafe,6.66,18-19
+Xavi Quintilla,Villarreal,6.66,18-19
+Luca Sangalli,Real Sociedad,6.65,18-19
+Álvaro García,Rayo Vallecano,6.65,18-19
+Riqui Puig,Barcelona,6.65,18-19
+Unai López,Athletic Club,6.65,18-19
+Pablo Insua,Huesca,6.65,18-19
+Pablo De Blasis,Eibar,6.65,18-19
+Vitolo,Atlético Madrid,6.65,18-19
+Jason,Levante UD,6.65,18-19
+Rubén Sobrino,Valencia,6.65,18-19
+Iago Herrerín,Athletic Club,6.65,18-19
+Marc Cardona,Eibar,6.64,18-19
+Douglas Luiz,Girona FC,6.64,18-19
+Mikel Vesga,Leganés,6.64,18-19
+Toño,Levante UD,6.64,18-19
+Gerard Gumbau,Leganés,6.64,18-19
+Íñigo Lekue,Athletic Club,6.63,18-19
+Kevin Vázquez,Celta Vigo,6.63,18-19
+Nikola Kalinić,Atlético Madrid,6.63,18-19
+Pedro Bigas,Eibar,6.63,18-19
+Sabin Merino,Leganés,6.63,18-19
+Fran Beltrán,Celta Vigo,6.63,18-19
+Jesé Rodríguez,Real Betis,6.63,18-19
+Carles Planas,Girona FC,6.63,18-19
+Pedro López,Levante UD,6.63,18-19
+Jonas Ramalho,Girona FC,6.63,18-19
+Burgui,Deportivo Alavés,6.63,18-19
+Gelson Martins,Atlético Madrid,6.63,18-19
+Álex Alegría,Rayo Vallecano,6.63,18-19
+Pere Pons,Girona FC,6.62,18-19
+Anuar,Real Valladolid,6.62,18-19
+Valery Fernández,Girona FC,6.62,18-19
+Borja Fernández,Real Valladolid,6.62,18-19
+Keko,Real Valladolid,6.62,18-19
+Adrián Diéguez,Huesca,6.62,18-19
+Ander Capa,Athletic Club,6.62,18-19
+Michael Santos,Leganés,6.62,18-19
+Rober Ibáñez,Getafe,6.62,18-19
+Mikel San José,Athletic Club,6.62,18-19
+Facundo Ferreyra,Espanyol,6.61,18-19
+Seydou Doumbia,Girona FC,6.61,18-19
+Thomas Vermaelen,Barcelona,6.61,18-19
+Maxime Gonalons,Sevilla,6.61,18-19
+Leonardo Suárez,Real Valladolid,6.61,18-19
+Javi Puado,Espanyol,6.61,18-19
+Diego Rolán,Deportivo Alavés,6.61,18-19
+Antonio Luna,Levante UD,6.61,18-19
+José Pozo,Rayo Vallecano,6.6,18-19
+Ander Barrenetxea,Real Sociedad,6.6,18-19
+Kenan Kodro,Athletic Club,6.6,18-19
+Johan Mojica,Girona FC,6.6,18-19
+Carles Pérez,Barcelona,6.6,18-19
+Kang-in Lee,Valencia,6.6,18-19
+Moussa Wagué,Barcelona,6.6,18-19
+Camacho,Huesca,6.6,18-19
+Alejandro López,Espanyol,6.6,18-19
+Daniel Ojeda,Leganés,6.6,18-19
+Juan Aguilera,Huesca,6.6,18-19
+Miguelón,Villarreal,6.6,18-19
+Javi García,Real Betis,6.6,18-19
+Michy Batshuayi,Valencia,6.59,18-19
+Mathías Olivera,Getafe,6.59,18-19
+Iñigo Cordoba,Athletic Club,6.59,18-19
+Gonzalo Melero,Huesca,6.59,18-19
+Wilfrid Kaptoum,Real Betis,6.59,18-19
+Jordi Amat,Rayo Vallecano,6.59,18-19
+Darko Brašanac,Deportivo Alavés,6.59,18-19
+Dennis Eckert Ayensa,Celta Vigo,6.59,18-19
+Diego Lainez,Real Betis,6.58,18-19
+Francisco Portillo,Getafe,6.58,18-19
+Sergio Álvarez,Celta Vigo,6.58,18-19
+Duje Čop,Real Valladolid,6.57,18-19
+Antonio Barragán,Real Betis,6.57,18-19
+Aritz Aduriz,Athletic Club,6.57,18-19
+Jasper Cillessen,Barcelona,6.57,18-19
+Uche Agbo,Rayo Vallecano,6.57,18-19
+Francisco Montero,Atlético Madrid,6.57,18-19
+Carlos Vigaray,Deportivo Alavés,6.56,18-19
+Raphael Dwamena,Levante UD,6.56,18-19
+Patrick Twumasi,Deportivo Alavés,6.56,18-19
+Yangel Herrera,Huesca,6.56,18-19
+Stiven Plaza,Real Valladolid,6.55,18-19
+José Manuel Arnáiz,Leganés,6.55,18-19
+Javier Eraso,Leganés,6.55,18-19
+Samuele Longo,Huesca,6.55,18-19
+Moses Simon,Levante UD,6.54,18-19
+Emre Mor,Celta Vigo,6.54,18-19
+Sergio León,Real Betis,6.54,18-19
+Mikel Balenziaga,Athletic Club,6.54,18-19
+Diego Costa,Atlético Madrid,6.54,18-19
+Antoñito Regal,Real Valladolid,6.53,18-19
+Kevin-Prince Boateng,Barcelona,6.53,18-19
+Ander Iturraspe,Athletic Club,6.53,18-19
+Gaku Shibasaki,Getafe,6.53,18-19
+Asier Riesgo,Eibar,6.52,18-19
+Nikola Vukčević,Levante UD,6.52,18-19
+Anthony Lozano,Girona FC,6.52,18-19
+Luisinho,Huesca,6.52,18-19
+Víctor Sánchez,Espanyol,6.51,18-19
+Roberto López,Real Sociedad,6.5,18-19
+Álex Blanco,Deportivo Alavés,6.5,18-19
+Seung-Ho Paik,Girona FC,6.5,18-19
+Ezequiel Muñoz,Leganés,6.5,18-19
+Manuel Iturra,Villarreal,6.5,18-19
+Pere Milla,Eibar,6.5,18-19
+Javi Fuego,Villarreal,6.5,18-19
+Gorka Guruzeta,Athletic Club,6.5,18-19
+Mathias Jensen,Celta Vigo,6.5,18-19
+Erick Cabaco,Levante UD,6.5,18-19
+Patrick Roberts,Girona FC,6.49,18-19
+Andrew Hjulsager,Celta Vigo,6.49,18-19
+Gaël Kakuta,Rayo Vallecano,6.48,18-19
+Toni Lato,Valencia,6.48,18-19
+Mathieu Flamini,Getafe,6.47,18-19
+Dimitri Foulquier,Getafe,6.47,18-19
+Ivi López,Real Valladolid,6.47,18-19
+Antonio Sivera,Deportivo Alavés,6.47,18-19
+Franco Di Santo,Rayo Vallecano,6.47,18-19
+Serdar Gürler,Huesca,6.45,18-19
+Nolito,Sevilla,6.45,18-19
+Adrián Marín,Deportivo Alavés,6.43,18-19
+Unai Simón,Athletic Club,6.43,18-19
+Amath Ndiaye,Getafe,6.43,18-19
+Aleksandar Jovanović,Huesca,6.41,18-19
+Alex Collado,Barcelona,6.4,18-19
+Chris Ramos,Real Valladolid,6.4,18-19
+Javi Sánchez,Real Madrid,6.4,18-19
+Alexander Szymanowski,Leganés,6.4,18-19
+Javier Díaz,Sevilla,6.4,18-19
+Sergio Moreno,Rayo Vallecano,6.4,18-19
+Daniel Torres,Deportivo Alavés,6.4,18-19
+Emmanuel Apeh,Celta Vigo,6.4,18-19
+Miguel Marí,Eibar,6.4,18-19
+Markel Bergara,Getafe,6.4,18-19
+Tito,Rayo Vallecano,6.4,18-19
+Kévin Soni,Girona FC,6.38,18-19
+Sergio Akieme,Rayo Vallecano,6.35,18-19
+Mikel Rico,Athletic Club,6.35,18-19
+Lluís López,Espanyol,6.35,18-19
+Alfa Semedo,Espanyol,6.33,18-19
+Víctor Mollejo,Atlético Madrid,6.33,18-19
+Cristo González,Real Madrid,6.3,18-19
+Rajko Brežančić,Huesca,6.3,18-19
+Cheick Doukouré,Levante UD,6.22,18-19
+Leandro Chichizola,Getafe,6.2,18-19
+Cristian Ganea,Athletic Club,6.2,18-19
+Dorado,Rayo Vallecano,6.2,18-19
+Axel Werner,Huesca,6.15,18-19
+Luca Zidane,Real Madrid,6.1,18-19
+Yoel Rodríguez,Real Valladolid,5.93,18-19
+Iván Alejo,Getafe,5.43,18-19
+Martín Merquelanz,Real Sociedad,0.0,18-19
+Joaquín Muñoz,Atlético Madrid,0.0,18-19
+Jordi Calavera,Eibar,0.0,18-19
+Lionel Messi,Barcelona,8.43,19-20
+Toni Kroos,Real Madrid,7.49,19-20
+Karim Benzema,Real Madrid,7.48,19-20
+Koke,Levante UD,7.4,19-20
+Santi Cazorla,Villarreal,7.36,19-20
+Éver Banega,Sevilla,7.31,19-20
+Casemiro,Real Madrid,7.29,19-20
+James Rodríguez,Real Madrid,7.29,19-20
+Dani Parejo,Valencia,7.28,19-20
+Daniel Carvajal,Real Madrid,7.27,19-20
+Bono,Sevilla,7.27,19-20
+Gerard Moreno,Villarreal,7.25,19-20
+Aitor Fernández,Levante UD,7.25,19-20
+Sergio Ramos,Real Madrid,7.24,19-20
+Martin Ødegaard,Real Sociedad,7.23,19-20
+Sergio Busquets,Barcelona,7.23,19-20
+Marcelo,Real Madrid,7.2,19-20
+Oier Olazábal,Espanyol,7.2,19-20
+Aarón Escandell,Granada,7.2,19-20
+Kieran Trippier,Atlético Madrid,7.2,19-20
+Ángel Montoro,Granada,7.19,19-20
+Luis Suárez,Barcelona,7.17,19-20
+Chimy Ávila,Osasuna,7.15,19-20
+Sergio Canales,Real Betis,7.14,19-20
+Santiago Arias,Atlético Madrid,7.14,19-20
+José Campaña,Levante UD,7.13,19-20
+Gerard Piqué,Barcelona,7.12,19-20
+Nacho Fernández,Real Madrid,7.12,19-20
+Thibaut Courtois,Real Madrid,7.11,19-20
+Nabil Fekir,Real Betis,7.11,19-20
+Luka Modrić,Real Madrid,7.11,19-20
+Víctor García,Real Valladolid,7.1,19-20
+Moussa Wagué,Barcelona,7.1,19-20
+Guillermo Maripán,Deportivo Alavés,7.1,19-20
+José Antonio Caro,Real Valladolid,7.1,19-20
+Jesús Navas,Sevilla,7.1,19-20
+Iago Aspas,Celta Vigo,7.09,19-20
+Mikel Oyarzabal,Real Sociedad,7.09,19-20
+Rubén García,Osasuna,7.09,19-20
+Marco Asensio,Real Madrid,7.09,19-20
+Ferland Mendy,Real Madrid,7.09,19-20
+Koke,Atlético Madrid,7.09,19-20
+Rafinha Alcântara,Celta Vigo,7.09,19-20
+Joselu,Deportivo Alavés,7.09,19-20
+Thomas Partey,Atlético Madrid,7.09,19-20
+Jordi Alba,Barcelona,7.08,19-20
+Raphaël Varane,Real Madrid,7.08,19-20
+Sergio Asenjo,Villarreal,7.08,19-20
+Munir El Haddadi,Sevilla,7.07,19-20
+Eden Hazard,Real Madrid,7.07,19-20
+Jeison Murillo,Celta Vigo,7.07,19-20
+Šime Vrsaljko,Atlético Madrid,7.06,19-20
+Fernando,Sevilla,7.06,19-20
+Roberto Torres,Osasuna,7.06,19-20
+Antoine Griezmann,Barcelona,7.05,19-20
+Joan Jordán,Sevilla,7.04,19-20
+Saúl Ñíguez,Atlético Madrid,7.04,19-20
+Mikel Merino,Real Sociedad,7.03,19-20
+Arthur,Barcelona,7.03,19-20
+Salva Sevilla,Mallorca,7.03,19-20
+Víctor Díaz,Granada,7.03,19-20
+Yeray Álvarez,Athletic Club,7.03,19-20
+Héctor Herrera,Atlético Madrid,7.02,19-20
+Raúl García,Athletic Club,7.02,19-20
+Sergio Reguilón,Sevilla,7.02,19-20
+Joaquín,Real Betis,7.02,19-20
+Iñigo Martínez,Athletic Club,7.02,19-20
+Lucas Ocampos,Sevilla,7.01,19-20
+Diego Carlos,Sevilla,7.01,19-20
+Jaume Doménech,Valencia,7.01,19-20
+Iker Losada,Celta Vigo,7.0,19-20
+Sidnei,Real Betis,7.0,19-20
+Sébastien Corchia,Espanyol,7.0,19-20
+Yoel Rodríguez,Eibar,7.0,19-20
+Rubén Alcaraz,Real Valladolid,6.99,19-20
+Lucas Pérez,Deportivo Alavés,6.99,19-20
+José María Giménez,Atlético Madrid,6.99,19-20
+José Ángel,Eibar,6.99,19-20
+Jasper Cillessen,Valencia,6.99,19-20
+Sergi Roberto,Barcelona,6.99,19-20
+Clément Lenglet,Barcelona,6.99,19-20
+Unai López,Athletic Club,6.98,19-20
+Adrián Embarba,Espanyol,6.98,19-20
+Óscar Rodríguez,Leganés,6.98,19-20
+Frenkie de Jong,Barcelona,6.98,19-20
+Felipe,Atlético Madrid,6.98,19-20
+Isco,Real Madrid,6.97,19-20
+Yuri Berchiche,Athletic Club,6.97,19-20
+Darwin Machís,Granada,6.97,19-20
+Jules Koundé,Sevilla,6.97,19-20
+Nolito,Celta Vigo,6.96,19-20
+Marc Bartra,Real Betis,6.96,19-20
+Gareth Bale,Real Madrid,6.96,19-20
+Lucas Olaza,Celta Vigo,6.95,19-20
+Maximiliano Gómez,Valencia,6.95,19-20
+Pau Torres,Villarreal,6.95,19-20
+Gabriel Paulista,Valencia,6.95,19-20
+Raúl de Tomás,Espanyol,6.94,19-20
+Guido Rodríguez,Real Betis,6.94,19-20
+Unai García,Osasuna,6.94,19-20
+Roberto López,Real Sociedad,6.93,19-20
+Sergio Escudero,Sevilla,6.93,19-20
+Riqui Puig,Barcelona,6.93,19-20
+Mariano Díaz,Real Madrid,6.93,19-20
+Rúben Vezo,Levante UD,6.92,19-20
+Miguel Ángel Moyà,Real Sociedad,6.92,19-20
+Raúl Albiol,Villarreal,6.92,19-20
+Arturo Vidal,Barcelona,6.92,19-20
+Zouhair Feddal,Real Betis,6.92,19-20
+Toni Lato,Osasuna,6.91,19-20
+Jan Oblak,Atlético Madrid,6.91,19-20
+Aïssa Mandi,Real Betis,6.91,19-20
+Frank Anguissa,Villarreal,6.91,19-20
+Éder Militão,Real Madrid,6.91,19-20
+Iker Muniain,Athletic Club,6.91,19-20
+Ante Budimir,Mallorca,6.91,19-20
+Jason,Getafe,6.91,19-20
+Rodrigo,Valencia,6.9,19-20
+Álvaro Morata,Atlético Madrid,6.9,19-20
+Rui Silva,Granada,6.9,19-20
+Rubén Rochina,Levante UD,6.9,19-20
+Aridane Hernández,Osasuna,6.9,19-20
+Unai Vencedor,Athletic Club,6.9,19-20
+Germán Valera,Atlético Madrid,6.9,19-20
+Renan Lodi,Atlético Madrid,6.9,19-20
+Pedro Bigas,Eibar,6.9,19-20
+Marc-André ter Stegen,Barcelona,6.89,19-20
+Kévin Rodrigues,Leganés,6.89,19-20
+Ivan Rakitić,Barcelona,6.89,19-20
+Moi Gómez,Villarreal,6.89,19-20
+Álvaro Tejero,Eibar,6.89,19-20
+Suso,Sevilla,6.89,19-20
+Rubén Blanco,Celta Vigo,6.89,19-20
+Federico Valverde,Real Madrid,6.89,19-20
+Mohammed Salisu,Real Valladolid,6.89,19-20
+Enis Bardhi,Levante UD,6.88,19-20
+Damián Suárez,Getafe,6.88,19-20
+Ousmane Dembélé,Barcelona,6.88,19-20
+Jaime Mata,Getafe,6.88,19-20
+Stefan Savić,Atlético Madrid,6.88,19-20
+Paco Alcácer,Villarreal,6.88,19-20
+Nacho Vidal,Osasuna,6.88,19-20
+Geoffrey Kondogbia,Valencia,6.87,19-20
+Diego Costa,Atlético Madrid,6.87,19-20
+Néstor Araujo,Celta Vigo,6.87,19-20
+Tomáš Vaclík,Sevilla,6.87,19-20
+Luuk de Jong,Sevilla,6.87,19-20
+Manu Trigueros,Villarreal,6.87,19-20
+Emerson Royal,Real Betis,6.87,19-20
+Hugo Mallo,Celta Vigo,6.87,19-20
+Samuel Umtiti,Barcelona,6.87,19-20
+Roberto Jiménez,Deportivo Alavés,6.87,19-20
+Manolo Reina,Mallorca,6.86,19-20
+Yangel Herrera,Granada,6.86,19-20
+Enes Ünal,Real Valladolid,6.86,19-20
+Ángel Rodríguez,Getafe,6.86,19-20
+Unai Simón,Athletic Club,6.86,19-20
+Loren Morón,Real Betis,6.86,19-20
+Óliver Torres,Sevilla,6.85,19-20
+Nélson Semedo,Barcelona,6.85,19-20
+Sergio Herrera,Osasuna,6.85,19-20
+Kenneth Omeruo,Leganés,6.85,19-20
+Erick Cabaco,Getafe,6.85,19-20
+Robin Le Normand,Real Sociedad,6.85,19-20
+Jonathan Calleri,Espanyol,6.85,19-20
+Sergio Postigo,Levante UD,6.84,19-20
+Portu,Real Sociedad,6.84,19-20
+Roger Assalé,Leganés,6.84,19-20
+Leandro Cabrera,Espanyol,6.84,19-20
+Aleix Vidal,Deportivo Alavés,6.84,19-20
+Lucas Vázquez,Real Madrid,6.84,19-20
+Nacho Monreal,Real Sociedad,6.84,19-20
+Roger Martí,Levante UD,6.84,19-20
+Edu Expósito,Eibar,6.84,19-20
+Denis Suárez,Celta Vigo,6.83,19-20
+Ander Capa,Athletic Club,6.83,19-20
+Asier Illarramendi,Real Sociedad,6.83,19-20
+Lillo Castellano,Osasuna,6.83,19-20
+Pedro León,Eibar,6.83,19-20
+Germán Sánchez,Granada,6.83,19-20
+Álex Remiro,Real Sociedad,6.83,19-20
+Míchel Herrero,Real Valladolid,6.83,19-20
+Vicente Iborra,Villarreal,6.83,19-20
+Ezequiel Garay,Valencia,6.83,19-20
+Takefusa Kubo,Mallorca,6.83,19-20
+Paulo Oliveira,Eibar,6.83,19-20
+Domingos Duarte,Granada,6.83,19-20
+Maxime Gonalons,Granada,6.83,19-20
+Marc Cucurella,Getafe,6.82,19-20
+Joseba Zaldúa,Real Sociedad,6.82,19-20
+Aritz Elustondo,Real Sociedad,6.82,19-20
+Karl Toko Ekambi,Villarreal,6.82,19-20
+Iván Cuéllar,Leganés,6.82,19-20
+Rodrigo Ely,Deportivo Alavés,6.82,19-20
+Pione Sisto,Celta Vigo,6.82,19-20
+Unai Núñez,Athletic Club,6.82,19-20
+João Félix,Atlético Madrid,6.81,19-20
+Kiko Olivas,Real Valladolid,6.81,19-20
+Nacho Martínez,Real Valladolid,6.81,19-20
+Adnan Januzaj,Real Sociedad,6.81,19-20
+Pervis Estupiñán,Osasuna,6.81,19-20
+Marcos Llorente,Atlético Madrid,6.81,19-20
+Raúl Carnero,Real Valladolid,6.81,19-20
+Joseph Aidoo,Celta Vigo,6.81,19-20
+José Luis Gayà,Valencia,6.8,19-20
+Cucho Hernández,Mallorca,6.8,19-20
+Tomás Pina,Deportivo Alavés,6.8,19-20
+Unai Bustinza,Leganés,6.8,19-20
+Darío Poveda,Atlético Madrid,6.8,19-20
+Munas Dabbur,Sevilla,6.8,19-20
+Juan Pérez,Osasuna,6.8,19-20
+Matheus Fernandes,Real Valladolid,6.8,19-20
+Martín Zubimendi,Real Sociedad,6.8,19-20
+Kike García,Eibar,6.8,19-20
+Willian José,Real Sociedad,6.79,19-20
+Javier Avilés,Leganés,6.79,19-20
+Mauro Arambarri,Getafe,6.79,19-20
+Rubén Pérez,Leganés,6.79,19-20
+Carlos Fernández,Granada,6.79,19-20
+Borja Mayoral,Levante UD,6.79,19-20
+Mubarak Wakaso,Deportivo Alavés,6.79,19-20
+Martin Braithwaite,Barcelona,6.79,19-20
+Aleksandar Trajkovski,Mallorca,6.79,19-20
+Mouctar Diakhaby,Valencia,6.78,19-20
+David Soria,Getafe,6.78,19-20
+Óscar Plano,Real Valladolid,6.78,19-20
+Ronald Araújo,Barcelona,6.78,19-20
+Jorge Molina,Getafe,6.78,19-20
+Roberto Soldado,Granada,6.78,19-20
+Junior Firpo,Barcelona,6.78,19-20
+Dani Rodríguez,Mallorca,6.78,19-20
+Sandro Ramírez,Real Valladolid,6.78,19-20
+Nemanja Maksimović,Getafe,6.77,19-20
+Jordi Masip,Real Valladolid,6.77,19-20
+Jaume Costa,Valencia,6.77,19-20
+Santi Mina,Celta Vigo,6.77,19-20
+Vitolo,Atlético Madrid,6.77,19-20
+Víctor Camarasa,Deportivo Alavés,6.77,19-20
+Francis Coquelin,Valencia,6.77,19-20
+Roque Mesa,Leganés,6.77,19-20
+Sergi Guardiola,Real Valladolid,6.77,19-20
+Álvaro Vadillo,Granada,6.77,19-20
+Ferran Torres,Valencia,6.77,19-20
+Samuel Chukwueze,Villarreal,6.77,19-20
+Okay Yokuşlu,Celta Vigo,6.77,19-20
+Jorge Miramón,Levante UD,6.76,19-20
+Guido Carrillo,Leganés,6.76,19-20
+Dimitrios Siovas,Leganés,6.76,19-20
+Joaquín Fernández,Real Valladolid,6.76,19-20
+Javier Ontiveros,Villarreal,6.76,19-20
+Iñigo Pérez,Osasuna,6.76,19-20
+David Timor,Getafe,6.76,19-20
+Gonçalo Guedes,Valencia,6.76,19-20
+Marc Roca,Espanyol,6.75,19-20
+David García,Osasuna,6.75,19-20
+Luka Jović,Real Madrid,6.75,19-20
+Manu Morlanes,Villarreal,6.75,19-20
+Cristiano Piccini,Valencia,6.75,19-20
+Sergio Álvarez,Celta Vigo,6.75,19-20
+Igor Zubeldia,Real Sociedad,6.75,19-20
+Dimitri Foulquier,Granada,6.75,19-20
+Oier,Osasuna,6.74,19-20
+Iñaki Williams,Athletic Club,6.74,19-20
+Alessandro Florenzi,Valencia,6.74,19-20
+Róber,Eibar,6.74,19-20
+Sergi Gómez,Sevilla,6.74,19-20
+Fabián Orellana,Eibar,6.74,19-20
+Alexander Isak,Real Sociedad,6.74,19-20
+Pablo Hervías,Real Valladolid,6.74,19-20
+Fayçal Fajr,Getafe,6.74,19-20
+Xavi Quintilla,Villarreal,6.74,19-20
+Antonio Barragán,Real Betis,6.74,19-20
+Jon Moncayola,Osasuna,6.73,19-20
+Roberto Rosales,Leganés,6.73,19-20
+Diego López,Espanyol,6.73,19-20
+Fran Gámez,Mallorca,6.73,19-20
+Ibai Gómez,Athletic Club,6.73,19-20
+Djené,Getafe,6.73,19-20
+Marko Dmitrović,Eibar,6.73,19-20
+Javi Moyano,Real Valladolid,6.73,19-20
+Esteban Burgos,Eibar,6.73,19-20
+Youssef En-Nesyri,Sevilla,6.73,19-20
+Ansu Fati,Barcelona,6.73,19-20
+Mario Gaspar,Villarreal,6.73,19-20
+Thierry Correia,Valencia,6.73,19-20
+Ángel Correa,Atlético Madrid,6.72,19-20
+Andrés Guardado,Real Betis,6.72,19-20
+Quique,Eibar,6.72,19-20
+Chidozie Awaziem,Leganés,6.72,19-20
+Mario Hermoso,Atlético Madrid,6.72,19-20
+Xabier Etxeita,Getafe,6.72,19-20
+Charles Días,Eibar,6.72,19-20
+Aleix Febas,Mallorca,6.72,19-20
+Enric Gallego,Osasuna,6.72,19-20
+Rodrygo,Real Madrid,6.72,19-20
+Jonathan Silva,Leganés,6.72,19-20
+Mikel Balenziaga,Athletic Club,6.71,19-20
+Antoñito Regal,Real Valladolid,6.71,19-20
+Facundo Roncaglia,Osasuna,6.71,19-20
+Víctor Sánchez,Espanyol,6.71,19-20
+Rubén Sobrino,Valencia,6.71,19-20
+Gonzalo Escalante,Eibar,6.71,19-20
+Rubén Peña,Villarreal,6.71,19-20
+Daniel Wass,Valencia,6.71,19-20
+Fede Vico,Granada,6.71,19-20
+Franco Vázquez,Sevilla,6.7,19-20
+Antonio Raíllo,Mallorca,6.7,19-20
+Sergi Darder,Espanyol,6.7,19-20
+Martin Valjent,Mallorca,6.7,19-20
+Manu Vallejo,Valencia,6.7,19-20
+Sergi Enrich,Eibar,6.7,19-20
+Oghenekaro Etebo,Getafe,6.7,19-20
+Coke,Levante UD,6.7,19-20
+Alfonso Pedraza,Real Betis,6.7,19-20
+Naïs Djouahra,Real Sociedad,6.7,19-20
+Manuel Sánchez,Atlético Madrid,6.7,19-20
+Óscar Duarte,Levante UD,6.7,19-20
+Kevin Vázquez,Celta Vigo,6.7,19-20
+Anaitz Arbilla,Eibar,6.7,19-20
+Fran Mérida,Osasuna,6.7,19-20
+Esteban Granero,Espanyol,6.69,19-20
+Hernâni,Levante UD,6.69,19-20
+David López,Espanyol,6.69,19-20
+Nemanja Gudelj,Sevilla,6.69,19-20
+Adrián Ramos,Granada,6.69,19-20
+Hugo Guillamón,Valencia,6.68,19-20
+Kévin Gameiro,Valencia,6.68,19-20
+Diego Llorente,Real Sociedad,6.68,19-20
+Kenedy,Getafe,6.68,19-20
+Stanislav Lobotka,Celta Vigo,6.68,19-20
+Nemanja Radoja,Levante UD,6.68,19-20
+Carles Pérez,Barcelona,6.68,19-20
+Luca Sangalli,Real Sociedad,6.68,19-20
+Dídac Vila,Espanyol,6.68,19-20
+Fernando Pacheco,Deportivo Alavés,6.68,19-20
+Fernando Niño,Villarreal,6.68,19-20
+Bruno González,Levante UD,6.68,19-20
+José Antonio Martinez,Granada,6.67,19-20
+Borja Iglesias,Real Betis,6.67,19-20
+Bruno Soriano,Villarreal,6.67,19-20
+Gil Dias,Granada,6.67,19-20
+Ibrahim Amadou,Leganés,6.67,19-20
+Dani García,Athletic Club,6.67,19-20
+Francisco Portillo,Getafe,6.67,19-20
+Nicolás Melamed,Espanyol,6.67,19-20
+Vinícius Júnior,Real Madrid,6.67,19-20
+Alejandro Pozo,Mallorca,6.66,19-20
+Beñat Etxebarria,Athletic Club,6.66,19-20
+Alberto Moreno,Villarreal,6.66,19-20
+Carlos Clerc,Levante UD,6.66,19-20
+Ximo Navarro,Deportivo Alavés,6.66,19-20
+Joel Robles,Real Betis,6.66,19-20
+Kike Pérez,Real Valladolid,6.66,19-20
+Sebastián Cristóforo,Eibar,6.66,19-20
+Víctor Laguardia,Deportivo Alavés,6.66,19-20
+Bryan Gil,Leganés,6.66,19-20
+Raúl Navas,Osasuna,6.66,19-20
+Jesús Vallejo,Granada,6.66,19-20
+Toño,Levante UD,6.66,19-20
+Daniel Carriço,Sevilla,6.65,19-20
+Mathías Olivera,Getafe,6.65,19-20
+Pablo De Blasis,Eibar,6.65,19-20
+Carlos Bacca,Villarreal,6.65,19-20
+Papakouli Diop,Eibar,6.65,19-20
+Andrés Fernández,Villarreal,6.65,19-20
+Javi López,Espanyol,6.65,19-20
+Recio,Leganés,6.65,19-20
+Ander Guevara,Real Sociedad,6.65,19-20
+Rubén Duarte,Deportivo Alavés,6.65,19-20
+Naldo,Espanyol,6.64,19-20
+Thomas Lemar,Atlético Madrid,6.64,19-20
+Hugo Duro,Getafe,6.64,19-20
+Nikola Vukčević,Levante UD,6.63,19-20
+Pablo Piatti,Espanyol,6.63,19-20
+Mikel Vesga,Athletic Club,6.63,19-20
+Adrián López,Osasuna,6.63,19-20
+Gonzalo Melero,Levante UD,6.63,19-20
+Alphonse Aréola,Real Madrid,6.63,19-20
+Iván Villar,Celta Vigo,6.63,19-20
+Juan Hernández García,Celta Vigo,6.63,19-20
+Mikel San José,Athletic Club,6.63,19-20
+Asier Villalibre,Athletic Club,6.62,19-20
+Álex Moreno,Real Betis,6.62,19-20
+Aritz Aduriz,Athletic Club,6.62,19-20
+Iñigo Cordoba,Athletic Club,6.62,19-20
+Deyverson,Getafe,6.62,19-20
+Darko Brašanac,Osasuna,6.62,19-20
+Bernardo Espinosa,Espanyol,6.62,19-20
+Miguel de la Fuente,Real Valladolid,6.62,19-20
+José Manuel Arnáiz,Osasuna,6.62,19-20
+Wu Lei,Espanyol,6.62,19-20
+Matías Vargas,Espanyol,6.62,19-20
+Cristian Tello,Real Betis,6.61,19-20
+Yannick Carrasco,Atlético Madrid,6.61,19-20
+Xisco Campos,Mallorca,6.61,19-20
+Kenan Kodro,Athletic Club,6.61,19-20
+Lumor Agbenyenu,Mallorca,6.61,19-20
+Aleksandar Sedlar,Mallorca,6.61,19-20
+Andoni Gorosabel,Real Sociedad,6.61,19-20
+Aihen Muñoz,Real Sociedad,6.61,19-20
+Antonio Puertas,Granada,6.6,19-20
+Fedor Smolov,Celta Vigo,6.6,19-20
+Juan Villar,Osasuna,6.6,19-20
+Facundo Ferreyra,Espanyol,6.6,19-20
+Alex Collado,Barcelona,6.6,19-20
+Antonio Adán,Atlético Madrid,6.6,19-20
+Sergio Bermejo,Celta Vigo,6.6,19-20
+Álex Martínez,Granada,6.6,19-20
+Mario Rodriguez,Granada,6.6,19-20
+Jean-Clair Todibo,Barcelona,6.6,19-20
+Abdul Rahman Baba,Mallorca,6.6,19-20
+Miguel Atienza,Eibar,6.6,19-20
+Cristian Rivera,Leganés,6.6,19-20
+Josep Señé,Mallorca,6.6,19-20
+Pipa,Espanyol,6.6,19-20
+Fede San Emeterio,Real Valladolid,6.6,19-20
+Iddrisu Baba,Mallorca,6.6,19-20
+Carlos Soler,Valencia,6.6,19-20
+Waldo Rubio Marín,Real Valladolid,6.59,19-20
+Yan Eteki,Granada,6.59,19-20
+Ramon Azeez,Granada,6.59,19-20
+Takashi Inui,Eibar,6.59,19-20
+Carles Aleñá,Real Betis,6.59,19-20
+Marc Cardona,Osasuna,6.58,19-20
+Óscar de Marcos,Athletic Club,6.58,19-20
+Carlos Neva,Granada,6.58,19-20
+Brahim Díaz,Real Madrid,6.58,19-20
+Ramiro Funes Mori,Villarreal,6.58,19-20
+José Luis Morales,Levante UD,6.58,19-20
+Kike Barja,Osasuna,6.58,19-20
+Róber Pier,Levante UD,6.58,19-20
+İsmail Köybaşı,Granada,6.58,19-20
+John Guidetti,Deportivo Alavés,6.58,19-20
+Antoñín,Granada,6.57,19-20
+Kang-in Lee,Valencia,6.57,19-20
+Oihan Sancet,Athletic Club,6.57,19-20
+Oliver Burke,Deportivo Alavés,6.57,19-20
+Javier Hernández,Sevilla,6.57,19-20
+Pablo Chavarría,Mallorca,6.57,19-20
+Aitor Ruibal,Leganés,6.56,19-20
+Rubén Martínez,Osasuna,6.56,19-20
+Miguel Ángel Guerrero,Leganés,6.56,19-20
+Brais Méndez,Celta Vigo,6.56,19-20
+Iván Ramis,Eibar,6.55,19-20
+Javi Sánchez,Real Valladolid,6.55,19-20
+Neto,Barcelona,6.55,19-20
+Sabin Merino,Leganés,6.55,19-20
+Jacobo González,Celta Vigo,6.55,19-20
+Chema,Getafe,6.55,19-20
+Yannis Salibur,Mallorca,6.55,19-20
+Rony Lopes,Sevilla,6.55,19-20
+Edgar González,Real Betis,6.55,19-20
+Diego Lainez,Real Betis,6.55,19-20
+Lago Júnior,Mallorca,6.55,19-20
+Fran Beltrán,Celta Vigo,6.55,19-20
+Denis Cheryshev,Valencia,6.54,19-20
+Federico Barba,Real Valladolid,6.54,19-20
+Juanmi,Real Betis,6.54,19-20
+Ander Barrenetxea,Real Sociedad,6.53,19-20
+Jorge de Frutos,Real Valladolid,6.53,19-20
+Abdallahi Mahmoud,Deportivo Alavés,6.53,19-20
+David Costas,Celta Vigo,6.53,19-20
+Adrián Marín,Deportivo Alavés,6.53,19-20
+Óscar Melendo,Espanyol,6.53,19-20
+Quini,Granada,6.53,19-20
+Rodri Tarín,Leganés,6.53,19-20
+Anuar,Real Valladolid,6.53,19-20
+Lisandro Magallán,Deportivo Alavés,6.53,19-20
+Allan Nyom,Getafe,6.53,19-20
+Joan Sastre,Mallorca,6.53,19-20
+Álvaro Odriozola,Real Madrid,6.53,19-20
+Pedro Porro,Real Valladolid,6.52,19-20
+William Carvalho,Real Betis,6.52,19-20
+Adrià Pedrosa,Espanyol,6.52,19-20
+Luis Rioja,Deportivo Alavés,6.52,19-20
+Eliaquim Mangala,Valencia,6.51,19-20
+Sergio León,Levante UD,6.51,19-20
+Rober Ibáñez,Osasuna,6.51,19-20
+Victor Gómez,Espanyol,6.51,19-20
+Martín Aguirregabiria,Deportivo Alavés,6.5,19-20
+Luka Romero,Mallorca,6.5,19-20
+Alejandro Baena,Villarreal,6.5,19-20
+Rodrigo Riquelme,Atlético Madrid,6.5,19-20
+Aimar Oroz,Osasuna,6.5,19-20
+Vitorino Antunes,Getafe,6.5,19-20
+Javi Martínez,Osasuna,6.5,19-20
+Miguel Marí,Eibar,6.5,19-20
+Joan Monterde,Levante UD,6.5,19-20
+Sergio Camello,Atlético Madrid,6.5,19-20
+Luis Perea,Osasuna,6.5,19-20
+David Juncà,Celta Vigo,6.5,19-20
+Wilfrid Kaptoum,Real Betis,6.5,19-20
+Pol Lozano,Espanyol,6.5,19-20
+Álex Alegría,Mallorca,6.5,19-20
+Alberto Rodríguez,Deportivo Alavés,6.5,19-20
+Javi García,Real Betis,6.5,19-20
+Víctor Campuzano,Espanyol,6.5,19-20
+Pape Cheikh,Celta Vigo,6.49,19-20
+Pere Pons,Deportivo Alavés,6.49,19-20
+Brandon Thomas,Osasuna,6.49,19-20
+Sergio Álvarez,Eibar,6.49,19-20
+Lluís López,Espanyol,6.48,19-20
+Ander Iturraspe,Espanyol,6.48,19-20
+Fernando Calero,Espanyol,6.47,19-20
+Amath Ndiaye,Getafe,6.47,19-20
+Rafa Soares,Eibar,6.47,19-20
+Dani Martín,Real Betis,6.47,19-20
+Javier Eraso,Leganés,6.46,19-20
+Edgar Méndez,Deportivo Alavés,6.46,19-20
+Ljubomir Fejsa,Deportivo Alavés,6.46,19-20
+Gabriel Fernández,Celta Vigo,6.46,19-20
+Abdón Prats,Mallorca,6.46,19-20
+Juan Soriano,Leganés,6.45,19-20
+Íñigo Lekue,Athletic Club,6.45,19-20
+Aridai Cabrera,Mallorca,6.45,19-20
+Filip Bradarić,Celta Vigo,6.44,19-20
+Gaizka Larrazabal,Athletic Club,6.41,19-20
+Jon Pacheco,Real Sociedad,6.4,19-20
+Kévin Soni,Espanyol,6.4,19-20
+Miquel Parera,Mallorca,6.4,19-20
+Gonzalo Pereira,Levante UD,6.4,19-20
+Leonardo Koutris,Mallorca,6.4,19-20
+Markel Bergara,Getafe,6.4,19-20
+Ismael Gutiérrez,Deportivo Alavés,6.4,19-20
+Marc Navarro,Leganés,6.4,19-20
+Hatem Ben Arfa,Real Valladolid,6.4,19-20
+David Zurutuza,Real Sociedad,6.4,19-20
+Toni Villa,Real Valladolid,6.39,19-20
+Borja Sainz,Deportivo Alavés,6.38,19-20
+Iago Herrerín,Athletic Club,6.38,19-20
+Manu García,Deportivo Alavés,6.37,19-20
+Antonio Sivera,Deportivo Alavés,6.37,19-20
+Manu Garrido,Leganés,6.37,19-20
+Raúl García de Haro,Real Betis,6.35,19-20
+Paulino de la Fuente,Deportivo Alavés,6.33,19-20
+Marc Pedraza,Mallorca,6.33,19-20
+Javier Muñoz,Deportivo Alavés,6.3,19-20
+Ivan Šaponjić,Atlético Madrid,6.3,19-20
+Burgui,Deportivo Alavés,6.3,19-20
+Vicente Esquerdo,Valencia,6.25,19-20
+Pablo Martínez,Levante UD,6.25,19-20
+Rafael Obrador,Mallorca,6.2,19-20
+José Luis Rodríguez,Deportivo Alavés,6.2,19-20
+Alex Blesa,Levante UD,6.2,19-20
+Soufiane Chakla,Villarreal,6.2,19-20
+Adrián Guerrero,Valencia,6.2,19-20
+Jorge Sáenz,Celta Vigo,6.13,19-20
+Javi López,Deportivo Alavés,6.1,19-20
+Samuel Pérez,Real Valladolid,6.1,19-20
+Sung-Yueng Ki,Mallorca,5.9,19-20
+Fabri,Mallorca,5.3,19-20
+Eliseo Falcón,Levante UD,5.0,19-20
+Andrés Prieto,Espanyol,0.0,19-20
+Giorgi Kochorashvili,Levante UD,0.0,19-20
+Toni Moya,Atlético Madrid,0.0,19-20
+Óscar Clemente,Atlético Madrid,0.0,19-20
+Florent Poulolo,Getafe,0.0,19-20
+Lionel Messi,Barcelona,8.33,20-21
+Ángel Jiménez,Granada,8.0,20-21
+Toni Kroos,Real Madrid,7.68,20-21
+Gerard Moreno,Villarreal,7.56,20-21
+Iago Aspas,Celta Vigo,7.46,20-21
+Karim Benzema,Real Madrid,7.44,20-21
+Ansu Fati,Barcelona,7.34,20-21
+Dani Parejo,Villarreal,7.34,20-21
+Luka Modrić,Real Madrid,7.31,20-21
+Kieran Trippier,Atlético Madrid,7.29,20-21
+Carlos Soler,Valencia,7.29,20-21
+Casemiro,Real Madrid,7.27,20-21
+Thomas Partey,Atlético Madrid,7.27,20-21
+Lucas Vázquez,Real Madrid,7.25,20-21
+Luis Suárez,Atlético Madrid,7.25,20-21
+Sergio Ramos,Real Madrid,7.25,20-21
+Antoine Griezmann,Barcelona,7.24,20-21
+Sergio Canales,Real Betis,7.22,20-21
+José Campaña,Levante UD,7.21,20-21
+Mikel Oyarzabal,Real Sociedad,7.21,20-21
+Marcos Llorente,Atlético Madrid,7.21,20-21
+Diego Llorente,Real Sociedad,7.2,20-21
+Víctor Chust,Real Madrid,7.2,20-21
+Jordi Alba,Barcelona,7.19,20-21
+Jan Oblak,Atlético Madrid,7.17,20-21
+Frenkie de Jong,Barcelona,7.16,20-21
+Javi Galán,Huesca,7.14,20-21
+David Silva,Real Sociedad,7.13,20-21
+Jasper Cillessen,Valencia,7.13,20-21
+Mikel Merino,Real Sociedad,7.13,20-21
+Suso,Sevilla,7.12,20-21
+Jesús Navas,Sevilla,7.12,20-21
+Joselu,Deportivo Alavés,7.12,20-21
+Kike García,Eibar,7.11,20-21
+Sergio Barcia,Granada,7.1,20-21
+Jonathan Carmona,Elche,7.1,20-21
+Daniel Carvajal,Real Madrid,7.08,20-21
+Jules Koundé,Sevilla,7.08,20-21
+Raphaël Varane,Real Madrid,7.06,20-21
+Yannick Carrasco,Atlético Madrid,7.06,20-21
+Sergio Busquets,Barcelona,7.06,20-21
+Iñigo Vicente,Athletic Club,7.05,20-21
+Thibaut Courtois,Real Madrid,7.05,20-21
+Fernando,Sevilla,7.05,20-21
+Róber,Eibar,7.05,20-21
+Bryan Gil,Eibar,7.04,20-21
+Ousmane Dembélé,Barcelona,7.04,20-21
+Adnan Januzaj,Real Sociedad,7.04,20-21
+Stefan Savić,Atlético Madrid,7.03,20-21
+Federico Valverde,Real Madrid,7.03,20-21
+Gabriel Paulista,Valencia,7.02,20-21
+Thomas Lemar,Atlético Madrid,7.02,20-21
+Alexander Isak,Real Sociedad,7.02,20-21
+Guido Rodríguez,Real Betis,7.02,20-21
+Bono,Sevilla,7.02,20-21
+Gerard Piqué,Barcelona,7.01,20-21
+Felipe,Atlético Madrid,7.01,20-21
+Lucas Pérez,Deportivo Alavés,7.01,20-21
+José María Giménez,Atlético Madrid,7.01,20-21
+Joan Jordán,Sevilla,7.01,20-21
+Rubén García,Osasuna,7.0,20-21
+Pau Torres,Villarreal,7.0,20-21
+Renan Lodi,Atlético Madrid,7.0,20-21
+Jawad El Yamiq,Real Valladolid,6.99,20-21
+Sergi Roberto,Barcelona,6.99,20-21
+Ronald Araújo,Barcelona,6.99,20-21
+Iker Muniain,Athletic Club,6.99,20-21
+Diego Carlos,Sevilla,6.99,20-21
+Marcelo,Real Madrid,6.99,20-21
+Aïssa Mandi,Real Betis,6.98,20-21
+Koke,Atlético Madrid,6.98,20-21
+Youssef En-Nesyri,Sevilla,6.98,20-21
+Willian José,Real Sociedad,6.97,20-21
+João Félix,Atlético Madrid,6.97,20-21
+Maximiliano Gómez,Valencia,6.97,20-21
+Mario Hermoso,Atlético Madrid,6.97,20-21
+Sergio Herrera,Osasuna,6.97,20-21
+Papu Gómez,Sevilla,6.96,20-21
+Óscar Mingueza,Barcelona,6.96,20-21
+Florian Lejeune,Deportivo Alavés,6.96,20-21
+Marco Asensio,Real Madrid,6.96,20-21
+Aritz Elustondo,Real Sociedad,6.96,20-21
+Sergio Escudero,Sevilla,6.96,20-21
+Sandro Ramírez,Huesca,6.96,20-21
+Emerson Royal,Real Betis,6.95,20-21
+Mario Gaspar,Villarreal,6.95,20-21
+Lucas Ocampos,Sevilla,6.95,20-21
+Philippe Coutinho,Barcelona,6.95,20-21
+Luis Milla,Granada,6.95,20-21
+Álvaro Tejero,Eibar,6.95,20-21
+Antonio Blanco,Real Madrid,6.95,20-21
+Gonçalo Guedes,Valencia,6.95,20-21
+Daniel Wass,Valencia,6.94,20-21
+Ilaix Moriba,Barcelona,6.94,20-21
+Neto,Barcelona,6.94,20-21
+Ferland Mendy,Real Madrid,6.93,20-21
+Nabil Fekir,Real Betis,6.93,20-21
+David Ferreiro,Huesca,6.93,20-21
+Unai Núñez,Athletic Club,6.93,20-21
+Marcos Acuña,Sevilla,6.93,20-21
+Ángel Montoro,Granada,6.93,20-21
+Ángel Correa,Atlético Madrid,6.93,20-21
+Kang-in Lee,Valencia,6.93,20-21
+Lucas Olaza,Real Valladolid,6.93,20-21
+Nacho Fernández,Real Madrid,6.93,20-21
+Dani Cárdenas,Levante UD,6.93,20-21
+Joaquín,Real Betis,6.92,20-21
+Claudio Bravo,Real Betis,6.92,20-21
+Aleix Vidal,Sevilla,6.92,20-21
+Santi Mina,Celta Vigo,6.92,20-21
+Unai López,Athletic Club,6.92,20-21
+Éder Militão,Real Madrid,6.91,20-21
+Álvaro Negredo,Cádiz,6.9,20-21
+Denis Suárez,Celta Vigo,6.9,20-21
+Eden Hazard,Real Madrid,6.9,20-21
+Mauro Arambarri,Getafe,6.9,20-21
+Diego Costa,Atlético Madrid,6.9,20-21
+Vicente Esquerdo,Valencia,6.9,20-21
+Aarón Escandell,Granada,6.9,20-21
+Sergi Gómez,Sevilla,6.9,20-21
+Juan Iglesias,Getafe,6.9,20-21
+Álex Berenguer,Athletic Club,6.9,20-21
+Fidel,Elche,6.9,20-21
+Édgar Badía,Elche,6.9,20-21
+Jaume Doménech,Valencia,6.9,20-21
+Rubén Rochina,Levante UD,6.9,20-21
+Yeray Álvarez,Athletic Club,6.9,20-21
+Munir El Haddadi,Sevilla,6.9,20-21
+José Luis Morales,Levante UD,6.89,20-21
+Nolito,Celta Vigo,6.89,20-21
+Dimitrios Siovas,Huesca,6.89,20-21
+Álvaro Fernández,Huesca,6.89,20-21
+Roger Martí,Levante UD,6.89,20-21
+Héctor Herrera,Atlético Madrid,6.89,20-21
+Rubén Duarte,Deportivo Alavés,6.89,20-21
+Rafa Mir,Huesca,6.89,20-21
+Pedri,Barcelona,6.89,20-21
+Javier Ontiveros,Huesca,6.89,20-21
+Vicente Iborra,Villarreal,6.88,20-21
+Renato Tapia,Celta Vigo,6.88,20-21
+Gonzalo Verdú,Elche,6.88,20-21
+David García,Osasuna,6.88,20-21
+Pablo Maffeo,Huesca,6.88,20-21
+Edu Expósito,Eibar,6.87,20-21
+Yuri Berchiche,Athletic Club,6.87,20-21
+Guido Carrillo,Elche,6.87,20-21
+Álex Fernández,Cádiz,6.87,20-21
+Saúl Ñíguez,Atlético Madrid,6.87,20-21
+Gonzalo Melero,Levante UD,6.87,20-21
+Raúl Albiol,Villarreal,6.87,20-21
+Roberto López,Real Sociedad,6.87,20-21
+Ante Budimir,Osasuna,6.87,20-21
+Marc-André ter Stegen,Barcelona,6.86,20-21
+Clément Lenglet,Barcelona,6.86,20-21
+Borja Iglesias,Real Betis,6.86,20-21
+Samuel Umtiti,Barcelona,6.86,20-21
+Manu Trigueros,Villarreal,6.86,20-21
+Óscar Plano,Real Valladolid,6.86,20-21
+Esteban Burgos,Eibar,6.85,20-21
+Junior Firpo,Barcelona,6.85,20-21
+Alberto Perea,Cádiz,6.85,20-21
+Martín Zubimendi,Real Sociedad,6.85,20-21
+Álvaro Odriozola,Real Madrid,6.85,20-21
+Carles Aleñá,Getafe,6.85,20-21
+Cristian Tello,Real Betis,6.84,20-21
+Ivan Rakitić,Sevilla,6.84,20-21
+Djené,Getafe,6.84,20-21
+Aridane Hernández,Osasuna,6.84,20-21
+Miralem Pjanić,Barcelona,6.84,20-21
+Rodrygo,Real Madrid,6.84,20-21
+Asier Illarramendi,Real Sociedad,6.83,20-21
+Iñigo Martínez,Athletic Club,6.83,20-21
+Robin Le Normand,Real Sociedad,6.83,20-21
+Andoni Gorosabel,Real Sociedad,6.83,20-21
+Enes Ünal,Getafe,6.83,20-21
+Geoffrey Kondogbia,Atlético Madrid,6.83,20-21
+Pedro León,Eibar,6.82,20-21
+Paulo Oliveira,Eibar,6.82,20-21
+Iza Carcelén,Cádiz,6.82,20-21
+Igor Zubeldia,Real Sociedad,6.82,20-21
+Mickaël Malsa,Levante UD,6.82,20-21
+Sergio Asenjo,Villarreal,6.82,20-21
+Nacho Monreal,Real Sociedad,6.82,20-21
+Facundo Roncaglia,Osasuna,6.82,20-21
+Aleix García,Eibar,6.82,20-21
+Riqui Puig,Barcelona,6.82,20-21
+Roque Mesa,Real Valladolid,6.82,20-21
+Lucas Torró,Osasuna,6.82,20-21
+Nacho Vidal,Osasuna,6.82,20-21
+Uroš Račić,Valencia,6.81,20-21
+Hugo Guillamón,Valencia,6.81,20-21
+Pablo Hervías,Real Valladolid,6.81,20-21
+Rafa Soares,Eibar,6.81,20-21
+Ramiro Funes Mori,Villarreal,6.81,20-21
+Ander Guevara,Real Sociedad,6.81,20-21
+Darwin Machís,Granada,6.81,20-21
+Óliver Torres,Sevilla,6.81,20-21
+Jorge Molina,Granada,6.81,20-21
+Yéremy Pino,Villarreal,6.81,20-21
+José Luis Gayà,Valencia,6.81,20-21
+Rubén Sobrino,Cádiz,6.81,20-21
+Pervis Estupiñán,Villarreal,6.8,20-21
+Roberto Torres,Osasuna,6.8,20-21
+Hugo Mallo,Celta Vigo,6.8,20-21
+Rodrigo Ely,Deportivo Alavés,6.8,20-21
+Carlos Clerc,Levante UD,6.8,20-21
+Martín Merquelanz,Real Sociedad,6.8,20-21
+Jon Pacheco,Real Sociedad,6.8,20-21
+Antonio Sivera,Deportivo Alavés,6.8,20-21
+Manuel Nieto,Cádiz,6.8,20-21
+Alfon González,Celta Vigo,6.8,20-21
+Juan Pérez,Osasuna,6.8,20-21
+Carlos Domínguez,Celta Vigo,6.8,20-21
+Iván Villar,Celta Vigo,6.8,20-21
+Raúl García,Athletic Club,6.8,20-21
+Jonathan Calleri,Osasuna,6.8,20-21
+Cucho Hernández,Getafe,6.8,20-21
+Jorge Pulido,Huesca,6.79,20-21
+Recio,Eibar,6.79,20-21
+Thierry Correia,Valencia,6.79,20-21
+Paco Alcácer,Villarreal,6.79,20-21
+Víctor Ruiz,Real Betis,6.79,20-21
+Antonio Barragán,Elche,6.79,20-21
+David Soria,Getafe,6.79,20-21
+Anaitz Arbilla,Eibar,6.79,20-21
+Álex Moreno,Real Betis,6.79,20-21
+Iñaki Williams,Athletic Club,6.79,20-21
+Álex Remiro,Real Sociedad,6.79,20-21
+Andrés Guardado,Real Betis,6.79,20-21
+Moi Gómez,Villarreal,6.78,20-21
+Josema,Elche,6.78,20-21
+Karim Rekik,Sevilla,6.78,20-21
+Étienne Capoue,Villarreal,6.78,20-21
+Juan Foyth,Villarreal,6.78,20-21
+Jeison Murillo,Celta Vigo,6.78,20-21
+Shon Weissman,Real Valladolid,6.78,20-21
+José Mari,Cádiz,6.77,20-21
+Mathías Olivera,Getafe,6.77,20-21
+Javi Martínez,Osasuna,6.77,20-21
+Yangel Herrera,Granada,6.77,20-21
+Rúben Vezo,Levante UD,6.77,20-21
+Jorge Miramón,Levante UD,6.77,20-21
+Sergi Enrich,Eibar,6.77,20-21
+Eugeni Valderrama,Huesca,6.77,20-21
+Jon Moncayola,Osasuna,6.76,20-21
+Luuk de Jong,Sevilla,6.76,20-21
+Vinícius Júnior,Real Madrid,6.76,20-21
+Samuel Chukwueze,Villarreal,6.76,20-21
+Rubén Alcaraz,Real Valladolid,6.76,20-21
+José Ángel,Eibar,6.76,20-21
+Augusto Solari,Celta Vigo,6.76,20-21
+Joaquín Fernández,Real Valladolid,6.76,20-21
+Brais Méndez,Celta Vigo,6.76,20-21
+Carlos Bacca,Villarreal,6.75,20-21
+Juan Miranda,Real Betis,6.75,20-21
+Jorge de Frutos,Levante UD,6.75,20-21
+Róber Pier,Levante UD,6.75,20-21
+Óscar Duarte,Levante UD,6.75,20-21
+Mouctar Diakhaby,Valencia,6.75,20-21
+Miguel Gutiérrez,Real Madrid,6.75,20-21
+Borja García,Huesca,6.75,20-21
+Nemanja Maksimović,Getafe,6.75,20-21
+Jens Jønsson,Cádiz,6.75,20-21
+Ivan Šaponjić,Cádiz,6.74,20-21
+Dani García,Athletic Club,6.74,20-21
+Šime Vrsaljko,Atlético Madrid,6.74,20-21
+Fali,Cádiz,6.74,20-21
+Marc Cucurella,Getafe,6.74,20-21
+Isco,Real Madrid,6.74,20-21
+Aitor Fernández,Levante UD,6.74,20-21
+Ximo Navarro,Deportivo Alavés,6.74,20-21
+Diego González,Elche,6.74,20-21
+Pere Milla,Elche,6.74,20-21
+Luis Javier Suárez,Granada,6.74,20-21
+Pedro López,Huesca,6.74,20-21
+Alfonso Espino,Cádiz,6.74,20-21
+Jon Morcillo,Athletic Club,6.74,20-21
+Ander Capa,Athletic Club,6.74,20-21
+Alfonso Pedraza,Villarreal,6.74,20-21
+Enis Bardhi,Levante UD,6.73,20-21
+Roberto Soldado,Granada,6.73,20-21
+Carlos Akapo,Cádiz,6.73,20-21
+Papakouli Diop,Eibar,6.73,20-21
+Sidnei,Real Betis,6.73,20-21
+Juan Cala,Cádiz,6.73,20-21
+Asier Villalibre,Athletic Club,6.73,20-21
+Pablo Insua,Huesca,6.73,20-21
+Marko Dmitrović,Eibar,6.73,20-21
+Domingos Quina,Granada,6.73,20-21
+Alejandro Baena,Villarreal,6.73,20-21
+Kike Barja,Osasuna,6.72,20-21
+Sergiño Dest,Barcelona,6.72,20-21
+Deyverson,Deportivo Alavés,6.72,20-21
+Francis Coquelin,Villarreal,6.72,20-21
+Marcos André,Real Valladolid,6.72,20-21
+Martin Ødegaard,Real Madrid,6.72,20-21
+Nemanja Gudelj,Sevilla,6.72,20-21
+Toni Villa,Real Valladolid,6.71,20-21
+Portu,Real Sociedad,6.71,20-21
+Dani Calvo,Elche,6.71,20-21
+Paul Akouokou,Real Betis,6.71,20-21
+Néstor Araujo,Celta Vigo,6.71,20-21
+Kenedy,Granada,6.71,20-21
+Marc Bartra,Real Betis,6.71,20-21
+Óscar Rodríguez,Sevilla,6.71,20-21
+Joseph Aidoo,Celta Vigo,6.71,20-21
+Josan,Elche,6.71,20-21
+Coke,Levante UD,6.71,20-21
+Rubén Peña,Villarreal,6.71,20-21
+Lucas Torreira,Atlético Madrid,6.71,20-21
+Mikel Balenziaga,Athletic Club,6.7,20-21
+Fran Beltrán,Celta Vigo,6.7,20-21
+Tete Morente,Elche,6.7,20-21
+William Carvalho,Real Betis,6.7,20-21
+Kuki Zalazar,Real Valladolid,6.7,20-21
+Marvin Park,Real Madrid,6.7,20-21
+Aihen Muñoz,Real Sociedad,6.7,20-21
+Sergio Gómez,Huesca,6.7,20-21
+Edgar Sevikyan,Levante UD,6.7,20-21
+Oriol Rey,Real Valladolid,6.7,20-21
+Kingsley Fobi,Granada,6.7,20-21
+Burgui,Deportivo Alavés,6.7,20-21
+Mamor Niang,Getafe,6.7,20-21
+Nico Williams,Athletic Club,6.7,20-21
+Ante Palaversa,Getafe,6.7,20-21
+Miguel Rubio,Real Valladolid,6.7,20-21
+Alberto Moreno,Villarreal,6.7,20-21
+Martín Montoya,Real Betis,6.7,20-21
+Jordi Masip,Real Valladolid,6.7,20-21
+Pedro Mosquera,Huesca,6.7,20-21
+Jaime Seoane,Huesca,6.7,20-21
+Nemanja Radoja,Levante UD,6.7,20-21
+Jony,Osasuna,6.7,20-21
+Lucas Boyé,Elche,6.69,20-21
+Ibai Gómez,Athletic Club,6.69,20-21
+Óscar de Marcos,Athletic Club,6.69,20-21
+Luis Rioja,Deportivo Alavés,6.69,20-21
+Iván Marcone,Elche,6.69,20-21
+Oihan Sancet,Athletic Club,6.69,20-21
+Jeremías Ledesma,Cádiz,6.69,20-21
+Sergio Postigo,Levante UD,6.69,20-21
+Domingos Duarte,Granada,6.69,20-21
+Sergio Arribas,Real Madrid,6.69,20-21
+Tomás Pina,Deportivo Alavés,6.68,20-21
+Jorge Pombo,Cádiz,6.68,20-21
+Tomáš Vaclík,Sevilla,6.68,20-21
+Emre Mor,Celta Vigo,6.68,20-21
+Rui Silva,Granada,6.68,20-21
+Manu Vallejo,Valencia,6.68,20-21
+Raúl Carnero,Real Valladolid,6.68,20-21
+Andrés Fernández,Huesca,6.68,20-21
+David Timor,Getafe,6.67,20-21
+Fernando Pacheco,Deportivo Alavés,6.67,20-21
+Jon Guridi,Real Sociedad,6.67,20-21
+Unai García,Osasuna,6.67,20-21
+Iñigo Pérez,Osasuna,6.67,20-21
+Marcos Mauro,Cádiz,6.67,20-21
+Saidy Janko,Real Valladolid,6.67,20-21
+Carlos Neva,Granada,6.67,20-21
+Aitor Ruibal,Real Betis,6.67,20-21
+Germán Sánchez,Granada,6.67,20-21
+John Guidetti,Deportivo Alavés,6.67,20-21
+Bruno González,Real Valladolid,6.67,20-21
+Denis Cheryshev,Valencia,6.67,20-21
+Mikel Vesga,Athletic Club,6.67,20-21
+Joel Robles,Real Betis,6.67,20-21
+Francisco Trincão,Barcelona,6.66,20-21
+Son,Levante UD,6.66,20-21
+Álvaro Giménez,Cádiz,6.66,20-21
+Helibelton Palacios,Elche,6.66,20-21
+Antonio Sanabria,Real Betis,6.66,20-21
+Unai Simón,Athletic Club,6.66,20-21
+Diego Lainez,Real Betis,6.66,20-21
+Rubén Yáñez,Getafe,6.66,20-21
+Jota,Real Valladolid,6.66,20-21
+Jon Bautista,Real Sociedad,6.66,20-21
+Christian Oliva,Valencia,6.66,20-21
+Unai Vencedor,Athletic Club,6.66,20-21
+Kike Pérez,Real Valladolid,6.66,20-21
+Manuel Sánchez,Osasuna,6.66,20-21
+Sergio Álvarez,Eibar,6.65,20-21
+Pedro Bigas,Eibar,6.65,20-21
+Juan Cruz,Osasuna,6.65,20-21
+Hugo Duro,Real Madrid,6.65,20-21
+Oier Zarraga,Athletic Club,6.65,20-21
+Eliaquim Mangala,Valencia,6.65,20-21
+Denis Vavro,Huesca,6.65,20-21
+Okay Yokuşlu,Celta Vigo,6.65,20-21
+Javi Sánchez,Real Valladolid,6.65,20-21
+Míchel Herrero,Real Valladolid,6.65,20-21
+Raúl Guti,Elche,6.64,20-21
+Edgar Méndez,Deportivo Alavés,6.64,20-21
+Víctor Díaz,Granada,6.64,20-21
+Jaime Mata,Getafe,6.64,20-21
+Rodrigo Battaglia,Deportivo Alavés,6.64,20-21
+Yoshinori Muto,Eibar,6.63,20-21
+Anthony Lozano,Cádiz,6.63,20-21
+Sergio Carreira,Celta Vigo,6.63,20-21
+Damian Kądzior,Eibar,6.63,20-21
+Maxime Gonalons,Granada,6.63,20-21
+Aarón Martín,Celta Vigo,6.63,20-21
+Roberto Jiménez,Real Valladolid,6.63,20-21
+Luis Pérez,Real Valladolid,6.63,20-21
+Ander Barrenetxea,Real Sociedad,6.63,20-21
+Álejandro Cantero,Levante UD,6.63,20-21
+Paulo Gazzaniga,Elche,6.63,20-21
+Joseba Zaldúa,Real Sociedad,6.63,20-21
+Miguel Atienza,Eibar,6.63,20-21
+Alberto Rodríguez,Deportivo Alavés,6.63,20-21
+Ángel Rodríguez,Getafe,6.62,20-21
+Takefusa Kubo,Getafe,6.62,20-21
+Pablo Piatti,Elche,6.62,20-21
+Mikel Rico,Huesca,6.62,20-21
+Carlos Fernández,Real Sociedad,6.62,20-21
+Dani Raba,Villarreal,6.62,20-21
+Idrissa Doumbia,Huesca,6.62,20-21
+Fernando Niño,Villarreal,6.62,20-21
+Antonio Puertas,Granada,6.62,20-21
+Toño,Levante UD,6.62,20-21
+Víctor Laguardia,Deportivo Alavés,6.62,20-21
+Nikola Vukčević,Levante UD,6.62,20-21
+Cheick Doukouré,Levante UD,6.61,20-21
+Rodri Sánchez,Real Betis,6.61,20-21
+Martin Braithwaite,Barcelona,6.61,20-21
+Mariano Díaz,Real Madrid,6.61,20-21
+Darko Brašanac,Osasuna,6.61,20-21
+Modibo Sagnan,Real Sociedad,6.61,20-21
+Johan Mojica,Elche,6.61,20-21
+Franco Vázquez,Sevilla,6.61,20-21
+Miguel Baeza,Celta Vigo,6.61,20-21
+Gastón Silva,Huesca,6.61,20-21
+Shinji Okazaki,Huesca,6.61,20-21
+Sergi Guardiola,Real Valladolid,6.6,20-21
+Darío Poveda,Getafe,6.6,20-21
+Jeison Lucumí,Elche,6.6,20-21
+Urko González,Real Sociedad,6.6,20-21
+Alberto,Cádiz,6.6,20-21
+Juan Ignacio Brunet Bordin,Granada,6.6,20-21
+Giorgi Kochorashvili,Levante UD,6.6,20-21
+Joaquín Muñoz,Huesca,6.6,20-21
+Pepe Sánchez,Granada,6.6,20-21
+Miguel Rodríguez,Celta Vigo,6.6,20-21
+Alejandro Pozo,Eibar,6.6,20-21
+Martín Aguirregabiria,Deportivo Alavés,6.6,20-21
+Omenuke Mfulu,Elche,6.59,20-21
+Fabián Orellana,Real Valladolid,6.59,20-21
+Pedro Alcalá,Cádiz,6.59,20-21
+Jaume Costa,Villarreal,6.59,20-21
+Takashi Inui,Eibar,6.59,20-21
+Damián Suárez,Getafe,6.59,20-21
+Quique,Eibar,6.59,20-21
+Adrián Marín,Granada,6.58,20-21
+Fede San Emeterio,Real Valladolid,6.58,20-21
+Kenan Kodro,Real Valladolid,6.58,20-21
+Adrián López,Osasuna,6.58,20-21
+Kiko Olivas,Real Valladolid,6.58,20-21
+Kévin Gameiro,Valencia,6.58,20-21
+Enric Gallego,Osasuna,6.58,20-21
+Luka Jović,Real Madrid,6.58,20-21
+Oier,Osasuna,6.57,20-21
+Pere Pons,Deportivo Alavés,6.57,20-21
+Erick Cabaco,Getafe,6.57,20-21
+Chimy Ávila,Osasuna,6.57,20-21
+Víctor Rodríguez,Elche,6.57,20-21
+Emiliano Rigoni,Elche,6.57,20-21
+Salvi Sánchez,Cádiz,6.57,20-21
+Dani Gómez,Levante UD,6.57,20-21
+Íñigo Lekue,Athletic Club,6.56,20-21
+Kevin Vázquez,Celta Vigo,6.56,20-21
+Allan Nyom,Getafe,6.56,20-21
+Jordan Holsgrove,Celta Vigo,6.56,20-21
+Iván Alejo,Cádiz,6.56,20-21
+Jon Ander Garrido,Cádiz,6.56,20-21
+Abdallahi Mahmoud,Deportivo Alavés,6.55,20-21
+Patrick Cutrone,Valencia,6.55,20-21
+Iñigo Cordoba,Deportivo Alavés,6.55,20-21
+Manu García,Deportivo Alavés,6.55,20-21
+Jota Peleteiro,Deportivo Alavés,6.55,20-21
+Jesús Vallejo,Granada,6.55,20-21
+Yunus Musah,Valencia,6.55,20-21
+Jose Fontán,Celta Vigo,6.55,20-21
+Quini,Granada,6.53,20-21
+Vitolo,Atlético Madrid,6.53,20-21
+Soufiane Chakla,Getafe,6.53,20-21
+Jairo Izquierdo,Cádiz,6.53,20-21
+Fede Vico,Granada,6.53,20-21
+Loren Morón,Real Betis,6.53,20-21
+Juanmi,Real Betis,6.53,20-21
+Yoel Rodríguez,Eibar,6.53,20-21
+Javi López,Deportivo Alavés,6.53,20-21
+Nino,Elche,6.52,20-21
+Jonas Ramalho,Osasuna,6.52,20-21
+Luisinho,Huesca,6.52,20-21
+Dani Escriche,Huesca,6.52,20-21
+Xabier Etxeita,Getafe,6.52,20-21
+Facundo Ferreyra,Celta Vigo,6.51,20-21
+Toni Lato,Valencia,6.5,20-21
+Álvaro Bastida,Cádiz,6.5,20-21
+Álvaro Bravo,Granada,6.5,20-21
+Stephane Keller,Deportivo Alavés,6.5,20-21
+Sergi García,Deportivo Alavés,6.5,20-21
+Tomás Tavares,Deportivo Alavés,6.5,20-21
+Cristiano Piccini,Valencia,6.5,20-21
+Josete Miranda,Getafe,6.5,20-21
+Moussa Dembélé,Atlético Madrid,6.5,20-21
+Dimitri Foulquier,Granada,6.49,20-21
+Sergio León,Levante UD,6.49,20-21
+Filip Malbašić,Cádiz,6.49,20-21
+Kévin Rodrigues,Eibar,6.49,20-21
+Rubén Blanco,Celta Vigo,6.48,20-21
+Jason,Valencia,6.48,20-21
+Alberto Soro,Granada,6.48,20-21
+Miguel Cifuentes,Elche,6.48,20-21
+Nehuén Pérez,Granada,6.48,20-21
+Unai Arieta,Eibar,6.48,20-21
+Oussama Idrissi,Sevilla,6.47,20-21
+Marc Cardona,Osasuna,6.47,20-21
+Nacho Martínez,Real Valladolid,6.46,20-21
+Álex Blanco,Valencia,6.46,20-21
+Augusto Fernández,Cádiz,6.46,20-21
+Francisco Portillo,Getafe,6.46,20-21
+Waldo Rubio Marín,Real Valladolid,6.46,20-21
+Álex Martín,Cádiz,6.45,20-21
+Yan Eteki,Granada,6.45,20-21
+Borja Sainz,Deportivo Alavés,6.45,20-21
+Luismi,Elche,6.43,20-21
+Gabri Veiga,Celta Vigo,6.42,20-21
+Facundo Pellistri,Deportivo Alavés,6.42,20-21
+Juan Sánchez Miño,Elche,6.41,20-21
+Robert Navarro,Real Sociedad,6.4,20-21
+Ricard Sánchez,Atlético Madrid,6.4,20-21
+Alex Blesa,Levante UD,6.4,20-21
+Daniel Plomer,Granada,6.4,20-21
+Ramon Azeez,Granada,6.4,20-21
+John Nwankwo,Elche,6.4,20-21
+Javi Moyano,Real Valladolid,6.4,20-21
+Yann Bodiger,Cádiz,6.38,20-21
+Kelechi Nwakali,Huesca,6.38,20-21
+Juan Carlos,Huesca,6.37,20-21
+Sabit Abdulai,Getafe,6.37,20-21
+Koba Koindredi,Valencia,6.35,20-21
+Víctor Mollejo,Getafe,6.35,20-21
+John Finn,Getafe,6.34,20-21
+Youssouf Koné,Elche,6.33,20-21
+Abdoulay Diaby,Getafe,6.3,20-21
+Lautaro De León,Celta Vigo,6.3,20-21
+Sergio González,Cádiz,6.3,20-21
+Isma Ruiz,Granada,6.3,20-21
+Marc Baró,Cádiz,6.3,20-21
+Borja Mayoral,Real Madrid,6.3,20-21
+Raúl Navas,Osasuna,6.3,20-21
+Ferro,Valencia,6.3,20-21
+Bobby Adekanye,Cádiz,6.3,20-21
+Gerónimo Rulli,Villarreal,6.25,20-21
+Chema,Getafe,6.22,20-21
+Amankwaa Akurugu Koffi,Getafe,6.2,20-21
+Nano Mesa,Cádiz,6.2,20-21
+David Gil,Cádiz,6.13,20-21
+Jokin Ezkieta,Athletic Club,6.1,20-21
+Aritz Arambarri,Real Sociedad,6.1,20-21
+Guillem Molina,Valencia,6.1,20-21
+Eñaut Mendia,Eibar,5.9,20-21
+Koke,Levante UD,5.8,20-21
+Unai Dufur,Eibar,5.8,20-21
+Rubén Martínez,Osasuna,5.07,20-21
+David Juncà,Celta Vigo,0.0,20-21
+Hugo Sotelo,Celta Vigo,0.0,20-21
+Álex Millán,Villarreal,0.0,20-21
+Sergio Cubero,Eibar,0.0,20-21
+Sergio Benito,Real Valladolid,0.0,20-21
+Ramón Folch,Elche,0.0,20-21
+Karim Benzema,Real Madrid,7.73,21-22
+Kike Hermoso,Real Betis,7.7,21-22
+Ousmane Dembélé,Barcelona,7.53,21-22
+Toni Kroos,Real Madrid,7.44,21-22
+Dani Parejo,Villarreal,7.41,21-22
+Gerard Moreno,Villarreal,7.41,21-22
+Vinícius Júnior,Real Madrid,7.35,21-22
+Casemiro,Real Madrid,7.34,21-22
+Iago Aspas,Celta Vigo,7.34,21-22
+Iker Muniain,Athletic Club,7.32,21-22
+Jordi Alba,Barcelona,7.3,21-22
+Jofre Carreras,Espanyol,7.3,21-22
+John Nwankwo,Elche,7.3,21-22
+Dani Alves,Barcelona,7.29,21-22
+Memphis Depay,Barcelona,7.26,21-22
+Nabil Fekir,Real Betis,7.26,21-22
+Sergio Busquets,Barcelona,7.26,21-22
+Ilias Akhomach,Barcelona,7.25,21-22
+Pedri,Barcelona,7.23,21-22
+Vedat Muriqi,Mallorca,7.21,21-22
+Joselu,Deportivo Alavés,7.21,21-22
+Miguel Gutiérrez,Real Madrid,7.2,21-22
+Andriy Lunin,Real Madrid,7.2,21-22
+Luka Modrić,Real Madrid,7.19,21-22
+João Félix,Atlético Madrid,7.15,21-22
+Carlos Soler,Valencia,7.15,21-22
+Jules Koundé,Sevilla,7.14,21-22
+Éder Militão,Real Madrid,7.14,21-22
+Rubén Alcaraz,Cádiz,7.14,21-22
+Pierre-Emerick Aubameyang,Barcelona,7.14,21-22
+Saúl Ñíguez,Atlético Madrid,7.13,21-22
+Mathew Ryan,Real Sociedad,7.13,21-22
+Martin Braithwaite,Barcelona,7.13,21-22
+Gerard Piqué,Barcelona,7.11,21-22
+Sergio Canales,Real Betis,7.11,21-22
+Jesús Vallejo,Real Madrid,7.1,21-22
+Gabriel Paulista,Valencia,7.09,21-22
+Diego Carlos,Sevilla,7.09,21-22
+Raúl de Tomás,Espanyol,7.09,21-22
+Marcos Acuña,Sevilla,7.09,21-22
+Yannick Carrasco,Atlético Madrid,7.09,21-22
+Pau Torres,Villarreal,7.09,21-22
+Giovani Lo Celso,Villarreal,7.09,21-22
+David Silva,Real Sociedad,7.08,21-22
+Ivan Rakitić,Sevilla,7.08,21-22
+Iñigo Martínez,Athletic Club,7.08,21-22
+Gonçalo Guedes,Valencia,7.08,21-22
+Frenkie de Jong,Barcelona,7.08,21-22
+Rodrigo de Paul,Atlético Madrid,7.07,21-22
+Daniel Carvajal,Real Madrid,7.07,21-22
+Marco Asensio,Real Madrid,7.07,21-22
+Marcelo,Real Madrid,7.07,21-22
+Luis Milla,Granada,7.07,21-22
+Ronald Araújo,Barcelona,7.07,21-22
+Marko Dmitrović,Sevilla,7.07,21-22
+Robin Le Normand,Real Sociedad,7.06,21-22
+Yuri Berchiche,Athletic Club,7.06,21-22
+Julen Agirrezabala,Athletic Club,7.05,21-22
+Guido Rodríguez,Real Betis,7.05,21-22
+José María Giménez,Atlético Madrid,7.04,21-22
+Mikel Oyarzabal,Real Sociedad,7.04,21-22
+Lucas Olaza,Elche,7.04,21-22
+Thibaut Courtois,Real Madrid,7.04,21-22
+Bono,Sevilla,7.03,21-22
+Enes Ünal,Getafe,7.03,21-22
+Mikel Merino,Real Sociedad,7.03,21-22
+Álvaro García,Rayo Vallecano,7.03,21-22
+Marc Bartra,Real Betis,7.02,21-22
+David Alaba,Real Madrid,7.02,21-22
+Juanmi,Real Betis,7.02,21-22
+Mauro Arambarri,Getafe,7.01,21-22
+David García,Osasuna,7.01,21-22
+Óscar Trejo,Rayo Vallecano,7.0,21-22
+Jeremías Ledesma,Cádiz,7.0,21-22
+Ansu Fati,Barcelona,7.0,21-22
+Sergi Darder,Espanyol,7.0,21-22
+Geoffrey Kondogbia,Atlético Madrid,7.0,21-22
+Juan Foyth,Villarreal,7.0,21-22
+Jon Bautista,Real Sociedad,7.0,21-22
+Pedro Ortiz,Sevilla,7.0,21-22
+Jose Calderón,Real Betis,7.0,21-22
+Oier Olazábal,Espanyol,7.0,21-22
+Daniel Vivian,Athletic Club,7.0,21-22
+Ferland Mendy,Real Madrid,7.0,21-22
+Diego López,Espanyol,6.99,21-22
+Lucas Vázquez,Real Madrid,6.99,21-22
+Aïssa Mandi,Villarreal,6.99,21-22
+Étienne Capoue,Villarreal,6.99,21-22
+Yeray Álvarez,Athletic Club,6.99,21-22
+Alejandro Catena,Rayo Vallecano,6.99,21-22
+Eduardo Camavinga,Real Madrid,6.98,21-22
+Gerónimo Rulli,Villarreal,6.98,21-22
+Ferran Torres,Barcelona,6.98,21-22
+Giorgi Mamardashvili,Valencia,6.98,21-22
+Erik Lamela,Sevilla,6.98,21-22
+Álvaro Negredo,Cádiz,6.98,21-22
+Denis Suárez,Celta Vigo,6.98,21-22
+Jesús Navas,Sevilla,6.98,21-22
+Arnaut Danjuma,Villarreal,6.97,21-22
+Antoine Griezmann,Atlético Madrid,6.97,21-22
+Álex Remiro,Real Sociedad,6.97,21-22
+Salva Sevilla,Mallorca,6.97,21-22
+Juan Miranda,Real Betis,6.97,21-22
+Aritz Elustondo,Real Sociedad,6.96,21-22
+Nacho Fernández,Real Madrid,6.95,21-22
+Rubén García,Osasuna,6.95,21-22
+Martín Zubimendi,Real Sociedad,6.95,21-22
+Luis Hernández,Cádiz,6.95,21-22
+Lucas Torró,Osasuna,6.95,21-22
+Germán Pezzella,Real Betis,6.95,21-22
+William Carvalho,Real Betis,6.95,21-22
+Jorge Molina,Granada,6.94,21-22
+Luís Maximiano,Granada,6.94,21-22
+Stole Dimitrievski,Rayo Vallecano,6.94,21-22
+Rui Silva,Real Betis,6.94,21-22
+Santi Mina,Celta Vigo,6.94,21-22
+Raúl Albiol,Villarreal,6.94,21-22
+Lucas Boyé,Elche,6.93,21-22
+Federico Valverde,Real Madrid,6.93,21-22
+Alfonso Pedraza,Villarreal,6.93,21-22
+Matías Dituro,Celta Vigo,6.93,21-22
+Sergio Herrera,Osasuna,6.93,21-22
+Edgar González,Real Betis,6.93,21-22
+Mathías Olivera,Getafe,6.93,21-22
+José Campaña,Levante UD,6.93,21-22
+Reinildo Mandava,Atlético Madrid,6.92,21-22
+Kiko Casilla,Elche,6.92,21-22
+Édgar Badía,Elche,6.92,21-22
+Stefan Savić,Atlético Madrid,6.92,21-22
+Isco,Real Madrid,6.92,21-22
+Eden Hazard,Real Madrid,6.92,21-22
+Borja Mayoral,Getafe,6.91,21-22
+Óscar de Marcos,Athletic Club,6.91,21-22
+Jon Moncayola,Osasuna,6.91,21-22
+Leandro Cabrera,Espanyol,6.91,21-22
+Papu Gómez,Sevilla,6.9,21-22
+Unai Simón,Athletic Club,6.9,21-22
+Oihan Sancet,Athletic Club,6.9,21-22
+Hugo Mallo,Celta Vigo,6.9,21-22
+Abdessamad Ezzalzouli,Barcelona,6.9,21-22
+Rafinha Alcântara,Real Sociedad,6.9,21-22
+Marc Cucurella,Getafe,6.9,21-22
+Samuel Umtiti,Barcelona,6.9,21-22
+Antonio Blanco,Real Madrid,6.9,21-22
+Víctor Ruiz,Real Betis,6.9,21-22
+Iñaki Williams,Athletic Club,6.9,21-22
+José Luis Morales,Levante UD,6.9,21-22
+Thomas Lemar,Atlético Madrid,6.9,21-22
+Héctor Bellerín,Real Betis,6.9,21-22
+Iñigo Ruiz de Galarreta,Mallorca,6.9,21-22
+David Soria,Getafe,6.89,21-22
+Boulaye Dia,Villarreal,6.89,21-22
+Alberto Moreno,Villarreal,6.89,21-22
+Adama Traoré,Barcelona,6.89,21-22
+Marcos Llorente,Atlético Madrid,6.89,21-22
+Pedro Bigas,Elche,6.89,21-22
+Ángel Correa,Atlético Madrid,6.89,21-22
+Óscar Valentín,Rayo Vallecano,6.89,21-22
+Aitor Fernández,Levante UD,6.88,21-22
+Rodrygo,Real Madrid,6.88,21-22
+Álex Moreno,Real Betis,6.88,21-22
+Martín Montoya,Real Betis,6.88,21-22
+Sergio Asenjo,Villarreal,6.88,21-22
+Nemanja Maksimović,Getafe,6.88,21-22
+Fernando,Sevilla,6.88,21-22
+Javi Galán,Celta Vigo,6.88,21-22
+Unai García,Osasuna,6.88,21-22
+Kevin Vázquez,Celta Vigo,6.88,21-22
+Darwin Machís,Granada,6.88,21-22
+Francis Coquelin,Villarreal,6.88,21-22
+Yéremy Pino,Villarreal,6.87,21-22
+Thomas Delaney,Sevilla,6.87,21-22
+Eric García,Barcelona,6.87,21-22
+Fran Beltrán,Celta Vigo,6.87,21-22
+Joan Jordán,Sevilla,6.87,21-22
+Luis Suárez,Atlético Madrid,6.87,21-22
+Santi Comesaña,Rayo Vallecano,6.87,21-22
+Johan Mojica,Elche,6.87,21-22
+Antonio Raíllo,Mallorca,6.86,21-22
+Damián Suárez,Getafe,6.86,21-22
+Willian José,Real Betis,6.86,21-22
+Kieran Trippier,Atlético Madrid,6.86,21-22
+Raúl García,Athletic Club,6.86,21-22
+Sergiño Dest,Barcelona,6.85,21-22
+Diego Rico,Real Sociedad,6.85,21-22
+Chimy Ávila,Osasuna,6.85,21-22
+Álex Berenguer,Athletic Club,6.85,21-22
+Oussama Idrissi,Cádiz,6.85,21-22
+Marcelo Saracchi,Levante UD,6.85,21-22
+Leo Román,Mallorca,6.85,21-22
+Luis Abram,Granada,6.85,21-22
+Luis Javier Suárez,Granada,6.85,21-22
+Nacho Vidal,Osasuna,6.85,21-22
+Franco Cervi,Celta Vigo,6.85,21-22
+Matheus Cunha,Atlético Madrid,6.85,21-22
+Pepelu,Levante UD,6.85,21-22
+Gavi,Barcelona,6.85,21-22
+Nemanja Gudelj,Sevilla,6.85,21-22
+Borja Iglesias,Real Betis,6.84,21-22
+Okay Yokuşlu,Getafe,6.84,21-22
+Brais Méndez,Celta Vigo,6.84,21-22
+Rubén Rochina,Granada,6.84,21-22
+Takefusa Kubo,Mallorca,6.84,21-22
+Lucas Pérez,Cádiz,6.84,21-22
+Iddrisu Baba,Mallorca,6.84,21-22
+Manu Trigueros,Villarreal,6.84,21-22
+Thierry Correia,Valencia,6.84,21-22
+Sergio Agüero,Barcelona,6.83,21-22
+Jaume Costa,Mallorca,6.83,21-22
+Gonzalo Escalante,Deportivo Alavés,6.83,21-22
+Koke,Atlético Madrid,6.83,21-22
+Carlos Akapo,Cádiz,6.83,21-22
+Matthew Miazga,Deportivo Alavés,6.83,21-22
+Helibelton Palacios,Elche,6.83,21-22
+Pablo Maffeo,Mallorca,6.83,21-22
+Paul Akouokou,Real Betis,6.83,21-22
+Jens Jønsson,Cádiz,6.82,21-22
+Mario Hermoso,Atlético Madrid,6.82,21-22
+Jesús Corona,Sevilla,6.82,21-22
+Robert Navarro,Real Sociedad,6.82,21-22
+Radamel Falcao,Rayo Vallecano,6.81,21-22
+Maximiliano Gómez,Valencia,6.81,21-22
+Alfonso Espino,Cádiz,6.81,21-22
+Joseph Aidoo,Celta Vigo,6.81,21-22
+Youssouf Sabaly,Real Betis,6.81,21-22
+Óscar Mingueza,Barcelona,6.81,21-22
+Gerard Gumbau,Elche,6.81,21-22
+Luuk de Jong,Barcelona,6.81,21-22
+Adnan Januzaj,Real Sociedad,6.81,21-22
+Óscar Rodríguez,Getafe,6.81,21-22
+Omar Alderete,Valencia,6.81,21-22
+Anthony Lozano,Cádiz,6.81,21-22
+Lucas Ocampos,Sevilla,6.8,21-22
+Sergi Gómez,Espanyol,6.8,21-22
+Fidel,Elche,6.8,21-22
+Sergi Roberto,Barcelona,6.8,21-22
+Mariano Díaz,Real Madrid,6.8,21-22
+Cristiano Piccini,Valencia,6.8,21-22
+Shkodran Mustafi,Levante UD,6.8,21-22
+Rubén Sánchez,Espanyol,6.8,21-22
+Lluís Recasens,Espanyol,6.8,21-22
+Neto,Barcelona,6.8,21-22
+Héctor Herrera,Atlético Madrid,6.8,21-22
+Marc-André ter Stegen,Barcelona,6.8,21-22
+Adrián Embarba,Espanyol,6.8,21-22
+Ante Budimir,Osasuna,6.8,21-22
+Rubén Duarte,Deportivo Alavés,6.79,21-22
+Kike Pérez,Elche,6.79,21-22
+Jorge Cuenca,Getafe,6.79,21-22
+Maxime Gonalons,Granada,6.79,21-22
+José Luis Gayà,Valencia,6.79,21-22
+Óscar Duarte,Levante UD,6.79,21-22
+Roberto Torres,Osasuna,6.78,21-22
+Youssef En-Nesyri,Sevilla,6.78,21-22
+Alexander Isak,Real Sociedad,6.78,21-22
+Manolo Reina,Mallorca,6.78,21-22
+Ferran Jutglà,Barcelona,6.78,21-22
+Djené,Getafe,6.78,21-22
+Tomás Alarcón,Cádiz,6.78,21-22
+Andoni Gorosabel,Real Sociedad,6.78,21-22
+Fali,Cádiz,6.78,21-22
+Enzo Roco,Elche,6.78,21-22
+Antonio Sivera,Deportivo Alavés,6.78,21-22
+David López,Espanyol,6.77,21-22
+Florian Lejeune,Deportivo Alavés,6.77,21-22
+Sergi Guardiola,Rayo Vallecano,6.77,21-22
+Carlos Domínguez,Celta Vigo,6.77,21-22
+Víctor Laguardia,Deportivo Alavés,6.77,21-22
+Enis Bardhi,Levante UD,6.77,21-22
+Daniel Wass,Atlético Madrid,6.77,21-22
+Dani Ceballos,Real Madrid,6.77,21-22
+Roger Martí,Levante UD,6.77,21-22
+Šime Vrsaljko,Atlético Madrid,6.77,21-22
+Ismaila Ciss,Rayo Vallecano,6.77,21-22
+Philippe Coutinho,Barcelona,6.77,21-22
+Coke,Levante UD,6.77,21-22
+Manu García,Deportivo Alavés,6.77,21-22
+Íñigo Lekue,Athletic Club,6.76,21-22
+Álex Fernández,Cádiz,6.76,21-22
+Fran García,Rayo Vallecano,6.76,21-22
+Jon Pacheco,Real Sociedad,6.76,21-22
+Omar Mascarell,Elche,6.76,21-22
+Felipe,Atlético Madrid,6.76,21-22
+Hugo Duro,Valencia,6.75,21-22
+Josan,Elche,6.75,21-22
+Álvaro Vadillo,Espanyol,6.75,21-22
+Samuel Chukwueze,Villarreal,6.75,21-22
+Dani Rodríguez,Mallorca,6.75,21-22
+Alex Collado,Granada,6.75,21-22
+Varazdat Haroyan,Cádiz,6.75,21-22
+Rodri Sánchez,Real Betis,6.75,21-22
+Kike García,Osasuna,6.74,21-22
+Florentino Luís,Getafe,6.74,21-22
+Gonzalo Verdú,Elche,6.74,21-22
+Gonzalo Montiel,Sevilla,6.74,21-22
+Mamadou Loum,Deportivo Alavés,6.74,21-22
+Gareth Bale,Real Madrid,6.74,21-22
+Nico González,Barcelona,6.74,21-22
+Pere Milla,Elche,6.74,21-22
+Giovanni González,Mallorca,6.74,21-22
+Iván Balliu,Rayo Vallecano,6.74,21-22
+Óscar Gil,Espanyol,6.74,21-22
+Moi Gómez,Villarreal,6.74,21-22
+Darío Benedetto,Elche,6.74,21-22
+Joseba Zaldúa,Real Sociedad,6.73,21-22
+Domingos Duarte,Granada,6.73,21-22
+Serge Aurier,Villarreal,6.73,21-22
+Jonas Ramalho,Osasuna,6.73,21-22
+Isi Palazón,Rayo Vallecano,6.73,21-22
+Gonzalo Melero,Levante UD,6.73,21-22
+Manu Morlanes,Espanyol,6.73,21-22
+Ander Guevara,Real Sociedad,6.73,21-22
+Óliver Torres,Sevilla,6.73,21-22
+Adrià Pedrosa,Espanyol,6.73,21-22
+Bryan Gil,Valencia,6.73,21-22
+Martín Merquelanz,Rayo Vallecano,6.73,21-22
+Bebé,Rayo Vallecano,6.72,21-22
+Esteban Saveljich,Rayo Vallecano,6.72,21-22
+Claudio Bravo,Real Betis,6.72,21-22
+Luka Jović,Real Madrid,6.72,21-22
+Karim Rekik,Sevilla,6.72,21-22
+Ludwig Augustinsson,Sevilla,6.72,21-22
+Néstor Araujo,Celta Vigo,6.72,21-22
+Ángel Montoro,Granada,6.72,21-22
+Jorge de Frutos,Levante UD,6.72,21-22
+Rúben Vezo,Levante UD,6.72,21-22
+José Mari,Cádiz,6.72,21-22
+Jasper Cillessen,Valencia,6.72,21-22
+Thiago Galhardo,Celta Vigo,6.72,21-22
+Martin Valjent,Mallorca,6.72,21-22
+Stefan Mitrović,Getafe,6.72,21-22
+Unai Vencedor,Athletic Club,6.72,21-22
+Andrés Guardado,Real Betis,6.71,21-22
+Marcos André,Valencia,6.71,21-22
+Brian Oliván,Mallorca,6.71,21-22
+Óscar Melendo,Espanyol,6.71,21-22
+Suso,Sevilla,6.71,21-22
+Mikel Balenziaga,Athletic Club,6.71,21-22
+Rafa Mir,Sevilla,6.71,21-22
+Carlos Neva,Granada,6.71,21-22
+Julen Lobete,Real Sociedad,6.71,21-22
+Kike Barja,Osasuna,6.71,21-22
+Ander Barrenetxea,Real Sociedad,6.71,21-22
+Abdón Prats,Mallorca,6.71,21-22
+Sandro Ramírez,Getafe,6.71,21-22
+Renan Lodi,Atlético Madrid,6.71,21-22
+Nahuel Tenaglia,Deportivo Alavés,6.71,21-22
+Dani Cárdenas,Levante UD,6.7,21-22
+Víctor Chust,Cádiz,6.7,21-22
+Toni Moya,Deportivo Alavés,6.7,21-22
+Pervis Estupiñán,Villarreal,6.7,21-22
+José Ángel,Osasuna,6.7,21-22
+Carlos Bacca,Granada,6.7,21-22
+Joaquín,Real Betis,6.7,21-22
+Igor Zubeldia,Real Sociedad,6.7,21-22
+Carlos Martín,Atlético Madrid,6.7,21-22
+José Ángel Carmona,Sevilla,6.7,21-22
+Jesús Owono,Deportivo Alavés,6.7,21-22
+Hugo Álvarez,Celta Vigo,6.7,21-22
+Sergio Santos,Real Madrid,6.7,21-22
+Saúl García,Deportivo Alavés,6.7,21-22
+Gori,Espanyol,6.7,21-22
+Luismi Cruz,Sevilla,6.7,21-22
+Álex Sola,Real Sociedad,6.7,21-22
+Nicolas Jackson,Villarreal,6.7,21-22
+Manuel Sánchez,Osasuna,6.7,21-22
+Guido Carrillo,Elche,6.7,21-22
+Keidi Bare,Espanyol,6.7,21-22
+Paco Alcácer,Villarreal,6.69,21-22
+Tonny Vilhena,Espanyol,6.69,21-22
+Nikola Maraš,Rayo Vallecano,6.69,21-22
+Munir El Haddadi,Sevilla,6.69,21-22
+Renato Tapia,Celta Vigo,6.69,21-22
+Mickaël Malsa,Levante UD,6.69,21-22
+Yangel Herrera,Espanyol,6.69,21-22
+Fernando Niño,Mallorca,6.69,21-22
+Gonzalo Villar,Getafe,6.69,21-22
+Jesús Vázquez,Valencia,6.69,21-22
+Sergio Escudero,Granada,6.69,21-22
+Iza Carcelén,Cádiz,6.68,21-22
+Orbelín Pineda,Celta Vigo,6.68,21-22
+Vicente Iborra,Villarreal,6.68,21-22
+Njegoš Petrović,Granada,6.68,21-22
+Ilaix Moriba,Valencia,6.68,21-22
+Luis Rioja,Deportivo Alavés,6.68,21-22
+Juan Cruz,Osasuna,6.68,21-22
+Tete Morente,Elche,6.68,21-22
+Fernando Pacheco,Deportivo Alavés,6.68,21-22
+Jan Oblak,Atlético Madrid,6.68,21-22
+Diego González,Elche,6.68,21-22
+Alberto Perea,Cádiz,6.68,21-22
+Rober González,Real Betis,6.68,21-22
+José Pozo,Rayo Vallecano,6.68,21-22
+Alexander Sørloth,Real Sociedad,6.67,21-22
+Mouctar Diakhaby,Valencia,6.67,21-22
+Clément Lenglet,Barcelona,6.67,21-22
+Antonio Puertas,Granada,6.67,21-22
+Iñigo Pérez,Osasuna,6.67,21-22
+Jason,Deportivo Alavés,6.67,21-22
+Pablo Piatti,Elche,6.67,21-22
+Fran Mérida,Espanyol,6.67,21-22
+Salvi Sánchez,Cádiz,6.67,21-22
+Portu,Real Sociedad,6.66,21-22
+Alberto Soro,Granada,6.66,21-22
+Javi Puado,Espanyol,6.66,21-22
+Unai López,Rayo Vallecano,6.66,21-22
+Rubén Sobrino,Cádiz,6.66,21-22
+Cristian Tello,Real Betis,6.66,21-22
+Raúl Guti,Elche,6.66,21-22
+Iván Alejo,Cádiz,6.66,21-22
+Aridane Hernández,Osasuna,6.65,21-22
+Ángel Rodríguez,Mallorca,6.65,21-22
+Antonio Sánchez,Mallorca,6.65,21-22
+Clément Grenier,Mallorca,6.65,21-22
+Rober Ibáñez,Osasuna,6.65,21-22
+José Juan Macías,Getafe,6.65,21-22
+Beñat Turrientes,Real Sociedad,6.65,21-22
+Fede San Emeterio,Cádiz,6.65,21-22
+Iván Marcone,Elche,6.65,21-22
+Nolito,Celta Vigo,6.65,21-22
+Uroš Račić,Valencia,6.65,21-22
+Javier Pastore,Elche,6.65,21-22
+Dimitri Foulquier,Valencia,6.65,21-22
+Roberto Soldado,Levante UD,6.64,21-22
+Asier Villalibre,Athletic Club,6.64,21-22
+Randy Nteka,Rayo Vallecano,6.64,21-22
+Nemanja Radoja,Levante UD,6.64,21-22
+Mario Gaspar,Villarreal,6.64,21-22
+Kang-in Lee,Mallorca,6.64,21-22
+Raúl Torrente,Granada,6.64,21-22
+Toni Lato,Valencia,6.64,21-22
+Fernando Calero,Espanyol,6.64,21-22
+Jon Guridi,Real Sociedad,6.64,21-22
+Denis Cheryshev,Valencia,6.64,21-22
+Dani Raba,Granada,6.64,21-22
+Mikel Vesga,Athletic Club,6.64,21-22
+Javi Martínez,Osasuna,6.63,21-22
+Germán Sánchez,Granada,6.63,21-22
+Carles Aleñá,Getafe,6.63,21-22
+Aleix Vidal,Espanyol,6.63,21-22
+Santiago Arias,Granada,6.63,21-22
+Rodrigo Battaglia,Mallorca,6.63,21-22
+Edgar Méndez,Deportivo Alavés,6.63,21-22
+Nico Serrano,Athletic Club,6.63,21-22
+Riqui Puig,Barcelona,6.63,21-22
+Aarón Escandell,Granada,6.63,21-22
+Pablo Martínez,Levante UD,6.62,21-22
+Dani García,Athletic Club,6.62,21-22
+Darko Brašanac,Osasuna,6.62,21-22
+Javi Llabrés,Mallorca,6.62,21-22
+John Guidetti,Deportivo Alavés,6.62,21-22
+Antonio Barragán,Elche,6.62,21-22
+Nikola Vukčević,Levante UD,6.62,21-22
+Víctor Camarasa,Real Betis,6.62,21-22
+Róber Pier,Levante UD,6.61,21-22
+Asier Illarramendi,Real Sociedad,6.61,21-22
+Jose Fontán,Celta Vigo,6.61,21-22
+Yunus Musah,Valencia,6.61,21-22
+Son,Levante UD,6.61,21-22
+Álvaro Jiménez,Cádiz,6.61,21-22
+Martín Aguirregabiria,Deportivo Alavés,6.61,21-22
+Darío Poveda,Getafe,6.61,21-22
+Dani Gómez,Levante UD,6.61,21-22
+Manu Vallejo,Deportivo Alavés,6.61,21-22
+Hugo Guillamón,Valencia,6.6,21-22
+Jaime Mata,Getafe,6.6,21-22
+Juanmi Latasa,Real Madrid,6.6,21-22
+Alexandru Tirlea,Deportivo Alavés,6.6,21-22
+Carlo Adriano García,Villarreal,6.6,21-22
+Alejandro Primo,Levante UD,6.6,21-22
+Unai Dufur,Osasuna,6.6,21-22
+Mario Gila Fuentes,Real Madrid,6.6,21-22
+Alejandro Asensio,Rayo Vallecano,6.6,21-22
+Peter González,Real Madrid,6.6,21-22
+Martín Calderón,Cádiz,6.6,21-22
+Iván Chapela,Cádiz,6.6,21-22
+Carlos Clerc,Levante UD,6.6,21-22
+Víctor Díaz,Granada,6.6,21-22
+Juan Iglesias,Getafe,6.6,21-22
+Franco Russo,Mallorca,6.59,21-22
+Nicolás Melamed,Espanyol,6.59,21-22
+Myrto Uzuni,Granada,6.59,21-22
+Loren Morón,Espanyol,6.59,21-22
+Mario Hernández,Rayo Vallecano,6.59,21-22
+Unai Núñez,Athletic Club,6.59,21-22
+Tomás Pina,Deportivo Alavés,6.59,21-22
+Quini,Granada,6.58,21-22
+Florin Andone,Cádiz,6.58,21-22
+Ander Martín,Real Sociedad,6.58,21-22
+Alberto Rodríguez,Deportivo Alavés,6.58,21-22
+Mamadou Sylla,Rayo Vallecano,6.58,21-22
+Aihen Muñoz,Real Sociedad,6.57,21-22
+Wu Lei,Espanyol,6.57,21-22
+Marc Tenas,Deportivo Alavés,6.57,21-22
+Álvaro Bastida,Cádiz,6.57,21-22
+Oier Zarraga,Athletic Club,6.56,21-22
+Nico Williams,Athletic Club,6.56,21-22
+Allan Nyom,Getafe,6.56,21-22
+Jakub Jankto,Getafe,6.56,21-22
+Naïs Djouahra,Real Sociedad,6.56,21-22
+Jorge Miramón,Levante UD,6.56,21-22
+Miguel de la Fuente,Deportivo Alavés,6.55,21-22
+Jaume Doménech,Valencia,6.55,21-22
+Aleix Febas,Mallorca,6.55,21-22
+Amath Ndiaye,Mallorca,6.55,21-22
+Gabri Veiga,Celta Vigo,6.54,21-22
+Vitolo,Getafe,6.54,21-22
+Rubén Peña,Villarreal,6.54,21-22
+Monchu,Granada,6.54,21-22
+Jeison Murillo,Celta Vigo,6.54,21-22
+Álex Petxa,Athletic Club,6.54,21-22
+Matías Arezo,Granada,6.54,21-22
+Aleksandar Sedlar,Mallorca,6.54,21-22
+Yusuf Demir,Barcelona,6.53,21-22
+Pere Pons,Deportivo Alavés,6.53,21-22
+Milutin Osmajić,Cádiz,6.53,21-22
+Landry Dimata,Espanyol,6.53,21-22
+Alejandro Balde,Barcelona,6.53,21-22
+Isma Ruiz,Granada,6.53,21-22
+Santiago Arzamendia,Cádiz,6.52,21-22
+Aitor Ruibal,Real Betis,6.52,21-22
+Augusto Solari,Celta Vigo,6.51,21-22
+Anthony Martial,Sevilla,6.51,21-22
+Koba Koindredi,Valencia,6.51,21-22
+Mario Suárez,Rayo Vallecano,6.51,21-22
+Estanis Pedrola,Barcelona,6.5,21-22
+Omar Faraj,Levante UD,6.5,21-22
+Ander Capa,Athletic Club,6.5,21-22
+Miguel Baeza,Celta Vigo,6.5,21-22
+Yacine Qasmi,Rayo Vallecano,6.5,21-22
+Diego Conde,Getafe,6.5,21-22
+Tomás Mendes,Deportivo Alavés,6.5,21-22
+Unai Ropero,Deportivo Alavés,6.5,21-22
+Daniel Villahermosa,Espanyol,6.5,21-22
+Álvaro Aguirre,Rayo Vallecano,6.5,21-22
+Emerson Royal,Barcelona,6.5,21-22
+Jon Morcillo,Athletic Club,6.5,21-22
+Kévin Rodrigues,Rayo Vallecano,6.5,21-22
+Sergio Postigo,Levante UD,6.49,21-22
+Ximo Navarro,Deportivo Alavés,6.49,21-22
+Hélder Costa,Valencia,6.48,21-22
+Facundo Pellistri,Deportivo Alavés,6.48,21-22
+Ivan Barbero,Osasuna,6.48,21-22
+Oier,Osasuna,6.47,21-22
+Juan Cala,Cádiz,6.47,21-22
+Germán Valera,Real Sociedad,6.47,21-22
+Eray Cömert,Valencia,6.46,21-22
+Dídac Vila,Espanyol,6.46,21-22
+Erick Cabaco,Getafe,6.46,21-22
+Miguelón,Espanyol,6.45,21-22
+Marc Pubill,Levante UD,6.44,21-22
+Martín Cáceres,Levante UD,6.44,21-22
+Jordi Mboula,Mallorca,6.44,21-22
+Amankwaa Akurugu Koffi,Getafe,6.43,21-22
+Álejandro Cantero,Levante UD,6.43,21-22
+Diego Lainez,Real Betis,6.43,21-22
+Enric Franquesa,Levante UD,6.43,21-22
+David Timor,Getafe,6.43,21-22
+Matthew Hoppe,Mallorca,6.43,21-22
+Iker Benito,Osasuna,6.43,21-22
+Yan Eteki,Granada,6.42,21-22
+Juanlu Sánchez,Sevilla,6.4,21-22
+Javier Díaz,Sevilla,6.4,21-22
+Cristo Romero,Real Sociedad,6.4,21-22
+Álvaro Sanz Catalán,Barcelona,6.4,21-22
+Mario Domínguez,Valencia,6.4,21-22
+Marcos Mauro,Cádiz,6.4,21-22
+Iván Romero,Sevilla,6.4,21-22
+Ezequiel Ponce,Elche,6.39,21-22
+Jonathan Silva,Getafe,6.39,21-22
+Javi López,Deportivo Alavés,6.39,21-22
+Lago Júnior,Mallorca,6.38,21-22
+Sergio Rico,Mallorca,6.37,21-22
+Josema,Elche,6.37,21-22
+Raúl Parra,Cádiz,6.35,21-22
+Yellu Santiago,Valencia,6.35,21-22
+Javier Serrano,Atlético Madrid,6.35,21-22
+Andrés Martín,Rayo Vallecano,6.34,21-22
+Cristhian Mosquera,Valencia,6.33,21-22
+Pedro Benito,Cádiz,6.3,21-22
+Iván Martín,Deportivo Alavés,6.3,21-22
+Joan Sastre,Mallorca,6.25,21-22
+Chema,Getafe,6.2,21-22
+Javier Ontiveros,Osasuna,6.2,21-22
+Rubén Iranzo,Valencia,6.2,21-22
+Jesús Areso,Osasuna,6.17,21-22
+Luca Zidane,Rayo Vallecano,6.16,21-22
+Dominik Greif,Mallorca,6.1,21-22
+Sergio Barcia,Granada,6.1,21-22
+Juan Pérez,Osasuna,6.0,21-22
+Josep Gayá,Mallorca,5.5,21-22
+Joan García,Espanyol,4.9,21-22
+Benjamin Lecomte,Atlético Madrid,0.0,21-22
+Giuliano Simeone,Atlético Madrid,0.0,21-22
+Luca Koleosho,Espanyol,0.0,21-22
+Mika Mármol,Barcelona,0.0,21-22
+Raúl García de Haro,Real Betis,0.0,21-22
+Nikita Iosifov,Villarreal,0.0,21-22
+Victor Gómez,Espanyol,0.0,21-22
+Hugo Sotelo,Celta Vigo,0.0,21-22
+Peru Nolaskoain Esnal,Athletic Club,0.0,21-22
+Valentino Fattore,Sevilla,0.0,21-22
+Jaume Grau,Osasuna,0.0,21-22
+Adrián Butzke,Granada,0.0,21-22
+Antoine Griezmann,Atlético Madrid,7.74,22-23
+Leo Román,Mallorca,7.7,22-23
+Karim Benzema,Real Madrid,7.47,22-23
+Toni Kroos,Real Madrid,7.42,22-23
+Aleix García,Girona FC,7.4,22-23
+David Gil,Cádiz,7.38,22-23
+Robert Lewandowski,Barcelona,7.33,22-23
+Gerónimo Rulli,Villarreal,7.31,22-23
+Pedri,Barcelona,7.28,22-23
+Raphinha,Barcelona,7.27,22-23
+Federico Valverde,Real Madrid,7.25,22-23
+Dani Parejo,Villarreal,7.24,22-23
+Frenkie de Jong,Barcelona,7.24,22-23
+Éder Militão,Real Madrid,7.24,22-23
+Sergio Busquets,Barcelona,7.23,22-23
+Marco Asensio,Real Madrid,7.21,22-23
+Rodrigo de Paul,Atlético Madrid,7.2,22-23
+Félix Garreta,Real Betis,7.2,22-23
+Iago Aspas,Celta Vigo,7.19,22-23
+Jordi Alba,Barcelona,7.18,22-23
+Ousmane Dembélé,Barcelona,7.18,22-23
+Sergi Darder,Espanyol,7.17,22-23
+Jeremías Ledesma,Cádiz,7.17,22-23
+José María Giménez,Atlético Madrid,7.17,22-23
+José Luis Gayà,Valencia,7.16,22-23
+Marc-André ter Stegen,Barcelona,7.15,22-23
+Claudio Bravo,Real Betis,7.15,22-23
+Enes Ünal,Getafe,7.13,22-23
+Gerard Piqué,Barcelona,7.13,22-23
+Thibaut Courtois,Real Madrid,7.13,22-23
+Gerard Gumbau,Elche,7.13,22-23
+Aurélien Tchouaméni,Real Madrid,7.13,22-23
+Kang-in Lee,Mallorca,7.13,22-23
+Lucas Robertone,Almería,7.12,22-23
+Mikel Merino,Real Sociedad,7.11,22-23
+Rodrygo,Real Madrid,7.1,22-23
+David López,Girona FC,7.1,22-23
+Jules Koundé,Barcelona,7.1,22-23
+Jorge Pascual,Villarreal,7.1,22-23
+Alvaro Aceves Catalina,Real Valladolid,7.1,22-23
+Giovani Lo Celso,Villarreal,7.1,22-23
+Joselu,Espanyol,7.08,22-23
+Moi Gómez,Osasuna,7.08,22-23
+Antonio Raíllo,Mallorca,7.07,22-23
+Guido Rodríguez,Real Betis,7.07,22-23
+Carlos Soler,Valencia,7.07,22-23
+Aitor Fernández,Osasuna,7.07,22-23
+Gonzalo Escalante,Cádiz,7.06,22-23
+Jordi Masip,Real Valladolid,7.06,22-23
+Loïc Badé,Sevilla,7.06,22-23
+Vinícius Júnior,Real Madrid,7.05,22-23
+Andreas Christensen,Barcelona,7.05,22-23
+Brais Méndez,Real Sociedad,7.04,22-23
+Pau Torres,Villarreal,7.04,22-23
+Isi Palazón,Rayo Vallecano,7.04,22-23
+Takefusa Kubo,Real Sociedad,7.03,22-23
+Lucas Vázquez,Real Madrid,7.03,22-23
+Ronald Araújo,Barcelona,7.03,22-23
+Nicolas Jackson,Villarreal,7.02,22-23
+Reinildo Mandava,Atlético Madrid,7.01,22-23
+Marcos Acuña,Sevilla,7.01,22-23
+Vedat Muriqi,Mallorca,7.01,22-23
+Viktor Tsygankov,Girona FC,7.01,22-23
+Juan Foyth,Villarreal,7.01,22-23
+David Silva,Real Sociedad,7.0,22-23
+Carlos García,Cádiz,7.0,22-23
+Marko Dmitrović,Sevilla,7.0,22-23
+Iñigo Martínez,Athletic Club,6.99,22-23
+Iker Muniain,Athletic Club,6.99,22-23
+Álex Remiro,Real Sociedad,6.99,22-23
+Álvaro García,Rayo Vallecano,6.99,22-23
+Sergio Canales,Real Betis,6.98,22-23
+Édgar Badía,Elche,6.98,22-23
+Marcos Llorente,Atlético Madrid,6.97,22-23
+Geoffrey Kondogbia,Atlético Madrid,6.97,22-23
+Juan Miranda,Real Betis,6.97,22-23
+João Félix,Atlético Madrid,6.97,22-23
+David Soria,Getafe,6.97,22-23
+Yeray Álvarez,Athletic Club,6.97,22-23
+Yuri Berchiche,Athletic Club,6.96,22-23
+Gabri Veiga,Celta Vigo,6.96,22-23
+Nemanja Gudelj,Sevilla,6.96,22-23
+Gerard Moreno,Villarreal,6.95,22-23
+Iza Carcelén,Cádiz,6.95,22-23
+Luka Modrić,Real Madrid,6.95,22-23
+José Copete,Mallorca,6.95,22-23
+Luis Milla,Getafe,6.95,22-23
+Raúl Albiol,Villarreal,6.95,22-23
+André Almeida,Valencia,6.94,22-23
+Mario Hermoso,Atlético Madrid,6.93,22-23
+Anuar,Real Valladolid,6.93,22-23
+Héctor Bellerín,Barcelona,6.93,22-23
+David García,Osasuna,6.93,22-23
+Rui Silva,Real Betis,6.93,22-23
+Sergi Roberto,Barcelona,6.93,22-23
+Dani Ceballos,Real Madrid,6.93,22-23
+Suso,Sevilla,6.93,22-23
+William Carvalho,Real Betis,6.93,22-23
+Jan Oblak,Atlético Madrid,6.93,22-23
+Robin Le Normand,Real Sociedad,6.92,22-23
+Adrián Embarba,Almería,6.92,22-23
+Fernando Martínez,Almería,6.92,22-23
+Eric García,Barcelona,6.92,22-23
+Ivo Grbić,Atlético Madrid,6.92,22-23
+Alejandro Baena,Villarreal,6.92,22-23
+Alex Collado,Elche,6.91,22-23
+Omar Mascarell,Elche,6.91,22-23
+Samuel Chukwueze,Villarreal,6.91,22-23
+Unai Núñez,Celta Vigo,6.91,22-23
+José Gragera,Espanyol,6.91,22-23
+Eray Cömert,Valencia,6.91,22-23
+Martín Zubimendi,Real Sociedad,6.9,22-23
+Monchu,Real Valladolid,6.9,22-23
+Álvaro Aguado,Real Valladolid,6.9,22-23
+Alejandro Catena,Rayo Vallecano,6.9,22-23
+Youssouf Sabaly,Real Betis,6.9,22-23
+Luis Hernández,Cádiz,6.9,22-23
+Fernando Medrano,Celta Vigo,6.9,22-23
+Paulo Gazzaniga,Girona FC,6.9,22-23
+Germán Pezzella,Real Betis,6.9,22-23
+Marcos Alonso,Barcelona,6.9,22-23
+Aridane Hernández,Osasuna,6.9,22-23
+Álex Berenguer,Athletic Club,6.89,22-23
+Álvaro Morata,Atlético Madrid,6.89,22-23
+Iñaki Williams,Athletic Club,6.89,22-23
+Thierry Correia,Valencia,6.89,22-23
+Mauro Arambarri,Getafe,6.89,22-23
+Samuel Lino,Valencia,6.89,22-23
+Oriol Romeu,Girona FC,6.89,22-23
+Cyle Larin,Real Valladolid,6.89,22-23
+Edu Expósito,Espanyol,6.89,22-23
+Alejandro Balde,Barcelona,6.89,22-23
+Martin Valjent,Mallorca,6.89,22-23
+Ante Budimir,Osasuna,6.88,22-23
+Lázaro,Almería,6.88,22-23
+Predrag Rajković,Mallorca,6.88,22-23
+Koke,Atlético Madrid,6.88,22-23
+Yéremy Pino,Villarreal,6.88,22-23
+Gavi,Barcelona,6.88,22-23
+Nahuel Molina,Atlético Madrid,6.88,22-23
+Mouctar Diakhaby,Valencia,6.88,22-23
+Borja Iglesias,Real Betis,6.87,22-23
+Santiago Bueno,Girona FC,6.87,22-23
+Eduardo Camavinga,Real Madrid,6.87,22-23
+Igor Zubeldia,Real Sociedad,6.87,22-23
+Aïssa Mandi,Villarreal,6.87,22-23
+Diego Rico,Real Sociedad,6.87,22-23
+Ivan Rakitić,Sevilla,6.86,22-23
+Étienne Capoue,Villarreal,6.86,22-23
+Stefan Savić,Atlético Madrid,6.86,22-23
+Chimy Ávila,Osasuna,6.86,22-23
+David Alaba,Real Madrid,6.86,22-23
+Memphis Depay,Atlético Madrid,6.86,22-23
+Pepe Reina,Villarreal,6.86,22-23
+Sergio Herrera,Osasuna,6.86,22-23
+Mikel Vesga,Athletic Club,6.86,22-23
+Antonio Rüdiger,Real Madrid,6.85,22-23
+Chris Ramos,Cádiz,6.85,22-23
+Iñigo Ruiz de Galarreta,Mallorca,6.85,22-23
+Joseph Aidoo,Celta Vigo,6.85,22-23
+Javi Galán,Celta Vigo,6.85,22-23
+Brian Oliván,Espanyol,6.85,22-23
+Hugo Mallo,Celta Vigo,6.85,22-23
+Jose Antonio de la Rosa,Cádiz,6.85,22-23
+Rober González,Real Betis,6.85,22-23
+Sergio Camello,Rayo Vallecano,6.85,22-23
+Daniel Vivian,Athletic Club,6.85,22-23
+Yannick Carrasco,Atlético Madrid,6.85,22-23
+Fernando,Sevilla,6.85,22-23
+Víctor Ruiz,Real Betis,6.84,22-23
+Óscar Rodríguez,Celta Vigo,6.84,22-23
+Thomas Lemar,Atlético Madrid,6.84,22-23
+Marcão,Sevilla,6.84,22-23
+Vinícius Souza,Espanyol,6.84,22-23
+Nacho Fernández,Real Madrid,6.84,22-23
+Rodri Sánchez,Real Betis,6.83,22-23
+Nabil Fekir,Real Betis,6.83,22-23
+Jon Ander Olasagasti,Real Sociedad,6.83,22-23
+Diego Lopez,Valencia,6.83,22-23
+Fernando Pacheco,Espanyol,6.83,22-23
+Valentín Castellanos,Girona FC,6.83,22-23
+Alfonso Espino,Cádiz,6.83,22-23
+Ansu Fati,Barcelona,6.83,22-23
+Jawad El Yamiq,Real Valladolid,6.82,22-23
+Giorgi Mamardashvili,Valencia,6.82,22-23
+Gorka Guruzeta,Athletic Club,6.82,22-23
+Raúl de Tomás,Rayo Vallecano,6.82,22-23
+Papu Gómez,Sevilla,6.82,22-23
+Rubén García,Osasuna,6.82,22-23
+Santi Comesaña,Rayo Vallecano,6.82,22-23
+Andrés Guardado,Real Betis,6.82,22-23
+Álex Moreno,Real Betis,6.82,22-23
+Franco Cervi,Celta Vigo,6.82,22-23
+Samu Castillejo,Valencia,6.82,22-23
+Andriy Lunin,Real Madrid,6.81,22-23
+Oihan Sancet,Athletic Club,6.81,22-23
+Manu Morlanes,Mallorca,6.81,22-23
+Sergio Escudero,Real Valladolid,6.81,22-23
+Cenk Özkaçar,Valencia,6.81,22-23
+Julen Agirrezabala,Athletic Club,6.81,22-23
+El Bilal Touré,Almería,6.81,22-23
+Justin Kluivert,Valencia,6.81,22-23
+Kiko Femenía,Villarreal,6.81,22-23
+Iván Sánchez,Real Valladolid,6.8,22-23
+Saúl Ñíguez,Atlético Madrid,6.8,22-23
+Pablo Maffeo,Mallorca,6.8,22-23
+Nico Williams,Athletic Club,6.8,22-23
+Kike Pérez,Real Valladolid,6.8,22-23
+Jesús Corona,Sevilla,6.8,22-23
+Alexander Isak,Real Sociedad,6.8,22-23
+Isco,Sevilla,6.8,22-23
+Jorge Cuenca,Villarreal,6.8,22-23
+Álvaro Odriozola,Real Madrid,6.8,22-23
+Federico Fernández,Elche,6.8,22-23
+Dominik Greif,Mallorca,6.8,22-23
+Kike Barja,Osasuna,6.8,22-23
+Dani García,Athletic Club,6.8,22-23
+Óscar de Marcos,Athletic Club,6.79,22-23
+Jon Moncayola,Osasuna,6.79,22-23
+Ferran Torres,Barcelona,6.79,22-23
+Youssef En-Nesyri,Sevilla,6.79,22-23
+Omar Alderete,Getafe,6.79,22-23
+Rodrigo Ely,Almería,6.79,22-23
+Luiz Felipe,Real Betis,6.79,22-23
+Arnau Martínez,Girona FC,6.79,22-23
+Samuel Costa,Almería,6.79,22-23
+Gabriel Paulista,Valencia,6.79,22-23
+Unai Simón,Athletic Club,6.79,22-23
+Álvaro Negredo,Cádiz,6.79,22-23
+Hugo Guillamón,Valencia,6.79,22-23
+Pere Milla,Elche,6.79,22-23
+Fran García,Rayo Vallecano,6.79,22-23
+Kike Salas,Sevilla,6.78,22-23
+Paul Akouokou,Real Betis,6.78,22-23
+Javi Sánchez,Real Valladolid,6.78,22-23
+Álvaro Rodríguez,Real Madrid,6.78,22-23
+Alfonso Pedraza,Villarreal,6.78,22-23
+Lucas Pérez,Cádiz,6.78,22-23
+Luis Pérez,Real Valladolid,6.78,22-23
+Domingos Duarte,Getafe,6.78,22-23
+Jon Pacheco,Real Sociedad,6.78,22-23
+Ander Guevara,Real Sociedad,6.78,22-23
+Joaquín Fernández,Real Valladolid,6.77,22-23
+Asier Illarramendi,Real Sociedad,6.77,22-23
+Óscar Plano,Real Valladolid,6.77,22-23
+Lucas Torró,Osasuna,6.77,22-23
+Nemanja Maksimović,Getafe,6.77,22-23
+Fran Beltrán,Celta Vigo,6.77,22-23
+Edinson Cavani,Valencia,6.77,22-23
+Carlos Clerc,Elche,6.77,22-23
+Selim Amallah,Real Valladolid,6.77,22-23
+Axel Witsel,Atlético Madrid,6.77,22-23
+Jesús Navas,Sevilla,6.77,22-23
+Daniel Carvajal,Real Madrid,6.77,22-23
+Álex Sola,Real Sociedad,6.77,22-23
+Agustín Marchesín,Celta Vigo,6.76,22-23
+Zouhair Feddal,Real Valladolid,6.76,22-23
+Abdessamad Ezzalzouli,Osasuna,6.76,22-23
+Stole Dimitrievski,Rayo Vallecano,6.76,22-23
+Dani Rodríguez,Mallorca,6.76,22-23
+Juanmi Latasa,Getafe,6.76,22-23
+Théo Bongonda,Cádiz,6.75,22-23
+Damián Suárez,Getafe,6.75,22-23
+Munir El Haddadi,Getafe,6.75,22-23
+Alexander Sørloth,Real Sociedad,6.75,22-23
+Léo Baptistão,Almería,6.75,22-23
+Joaquín,Real Betis,6.75,22-23
+Malcom Ares,Athletic Club,6.75,22-23
+Curro,Almería,6.75,22-23
+Manu Bueno,Sevilla,6.75,22-23
+Jon Magunazelaia,Real Sociedad,6.75,22-23
+Williot Swedberg,Celta Vigo,6.75,22-23
+Lucas Rosa,Real Valladolid,6.75,22-23
+Yan Couto,Girona FC,6.75,22-23
+Ilaix Moriba,Valencia,6.75,22-23
+Borja García,Girona FC,6.75,22-23
+Martin Braithwaite,Espanyol,6.75,22-23
+Íñigo Lekue,Athletic Club,6.75,22-23
+Fali,Cádiz,6.74,22-23
+Joan Jordán,Sevilla,6.74,22-23
+Lucas Olaza,Real Valladolid,6.74,22-23
+Lisandro Magallán,Elche,6.74,22-23
+Óscar Valentín,Rayo Vallecano,6.74,22-23
+Ángel Correa,Atlético Madrid,6.74,22-23
+Lucas Boyé,Elche,6.74,22-23
+Tete Morente,Elche,6.74,22-23
+Florian Lejeune,Rayo Vallecano,6.74,22-23
+Ramón Terrats,Villarreal,6.74,22-23
+Ander Barrenetxea,Real Sociedad,6.73,22-23
+Luis Javier Suárez,Almería,6.73,22-23
+Andoni Gorosabel,Real Sociedad,6.73,22-23
+Felipe,Atlético Madrid,6.73,22-23
+Javier Hernández,Girona FC,6.73,22-23
+Lucas Ocampos,Sevilla,6.73,22-23
+Fernando Calero,Espanyol,6.73,22-23
+Gonzalo Melero,Almería,6.73,22-23
+Manu Vallejo,Girona FC,6.73,22-23
+Nico González,Valencia,6.73,22-23
+Álex Centelles,Almería,6.73,22-23
+Cristhian Stuani,Girona FC,6.73,22-23
+Jørgen Strand Larsen,Celta Vigo,6.73,22-23
+Francis Coquelin,Villarreal,6.73,22-23
+Juan Iglesias,Getafe,6.73,22-23
+Aitor Ruibal,Real Betis,6.72,22-23
+Leandro Cabrera,Espanyol,6.72,22-23
+Mohamed-Ali Cho,Real Sociedad,6.72,22-23
+Sergi Gómez,Espanyol,6.72,22-23
+Srđan Babić,Almería,6.72,22-23
+Umar Sadiq,Real Sociedad,6.72,22-23
+Jorge Meré,Cádiz,6.72,22-23
+Rubén Alcaraz,Cádiz,6.72,22-23
+Óliver Torres,Sevilla,6.72,22-23
+Alex Telles,Sevilla,6.72,22-23
+Ayoze Pérez,Real Betis,6.72,22-23
+Carles Pérez,Celta Vigo,6.71,22-23
+Ronaël Pierre-Gabriel,Espanyol,6.71,22-23
+Giovanni González,Mallorca,6.71,22-23
+Aimar Oroz,Osasuna,6.71,22-23
+Miguel Gutiérrez,Girona FC,6.71,22-23
+José Luis Morales,Villarreal,6.71,22-23
+Roque Mesa,Real Valladolid,6.71,22-23
+José Ángel Carmona,Elche,6.71,22-23
+Yangel Herrera,Girona FC,6.71,22-23
+Unai García,Osasuna,6.71,22-23
+Jaume Costa,Mallorca,6.71,22-23
+Ander Herrera,Athletic Club,6.71,22-23
+Stefan Mitrović,Getafe,6.7,22-23
+Edgar González,Real Betis,6.7,22-23
+Álex Fernández,Cádiz,6.7,22-23
+Sergi Guardiola,Cádiz,6.7,22-23
+Rodrigo Riquelme,Girona FC,6.7,22-23
+Aitor Paredes,Athletic Club,6.7,22-23
+Iván Balliu,Rayo Vallecano,6.7,22-23
+Johan Mojica,Villarreal,6.7,22-23
+Pierre-Emerick Aubameyang,Barcelona,6.7,22-23
+Hugo Sotelo,Celta Vigo,6.7,22-23
+Carlos Domínguez,Celta Vigo,6.7,22-23
+Aleix Garrido,Barcelona,6.7,22-23
+Moi Parra,Getafe,6.7,22-23
+Adnan Januzaj,Sevilla,6.7,22-23
+Franco Russo,Mallorca,6.7,22-23
+Iker Benito,Osasuna,6.7,22-23
+Kike García,Osasuna,6.7,22-23
+Unai López,Rayo Vallecano,6.7,22-23
+Óscar Mingueza,Celta Vigo,6.7,22-23
+Javi Puado,Espanyol,6.69,22-23
+Karim Rekik,Sevilla,6.69,22-23
+Tino Kadewere,Mallorca,6.69,22-23
+Sergio León,Real Valladolid,6.69,22-23
+Juan Cruz,Osasuna,6.69,22-23
+Darko Brašanac,Osasuna,6.69,22-23
+Matheus Cunha,Atlético Madrid,6.69,22-23
+Darwin Machís,Real Valladolid,6.69,22-23
+Benjamin Lecomte,Espanyol,6.69,22-23
+Renato Tapia,Celta Vigo,6.69,22-23
+Haris Seferović,Celta Vigo,6.69,22-23
+Ferland Mendy,Real Madrid,6.69,22-23
+Miguel Rodríguez,Celta Vigo,6.69,22-23
+Pedro Bigas,Elche,6.69,22-23
+César Montes,Espanyol,6.69,22-23
+Alejandro Pozo,Almería,6.68,22-23
+Bernardo Espinosa,Girona FC,6.68,22-23
+Bono,Sevilla,6.68,22-23
+Raúl García,Athletic Club,6.68,22-23
+Willian José,Real Betis,6.68,22-23
+Íñigo Eguaras,Almería,6.68,22-23
+Dyego Sousa,Almería,6.68,22-23
+Iván Villar,Celta Vigo,6.68,22-23
+Matija Nastasić,Mallorca,6.68,22-23
+Erik Lamela,Sevilla,6.68,22-23
+Rubén Peña,Osasuna,6.68,22-23
+Kasper Dolberg,Sevilla,6.68,22-23
+Toni Lato,Valencia,6.67,22-23
+Borja Mayoral,Getafe,6.67,22-23
+Gonzalo Plata,Real Valladolid,6.67,22-23
+Iván Fresneda,Real Valladolid,6.67,22-23
+Rubén Sánchez,Espanyol,6.67,22-23
+Franck Kessié,Barcelona,6.67,22-23
+César de la Hoz,Almería,6.67,22-23
+Luiz Henrique,Real Betis,6.67,22-23
+Juan Cala,Cádiz,6.67,22-23
+Francisco Portillo,Almería,6.66,22-23
+Alberto Moreno,Villarreal,6.66,22-23
+Josan,Elche,6.66,22-23
+Manuel Sánchez,Osasuna,6.66,22-23
+Arnaut Danjuma,Villarreal,6.66,22-23
+José Carlos Lazo,Espanyol,6.66,22-23
+Martin Hongla,Real Valladolid,6.66,22-23
+Ismaila Ciss,Rayo Vallecano,6.65,22-23
+Enzo Roco,Elche,6.65,22-23
+Álvaro Fernández,Espanyol,6.65,22-23
+Iván Martín,Girona FC,6.65,22-23
+Gonçalo Paciência,Celta Vigo,6.65,22-23
+Aihen Muñoz,Real Sociedad,6.65,22-23
+Djené,Getafe,6.65,22-23
+Pape Gueye,Sevilla,6.65,22-23
+Luca Koleosho,Espanyol,6.65,22-23
+Clément Grenier,Mallorca,6.65,22-23
+Kaiky,Almería,6.65,22-23
+Haissem Hassan,Villarreal,6.65,22-23
+Alexander Callens,Girona FC,6.65,22-23
+Iddrisu Baba,Mallorca,6.65,22-23
+Rafa Mir,Sevilla,6.65,22-23
+Gastón Álvarez,Getafe,6.65,22-23
+Mikel Oyarzabal,Real Sociedad,6.64,22-23
+Jaime Mata,Getafe,6.64,22-23
+Marcos André,Valencia,6.64,22-23
+Javier Guerra,Valencia,6.64,22-23
+Pablo Marín,Real Sociedad,6.64,22-23
+Iker Muñoz,Osasuna,6.64,22-23
+Pablo Barrios,Atlético Madrid,6.64,22-23
+Dennis Hadžikadunić,Mallorca,6.64,22-23
+Rubén Sobrino,Cádiz,6.63,22-23
+Fidel,Elche,6.63,22-23
+Sergio Reguilón,Atlético Madrid,6.63,22-23
+Cristhian Mosquera,Valencia,6.63,22-23
+Carlos Martín,Atlético Madrid,6.63,22-23
+Fede San Emeterio,Cádiz,6.63,22-23
+Víctor Chust,Cádiz,6.63,22-23
+Oier Zarraga,Athletic Club,6.63,22-23
+Keidi Bare,Espanyol,6.63,22-23
+Helibelton Palacios,Elche,6.63,22-23
+Thomas Delaney,Sevilla,6.63,22-23
+Valery Fernández,Girona FC,6.62,22-23
+Bryan Gil,Sevilla,6.62,22-23
+Dimitri Foulquier,Valencia,6.62,22-23
+Brian Ocampo,Cádiz,6.62,22-23
+Asier Villalibre,Athletic Club,6.62,22-23
+Braian Cufré,Mallorca,6.62,22-23
+Reinier,Girona FC,6.62,22-23
+José Mari,Cádiz,6.62,22-23
+Tanguy Nianzou,Sevilla,6.62,22-23
+Pablo Torre,Barcelona,6.61,22-23
+Gonzalo Villar,Getafe,6.61,22-23
+Largie Ramazani,Almería,6.61,22-23
+Mamadou Mbaye,Cádiz,6.61,22-23
+Portu,Getafe,6.61,22-23
+Carlos Fernández,Real Sociedad,6.6,22-23
+Hugo Duro,Valencia,6.6,22-23
+Óscar Trejo,Rayo Vallecano,6.6,22-23
+Juanpe,Girona FC,6.6,22-23
+Mariano Díaz,Real Madrid,6.6,22-23
+Oscar Ureña,Girona FC,6.6,22-23
+Manuel Pozo Guerrero,Real Valladolid,6.6,22-23
+Lago Júnior,Mallorca,6.6,22-23
+Francisco Mwepu,Cádiz,6.6,22-23
+Alberto Perea,Cádiz,6.6,22-23
+Roberto Torres,Osasuna,6.6,22-23
+Diego Collado,Villarreal,6.6,22-23
+Josep Gayá,Mallorca,6.6,22-23
+Ander Martín,Real Sociedad,6.6,22-23
+Anthony Lozano,Cádiz,6.59,22-23
+Juanmi,Real Betis,6.59,22-23
+Nacho Vidal,Osasuna,6.59,22-23
+Sergio Akieme,Almería,6.59,22-23
+Luca De La Torre,Celta Vigo,6.59,22-23
+Samu Sáiz,Girona FC,6.59,22-23
+Jon Morcillo,Athletic Club,6.59,22-23
+Adrià Pedrosa,Espanyol,6.59,22-23
+Jon Karrikaburu,Real Sociedad,6.58,22-23
+Martín Montoya,Real Betis,6.58,22-23
+Alberto Mari,Valencia,6.58,22-23
+Pablo Ibáñez Lumbreras,Osasuna,6.58,22-23
+Ricard Artero,Girona FC,6.58,22-23
+Sergio Asenjo,Real Valladolid,6.58,22-23
+Juan Carlos,Girona FC,6.58,22-23
+Gonzalo Montiel,Sevilla,6.58,22-23
+Randy Nteka,Elche,6.57,22-23
+Denis Suárez,Espanyol,6.57,22-23
+Nicolás Melamed,Espanyol,6.57,22-23
+Óscar Gil,Espanyol,6.57,22-23
+Jaime Seoane,Getafe,6.57,22-23
+Aleix Vidal,Espanyol,6.57,22-23
+Yunus Musah,Valencia,6.57,22-23
+Bebé,Rayo Vallecano,6.57,22-23
+Antonio Blanco,Cádiz,6.57,22-23
+Ezequiel Ponce,Elche,6.56,22-23
+Nicolás Fernández,Elche,6.56,22-23
+Arnau Puigmal,Almería,6.56,22-23
+Chumi,Almería,6.56,22-23
+Rodrigo Battaglia,Mallorca,6.56,22-23
+Carles Aleñá,Getafe,6.55,22-23
+Andrés Martín,Rayo Vallecano,6.55,22-23
+Sergio Arribas,Real Madrid,6.55,22-23
+Loren Morón,Real Betis,6.55,22-23
+Beñat Turrientes,Real Sociedad,6.55,22-23
+Ángel Rodríguez,Mallorca,6.55,22-23
+Roger Martí,Cádiz,6.55,22-23
+Abdón Prats,Mallorca,6.55,22-23
+Ángel Algobia,Getafe,6.54,22-23
+Robert Navarro,Real Sociedad,6.54,22-23
+Salvi Sánchez,Rayo Vallecano,6.54,22-23
+Josep Chavarría,Rayo Vallecano,6.54,22-23
+Iván Alejo,Cádiz,6.54,22-23
+Manu Trigueros,Villarreal,6.53,22-23
+Juan Cruz,Real Betis,6.53,22-23
+Pol Lirola,Elche,6.53,22-23
+Eden Hazard,Real Madrid,6.53,22-23
+Ander Capa,Athletic Club,6.53,22-23
+Diego Moreno,Osasuna,6.53,22-23
+Jesús Vázquez,Valencia,6.53,22-23
+Aritz Elustondo,Real Sociedad,6.53,22-23
+Toni Villa,Girona FC,6.52,22-23
+Joel Roca,Girona FC,6.52,22-23
+Omar El Hilali,Espanyol,6.52,22-23
+Shon Weissman,Real Valladolid,6.51,22-23
+Abdul Mumin,Rayo Vallecano,6.51,22-23
+Radamel Falcao,Rayo Vallecano,6.5,22-23
+Lautaro Blanco,Elche,6.5,22-23
+Augusto Solari,Celta Vigo,6.5,22-23
+Jesús Vallejo,Real Madrid,6.5,22-23
+Mamady Diarra,Cádiz,6.5,22-23
+Roger Martínez,Espanyol,6.5,22-23
+Casemiro,Real Madrid,6.5,22-23
+Nabil Touaizi,Espanyol,6.5,22-23
+Carlos Álvarez,Sevilla,6.5,22-23
+Diego Mariño,Almería,6.5,22-23
+Javi Llabrés,Mallorca,6.5,22-23
+Babatunde Akinsola,Real Valladolid,6.5,22-23
+Iván Romero,Sevilla,6.5,22-23
+Alberto del Moral,Villarreal,6.5,22-23
+Roberto Arroyo,Real Valladolid,6.5,22-23
+Fran Delgado,Real Betis,6.5,22-23
+Matt Doherty,Atlético Madrid,6.5,22-23
+Pablo Durán,Celta Vigo,6.5,22-23
+Raúl Parra,Cádiz,6.5,22-23
+Kevin Vázquez,Celta Vigo,6.5,22-23
+Joseba Zaldúa,Cádiz,6.49,22-23
+Raúl Guti,Elche,6.49,22-23
+Diego González,Elche,6.48,22-23
+Tomás Alarcón,Cádiz,6.48,22-23
+Pol Lozano,Espanyol,6.48,22-23
+Amath Ndiaye,Mallorca,6.47,22-23
+Dani Gómez,Espanyol,6.47,22-23
+José Pozo,Rayo Vallecano,6.46,22-23
+Unai Vencedor,Athletic Club,6.46,22-23
+Fernando Niño,Villarreal,6.45,22-23
+Mikel Balenziaga,Athletic Club,6.45,22-23
+David Torres,Real Valladolid,6.44,22-23
+Kenedy,Real Valladolid,6.44,22-23
+Antonio Sánchez,Mallorca,6.44,22-23
+Juan Narváez,Real Valladolid,6.44,22-23
+Youba Diarra,Cádiz,6.44,22-23
+Maximiliano Gómez,Valencia,6.43,22-23
+Ludwig Augustinsson,Mallorca,6.43,22-23
+John Nwankwo,Elche,6.42,22-23
+Awer Mabil,Cádiz,6.42,22-23
+Jordan Amavi,Getafe,6.42,22-23
+Mickaël Malsa,Real Valladolid,6.42,22-23
+Abner Vinícius,Real Betis,6.4,22-23
+Sekou Gassama,Real Valladolid,6.4,22-23
+Fabrizio Angileri,Getafe,6.4,22-23
+Ángel Alarcón,Barcelona,6.4,22-23
+Marko Milovanović,Almería,6.4,22-23
+Mamadou Mbacke,Villarreal,6.4,22-23
+Axel Werner,Elche,6.4,22-23
+Álvaro Giménez,Cádiz,6.4,22-23
+Gonzalo Verdú,Elche,6.38,22-23
+Wassim Keddari,Espanyol,6.37,22-23
+Domingos Quina,Elche,6.37,22-23
+Filip Jørgensen,Villarreal,6.35,22-23
+Mario Suárez,Rayo Vallecano,6.35,22-23
+Fran Pérez,Valencia,6.3,22-23
+Javier Pastore,Elche,6.3,22-23
+Pablo Muñoz,Rayo Vallecano,6.3,22-23
+Santiago Arzamendia,Cádiz,6.28,22-23
+Pape Cheikh,Elche,6.25,22-23
+Houboulang Mendes,Almería,6.2,22-23
+Lamine Yamal,Barcelona,6.2,22-23
+Antonio Gomis,Atlético Madrid,6.2,22-23
+Alejandro Alfaro,Elche,6.2,22-23
+Iñaki Peña,Barcelona,6.2,22-23
+Mario Hernández,Rayo Vallecano,6.0,22-23
+Diego Hormigo,Sevilla,6.0,22-23
+Joan García,Espanyol,5.8,22-23
+Diego López,Rayo Vallecano,5.65,22-23
+Jorge Herrando,Osasuna,4.9,22-23
+Arnau Tenas,Barcelona,0.0,22-23
+Chadi Riad,Barcelona,0.0,22-23
+Pedro Ortiz,Sevilla,0.0,22-23
+Esteban Saveljich,Rayo Vallecano,0.0,22-23
+Diego Mendez,Rayo Vallecano,0.0,22-23
+Ruben Quintanilla,Mallorca,0.0,22-23
+Álex Revuelta,Getafe,0.0,22-23
+Jude Bellingham,Real Madrid,8.05,23-24
+Thibaut Courtois,Real Madrid,8.0,23-24
+Dominik Greif,Mallorca,7.8,23-24
+Toni Kroos,Real Madrid,7.63,23-24
+Iago Aspas,Celta Vigo,7.54,23-24
+Isco,Real Betis,7.52,23-24
+İlkay Gündoğan,Barcelona,7.48,23-24
+Aleix García,Girona FC,7.48,23-24
+Ivan Rakitić,Sevilla,7.46,23-24
+Antoine Griezmann,Atlético Madrid,7.45,23-24
+Frenkie de Jong,Barcelona,7.45,23-24
+Takefusa Kubo,Real Sociedad,7.41,23-24
+Federico Valverde,Real Madrid,7.38,23-24
+Luka Modrić,Real Madrid,7.35,23-24
+Gerard Moreno,Villarreal,7.35,23-24
+Sergio Ramos,Sevilla,7.34,23-24
+Lamine Yamal,Barcelona,7.34,23-24
+Vinícius Júnior,Real Madrid,7.33,23-24
+Iñaki Williams,Athletic Club,7.32,23-24
+Rodrygo,Real Madrid,7.31,23-24
+Iván Cuéllar,Mallorca,7.3,23-24
+Antal Yaakobishvili,Girona FC,7.3,23-24
+Savinho,Girona FC,7.29,23-24
+Raphinha,Barcelona,7.28,23-24
+Jesús Owono,Deportivo Alavés,7.28,23-24
+Arda Güler,Real Madrid,7.27,23-24
+João Cancelo,Barcelona,7.25,23-24
+Alejandro Baena,Villarreal,7.25,23-24
+Paulo Gazzaniga,Girona FC,7.24,23-24
+Rodrigo de Paul,Atlético Madrid,7.24,23-24
+Pepelu,Valencia,7.24,23-24
+Lucas Vázquez,Real Madrid,7.24,23-24
+Robert Lewandowski,Barcelona,7.23,23-24
+Daniel Carvajal,Real Madrid,7.23,23-24
+Viktor Tsygankov,Girona FC,7.22,23-24
+Pedri,Barcelona,7.22,23-24
+Mikel Merino,Real Sociedad,7.22,23-24
+Filip Jørgensen,Villarreal,7.21,23-24
+Samuel Lino,Atlético Madrid,7.21,23-24
+Brahim Díaz,Real Madrid,7.2,23-24
+Antonio Raíllo,Mallorca,7.2,23-24
+Jaume Doménech,Valencia,7.2,23-24
+David Gil,Cádiz,7.2,23-24
+Claudio Bravo,Real Betis,7.2,23-24
+Artem Dovbyk,Girona FC,7.2,23-24
+Jeremías Ledesma,Cádiz,7.2,23-24
+Marc-André ter Stegen,Barcelona,7.2,23-24
+Andriy Lunin,Real Madrid,7.2,23-24
+Ante Budimir,Osasuna,7.19,23-24
+Gorka Guruzeta,Athletic Club,7.19,23-24
+Alexander Sørloth,Villarreal,7.19,23-24
+Brais Méndez,Real Sociedad,7.19,23-24
+Eduardo Camavinga,Real Madrid,7.19,23-24
+Álvaro Valles,Las Palmas,7.18,23-24
+Aurélien Tchouaméni,Real Madrid,7.18,23-24
+Pablo Fornals,Real Betis,7.18,23-24
+Juanma Herzog,Las Palmas,7.18,23-24
+Francisco Vieites,Real Betis,7.18,23-24
+Nabil Fekir,Real Betis,7.17,23-24
+Jonathan Viera,Almería,7.17,23-24
+Hugo Álvarez,Celta Vigo,7.16,23-24
+Pepe Reina,Villarreal,7.15,23-24
+Jules Koundé,Barcelona,7.15,23-24
+Eric García,Girona FC,7.14,23-24
+Mason Greenwood,Getafe,7.14,23-24
+Dani Parejo,Villarreal,7.13,23-24
+Gavi,Barcelona,7.13,23-24
+Álex Remiro,Real Sociedad,7.13,23-24
+Kirian Rodríguez,Las Palmas,7.13,23-24
+Yuri Berchiche,Athletic Club,7.12,23-24
+Rui Silva,Real Betis,7.12,23-24
+David Alaba,Real Madrid,7.11,23-24
+Yangel Herrera,Girona FC,7.11,23-24
+Ayoze Pérez,Real Betis,7.11,23-24
+Lucas Robertone,Almería,7.1,23-24
+Sergi Cardona,Las Palmas,7.1,23-24
+Nico Williams,Athletic Club,7.1,23-24
+Vedat Muriqi,Mallorca,7.1,23-24
+Vicente Guaita,Celta Vigo,7.1,23-24
+David Soria,Getafe,7.09,23-24
+Johnny,Real Betis,7.09,23-24
+Giorgi Mamardashvili,Valencia,7.09,23-24
+Ørjan Nyland,Sevilla,7.09,23-24
+Lucas Ocampos,Sevilla,7.08,23-24
+Unai Simón,Athletic Club,7.08,23-24
+Augusto Batalla,Granada,7.08,23-24
+Daley Blind,Girona FC,7.07,23-24
+Luis Javier Suárez,Almería,7.07,23-24
+Yannick Carrasco,Atlético Madrid,7.07,23-24
+Predrag Rajković,Mallorca,7.07,23-24
+Martín Zubimendi,Real Sociedad,7.06,23-24
+Yerson Mosquera,Villarreal,7.06,23-24
+Koke,Atlético Madrid,7.06,23-24
+Florian Lejeune,Rayo Vallecano,7.05,23-24
+Sergi Darder,Mallorca,7.05,23-24
+Antonio Sivera,Deportivo Alavés,7.05,23-24
+Sergio Arribas,Almería,7.05,23-24
+Óscar de Marcos,Athletic Club,7.05,23-24
+Luis Milla,Getafe,7.05,23-24
+Sergi Roberto,Barcelona,7.04,23-24
+Borja Mayoral,Getafe,7.04,23-24
+João Félix,Barcelona,7.04,23-24
+Kepa Arrizabalaga,Real Madrid,7.04,23-24
+Suso,Sevilla,7.03,23-24
+Juan Miranda,Real Betis,7.03,23-24
+Yéremy Pino,Villarreal,7.03,23-24
+Ronald Araújo,Barcelona,7.03,23-24
+Ángel Correa,Atlético Madrid,7.03,23-24
+Miguel Gutiérrez,Girona FC,7.02,23-24
+Mario Hermoso,Atlético Madrid,7.02,23-24
+Marcos Alonso,Barcelona,7.02,23-24
+Guido Rodríguez,Real Betis,7.02,23-24
+Renato Tapia,Celta Vigo,7.02,23-24
+Luiz Henrique,Real Betis,7.01,23-24
+Gonçalo Guedes,Villarreal,7.01,23-24
+Luís Maximiano,Almería,7.01,23-24
+Jan Oblak,Atlético Madrid,7.01,23-24
+Willian José,Real Betis,7.01,23-24
+Luis Rioja,Deportivo Alavés,7.01,23-24
+Óscar Mingueza,Celta Vigo,7.01,23-24
+Sergio Herrera,Osasuna,7.0,23-24
+Hugo Duro,Valencia,7.0,23-24
+Juan Foyth,Villarreal,7.0,23-24
+Loïc Badé,Sevilla,7.0,23-24
+Marcos Llorente,Atlético Madrid,7.0,23-24
+Jonathan Bamba,Celta Vigo,7.0,23-24
+Pau Cubarsí,Barcelona,6.99,23-24
+Julian Araujo,Las Palmas,6.99,23-24
+Iñigo Martínez,Barcelona,6.99,23-24
+Iñigo Ruiz de Galarreta,Athletic Club,6.99,23-24
+Pablo Barrios,Atlético Madrid,6.99,23-24
+Carl Starfelt,Celta Vigo,6.99,23-24
+Álvaro Morata,Atlético Madrid,6.98,23-24
+Rubén García,Osasuna,6.98,23-24
+Reinildo Mandava,Atlético Madrid,6.98,23-24
+Axel Witsel,Atlético Madrid,6.98,23-24
+Marc Roca,Real Betis,6.97,23-24
+Robin Le Normand,Real Sociedad,6.97,23-24
+Rubén Alcaraz,Cádiz,6.97,23-24
+Bryan Zaragoza,Granada,6.97,23-24
+Iván Martín,Girona FC,6.97,23-24
+David García,Osasuna,6.96,23-24
+Carlos Vicente,Deportivo Alavés,6.96,23-24
+Nemanja Maksimović,Getafe,6.96,23-24
+Marko Dmitrović,Sevilla,6.95,23-24
+Diego Rico,Getafe,6.95,23-24
+Youssef En-Nesyri,Sevilla,6.95,23-24
+Fran García,Real Madrid,6.95,23-24
+Luiz Felipe,Real Betis,6.95,23-24
+Germán Pezzella,Real Betis,6.95,23-24
+David López,Girona FC,6.94,23-24
+Álvaro García,Rayo Vallecano,6.94,23-24
+Yan Couto,Girona FC,6.94,23-24
+Unai Núñez,Celta Vigo,6.94,23-24
+Kieran Tierney,Real Sociedad,6.94,23-24
+Ferland Mendy,Real Madrid,6.93,23-24
+Sheraldo Becker,Real Sociedad,6.93,23-24
+Mouctar Diakhaby,Valencia,6.93,23-24
+Antonio Rüdiger,Real Madrid,6.93,23-24
+Daniel Vivian,Athletic Club,6.93,23-24
+Fermín López,Barcelona,6.93,23-24
+Ander Herrera,Athletic Club,6.93,23-24
+Sandro Ramírez,Las Palmas,6.93,23-24
+Ferran Torres,Barcelona,6.93,23-24
+José Luis Gayà,Valencia,6.93,23-24
+Jørgen Strand Larsen,Celta Vigo,6.92,23-24
+Stole Dimitrievski,Rayo Vallecano,6.92,23-24
+Matija Nastasić,Mallorca,6.92,23-24
+Oihan Sancet,Athletic Club,6.92,23-24
+Hamari Traoré,Real Sociedad,6.92,23-24
+Bertrand Traoré,Villarreal,6.92,23-24
+Isi Palazón,Rayo Vallecano,6.92,23-24
+Saúl Ñíguez,Atlético Madrid,6.92,23-24
+Adrián Embarba,Almería,6.91,23-24
+Marcos Acuña,Sevilla,6.91,23-24
+Kike Salas,Sevilla,6.91,23-24
+André Almeida,Valencia,6.91,23-24
+Damián Rodríguez,Celta Vigo,6.9,23-24
+Marc Martínez,Granada,6.9,23-24
+Srđan Babić,Almería,6.9,23-24
+Pablo Busto,Real Betis,6.9,23-24
+Paul Akouokou,Real Betis,6.9,23-24
+Ianis Hagi,Deportivo Alavés,6.9,23-24
+Aitor Ruibal,Real Betis,6.89,23-24
+Samuel Costa,Mallorca,6.89,23-24
+Andreas Christensen,Barcelona,6.89,23-24
+Adrià Pedrosa,Sevilla,6.89,23-24
+Aritz Elustondo,Real Sociedad,6.89,23-24
+Moi Gómez,Osasuna,6.89,23-24
+Marc Pubill,Almería,6.89,23-24
+Nemanja Gudelj,Sevilla,6.89,23-24
+Ismaila Ciss,Rayo Vallecano,6.89,23-24
+Boubakary Soumaré,Sevilla,6.89,23-24
+Jesús Areso,Osasuna,6.89,23-24
+Juanlu Sánchez,Sevilla,6.89,23-24
+Roger Martí,Cádiz,6.88,23-24
+Alex Suárez,Las Palmas,6.88,23-24
+Cristhian Mosquera,Valencia,6.88,23-24
+Thierry Correia,Valencia,6.88,23-24
+César Azpilicueta,Atlético Madrid,6.88,23-24
+Dion Lopy,Almería,6.87,23-24
+Williot Swedberg,Celta Vigo,6.87,23-24
+Rodrigo Riquelme,Atlético Madrid,6.87,23-24
+Chimy Ávila,Real Betis,6.87,23-24
+Jesús Navas,Sevilla,6.87,23-24
+Nacho Fernández,Real Madrid,6.87,23-24
+Enes Ünal,Getafe,6.87,23-24
+Lucien Agoumé,Sevilla,6.87,23-24
+Abdul Mumin,Rayo Vallecano,6.87,23-24
+Álex Berenguer,Athletic Club,6.86,23-24
+Óscar Rodríguez,Getafe,6.86,23-24
+Sergi Canós,Valencia,6.86,23-24
+Cristhian Stuani,Girona FC,6.86,23-24
+Jon Guridi,Deportivo Alavés,6.86,23-24
+Mikel Oyarzabal,Real Sociedad,6.86,23-24
+Jailson,Celta Vigo,6.86,23-24
+Óscar Valentín,Rayo Vallecano,6.86,23-24
+Rafa Marín,Deportivo Alavés,6.85,23-24
+Rubén Duarte,Deportivo Alavés,6.85,23-24
+Marc Casadó,Barcelona,6.85,23-24
+Julen Agirrezabala,Athletic Club,6.85,23-24
+Beñat Prados,Athletic Club,6.85,23-24
+Fernando,Sevilla,6.85,23-24
+Diego Lopez,Valencia,6.85,23-24
+Mika Mármol,Las Palmas,6.85,23-24
+Joselu,Real Madrid,6.85,23-24
+Igor Zubeldia,Real Sociedad,6.85,23-24
+Nemanja Radonjić,Mallorca,6.85,23-24
+Alejandro Balde,Barcelona,6.84,23-24
+Aleksandar Radovanović,Almería,6.84,23-24
+Marcos Pena,Almería,6.84,23-24
+Oriol Romeu,Barcelona,6.84,23-24
+Álex Sola,Deportivo Alavés,6.84,23-24
+Dani Rodríguez,Mallorca,6.84,23-24
+Erik Lamela,Sevilla,6.84,23-24
+Iker Muñoz,Osasuna,6.84,23-24
+Kike García,Deportivo Alavés,6.84,23-24
+Gonzalo Villar,Granada,6.84,23-24
+Dodi Lukebakio,Sevilla,6.84,23-24
+Andoni Gorosabel,Deportivo Alavés,6.84,23-24
+Aihen Muñoz,Real Sociedad,6.84,23-24
+Éder Militão,Real Madrid,6.84,23-24
+Mikel Vesga,Athletic Club,6.84,23-24
+Franco Cervi,Celta Vigo,6.84,23-24
+Léo Baptistão,Almería,6.83,23-24
+Aimar Oroz,Osasuna,6.83,23-24
+Jorge Cuenca,Villarreal,6.83,23-24
+Isaac Romero,Sevilla,6.83,23-24
+José María Giménez,Atlético Madrid,6.83,23-24
+Gerard Gumbau,Granada,6.83,23-24
+Javi Galán,Real Sociedad,6.83,23-24
+Juan Iglesias,Getafe,6.83,23-24
+Fernando Martínez,Almería,6.83,23-24
+Andrés Guardado,Real Betis,6.83,23-24
+Abdón Prats,Mallorca,6.82,23-24
+Fali,Cádiz,6.82,23-24
+Jon Pacheco,Real Sociedad,6.82,23-24
+Iván Balliu,Rayo Vallecano,6.82,23-24
+Manu Morlanes,Mallorca,6.82,23-24
+Javi López,Deportivo Alavés,6.82,23-24
+Abdelkabir Abqar,Deportivo Alavés,6.82,23-24
+Nahuel Molina,Atlético Madrid,6.82,23-24
+Djibril Sow,Sevilla,6.82,23-24
+Ander Barrenetxea,Real Sociedad,6.81,23-24
+Unai López,Rayo Vallecano,6.81,23-24
+Sergio Ruiz Alonso,Granada,6.81,23-24
+Matteo Gabbia,Villarreal,6.81,23-24
+Arsen Zakharyan,Real Sociedad,6.81,23-24
+André Ferreira,Granada,6.81,23-24
+Enzo Loiodice,Las Palmas,6.81,23-24
+Hugo Sotelo,Celta Vigo,6.81,23-24
+Raúl Albiol,Villarreal,6.81,23-24
+Lucas Torró,Osasuna,6.81,23-24
+Memphis Depay,Atlético Madrid,6.81,23-24
+Víctor Chust,Cádiz,6.81,23-24
+Alberto Moleiro,Las Palmas,6.81,23-24
+Aridane Hernández,Rayo Vallecano,6.81,23-24
+Yeray Álvarez,Athletic Club,6.81,23-24
+Gabriel Paulista,Atlético Madrid,6.8,23-24
+Portu,Girona FC,6.8,23-24
+Anastasios Douvikas,Celta Vigo,6.8,23-24
+Aitor Paredes,Athletic Club,6.8,23-24
+Toni Lato,Mallorca,6.8,23-24
+Rubén Iranzo,Valencia,6.8,23-24
+Pablo Sáenz,Granada,6.8,23-24
+Ricardo Visus,Real Betis,6.8,23-24
+Chadi Riad,Real Betis,6.8,23-24
+Mamadou Mbaye,Cádiz,6.8,23-24
+Rominigue Kouamé,Cádiz,6.8,23-24
+Sokratis,Real Betis,6.8,23-24
+Milutin Osmajić,Cádiz,6.8,23-24
+Diadié Samassékou,Cádiz,6.8,23-24
+Diego Mariño,Almería,6.8,23-24
+Diego Mendez,Rayo Vallecano,6.8,23-24
+Eric Curbelo,Las Palmas,6.8,23-24
+Carlos Benavídez,Deportivo Alavés,6.8,23-24
+José Manuel Arnáiz,Osasuna,6.8,23-24
+Manuel Sánchez,Celta Vigo,6.79,23-24
+Kiko Femenía,Villarreal,6.79,23-24
+Stefan Savić,Atlético Madrid,6.79,23-24
+Antonio Blanco,Deportivo Alavés,6.79,23-24
+Lucas Boyé,Granada,6.79,23-24
+José Copete,Mallorca,6.79,23-24
+Alberto Moreno,Villarreal,6.79,23-24
+Marc Cardona,Las Palmas,6.79,23-24
+Juanmi Latasa,Getafe,6.79,23-24
+Óliver Torres,Sevilla,6.78,23-24
+Munir El Haddadi,Las Palmas,6.78,23-24
+Ander Guevara,Deportivo Alavés,6.78,23-24
+Joan Jordán,Sevilla,6.78,23-24
+Yarek Gasiorowski,Valencia,6.78,23-24
+Rubén Peña,Osasuna,6.78,23-24
+Nahuel Tenaglia,Deportivo Alavés,6.78,23-24
+Jon Magunazelaia,Real Sociedad,6.78,23-24
+Miguel Rubio,Granada,6.78,23-24
+Robert Navarro,Cádiz,6.78,23-24
+Martin Valjent,Mallorca,6.78,23-24
+Chris Ramos,Cádiz,6.78,23-24
+William Carvalho,Real Betis,6.78,23-24
+Iker Muniain,Athletic Club,6.78,23-24
+Aïssa Mandi,Villarreal,6.78,23-24
+Facundo Pellistri,Granada,6.77,23-24
+Alejandro Catena,Osasuna,6.77,23-24
+Javier Muñoz,Las Palmas,6.77,23-24
+Bruno Langa,Almería,6.77,23-24
+Dani Ceballos,Real Madrid,6.77,23-24
+Santi Comesaña,Villarreal,6.77,23-24
+Étienne Capoue,Villarreal,6.77,23-24
+Ilias Akhomach,Villarreal,6.77,23-24
+Marc Guiu,Barcelona,6.77,23-24
+Gastón Álvarez,Getafe,6.76,23-24
+Giovanni González,Mallorca,6.76,23-24
+Juanmi,Cádiz,6.76,23-24
+Famara Diédhiou,Granada,6.76,23-24
+Iza Carcelén,Cádiz,6.76,23-24
+Jaime Mata,Getafe,6.76,23-24
+Bruno Méndez,Granada,6.76,23-24
+Ignasi Miquel,Granada,6.76,23-24
+Luis Hernández,Cádiz,6.76,23-24
+Alfonso Espino,Rayo Vallecano,6.75,23-24
+Jon Moncayola,Osasuna,6.75,23-24
+Aleksandar Sedlar,Deportivo Alavés,6.75,23-24
+Miguel Crespo,Rayo Vallecano,6.75,23-24
+Francis Coquelin,Villarreal,6.75,23-24
+Pablo Maffeo,Mallorca,6.75,23-24
+Myrto Uzuni,Granada,6.75,23-24
+Ilaix Moriba,Getafe,6.75,23-24
+Jastin García,Girona FC,6.75,23-24
+Mario Domínguez,Valencia,6.75,23-24
+Josep Chavarría,Rayo Vallecano,6.75,23-24
+Javier Hernández,Cádiz,6.74,23-24
+Beñat Turrientes,Real Sociedad,6.74,23-24
+Máximo Perrone,Las Palmas,6.74,23-24
+Fran Beltrán,Celta Vigo,6.74,23-24
+Arnau Martínez,Girona FC,6.74,23-24
+Álex Fernández,Cádiz,6.74,23-24
+Hannibal Mejbri,Sevilla,6.74,23-24
+Íñigo Lekue,Athletic Club,6.74,23-24
+Edgar González,Almería,6.74,23-24
+Johan Mojica,Osasuna,6.73,23-24
+Rodri Sánchez,Real Betis,6.73,23-24
+Youssouf Sabaly,Real Betis,6.73,23-24
+Marcão,Sevilla,6.73,23-24
+Juanpe,Girona FC,6.73,23-24
+Manu Bueno,Sevilla,6.73,23-24
+Carlos Domínguez,Celta Vigo,6.73,23-24
+Largie Ramazani,Almería,6.73,23-24
+Omar Alderete,Getafe,6.73,23-24
+Cenk Özkaçar,Valencia,6.73,23-24
+Raúl de Tomás,Rayo Vallecano,6.73,23-24
+Carles Pérez,Celta Vigo,6.73,23-24
+Sergi Altimira,Real Betis,6.73,23-24
+Mihailo Ristić,Celta Vigo,6.73,23-24
+Denis Suárez,Villarreal,6.73,23-24
+Alberto Risco,Getafe,6.73,23-24
+Pejiño,Las Palmas,6.72,23-24
+Raúl García de Haro,Osasuna,6.72,23-24
+Asier Villalibre,Athletic Club,6.72,23-24
+Unai Gómez,Athletic Club,6.72,23-24
+Joseph Aidoo,Celta Vigo,6.72,23-24
+Hector Fort,Barcelona,6.71,23-24
+Cyle Larin,Mallorca,6.71,23-24
+Carlos Fernández,Real Sociedad,6.71,23-24
+Djené,Getafe,6.71,23-24
+Umar Sadiq,Real Sociedad,6.71,23-24
+Álvaro Carreras,Granada,6.71,23-24
+Sergio Camello,Rayo Vallecano,6.71,23-24
+Dani García,Athletic Club,6.71,23-24
+Javier Guerra,Valencia,6.71,23-24
+Iddrisu Baba,Almería,6.7,23-24
+Giuliano Simeone,Deportivo Alavés,6.7,23-24
+Damián Suárez,Getafe,6.7,23-24
+Borja Iglesias,Real Betis,6.7,23-24
+Sergio Rodelas,Granada,6.7,23-24
+Cristian Rivero,Valencia,6.7,23-24
+Diego Hormigo,Sevilla,6.7,23-24
+Mario Martin,Real Madrid,6.7,23-24
+Fabio González,Las Palmas,6.7,23-24
+Jorge Herrando,Osasuna,6.7,23-24
+Aiham Ousou,Cádiz,6.7,23-24
+Rachad Dhimi,Almería,6.7,23-24
+Jorge Pascual,Villarreal,6.7,23-24
+Jesús Corona,Sevilla,6.7,23-24
+Bernardo Espinosa,Girona FC,6.7,23-24
+Peru Nolaskoain Esnal,Athletic Club,6.7,23-24
+Abner Vinícius,Real Betis,6.7,23-24
+Abderrahman Rebbach,Deportivo Alavés,6.7,23-24
+Ramón Terrats,Villarreal,6.69,23-24
+Rafa Mir,Sevilla,6.69,23-24
+Peter González,Valencia,6.69,23-24
+Abdessamad Ezzalzouli,Real Betis,6.69,23-24
+Luka Romero,Almería,6.69,23-24
+Samuel Omorodion,Deportivo Alavés,6.69,23-24
+Jaume Costa,Mallorca,6.69,23-24
+Eric Bailly,Villarreal,6.69,23-24
+Adnan Januzaj,Sevilla,6.69,23-24
+Luca De La Torre,Celta Vigo,6.69,23-24
+Antonio Sánchez,Mallorca,6.69,23-24
+Maximiliano Gómez,Cádiz,6.68,23-24
+Theo Corbeanu,Granada,6.68,23-24
+Saul Coco,Las Palmas,6.68,23-24
+Pablo Ibáñez Lumbreras,Osasuna,6.68,23-24
+Selim Amallah,Valencia,6.68,23-24
+Lucas Pires,Cádiz,6.68,23-24
+Pablo Torre,Girona FC,6.68,23-24
+Mariano Díaz,Sevilla,6.68,23-24
+José Luis Morales,Villarreal,6.68,23-24
+Malcom Ares,Athletic Club,6.68,23-24
+Fabrizio Angileri,Getafe,6.68,23-24
+Sergi Guardiola,Cádiz,6.67,23-24
+Jon Aramburu,Real Sociedad,6.67,23-24
+Cristian Herrera,Las Palmas,6.67,23-24
+Marvin Park,Las Palmas,6.67,23-24
+Jon Ander Olasagasti,Real Sociedad,6.67,23-24
+Manu Trigueros,Villarreal,6.67,23-24
+Rubén Sobrino,Cádiz,6.67,23-24
+Bebé,Rayo Vallecano,6.67,23-24
+Valery Fernández,Girona FC,6.67,23-24
+Darwin Machís,Cádiz,6.67,23-24
+Jorge de Frutos,Rayo Vallecano,6.67,23-24
+Alberto Mari,Valencia,6.67,23-24
+Imanol García de Albéniz,Athletic Club,6.67,23-24
+José Callejón,Granada,6.66,23-24
+Carlos Neva,Granada,6.66,23-24
+Ricard Sánchez,Granada,6.66,23-24
+Kamil Jóźwiak,Granada,6.66,23-24
+Omar Mascarell,Mallorca,6.66,23-24
+Omenuke Mfulu,Las Palmas,6.66,23-24
+Nacho Vidal,Mallorca,6.66,23-24
+Javi Llabrés,Mallorca,6.65,23-24
+César Montes,Almería,6.65,23-24
+Faitout Maouassa,Granada,6.65,23-24
+Unai Marrero,Real Sociedad,6.65,23-24
+Xeber Alkain,Deportivo Alavés,6.65,23-24
+Álvaro Negredo,Cádiz,6.65,23-24
+Anthony Lozano,Almería,6.65,23-24
+Alfonso Pedraza,Villarreal,6.65,23-24
+Hugo Guillamón,Valencia,6.65,23-24
+Carlos Dotor,Celta Vigo,6.64,23-24
+José Campaña,Las Palmas,6.64,23-24
+Sergio Akieme,Almería,6.64,23-24
+Fran Pérez,Valencia,6.64,23-24
+Iñaki Peña,Barcelona,6.64,23-24
+Jorge Meré,Cádiz,6.64,23-24
+Assane Diao,Real Betis,6.64,23-24
+Joaquin Panichelli,Deportivo Alavés,6.64,23-24
+Javier Manquillo,Celta Vigo,6.64,23-24
+Siebe Van Der Heyden,Mallorca,6.63,23-24
+Thomas Lemar,Atlético Madrid,6.63,23-24
+Njegoš Petrović,Granada,6.63,23-24
+Kike Pérez,Rayo Vallecano,6.63,23-24
+Carles Aleñá,Getafe,6.63,23-24
+Benito Ramírez,Las Palmas,6.63,23-24
+Fede San Emeterio,Cádiz,6.63,23-24
+Yellu Santiago,Getafe,6.62,23-24
+André Silva,Real Sociedad,6.62,23-24
+Dimitri Foulquier,Valencia,6.62,23-24
+Gonzalo Escalante,Cádiz,6.62,23-24
+Óscar Melendo,Granada,6.62,23-24
+Juan Cruz,Osasuna,6.62,23-24
+Gonzalo Melero,Almería,6.61,23-24
+Álex Centelles,Almería,6.61,23-24
+Hugo González,Valencia,6.61,23-24
+Iván Villar,Celta Vigo,6.61,23-24
+Brian Ocampo,Cádiz,6.61,23-24
+Matías Arezo,Granada,6.61,23-24
+Radamel Falcao,Rayo Vallecano,6.6,23-24
+Stefan Mitrović,Getafe,6.6,23-24
+Jon Martin,Real Sociedad,6.6,23-24
+Yoel Lago,Celta Vigo,6.6,23-24
+Asier Osambela,Osasuna,6.6,23-24
+José Pozo,Rayo Vallecano,6.6,23-24
+Amath Ndiaye,Mallorca,6.6,23-24
+Ansu Fati,Barcelona,6.6,23-24
+Juan Cruz,Real Betis,6.6,23-24
+Gonzalo García,Real Madrid,6.6,23-24
+Toni Villa,Girona FC,6.6,23-24
+Alberto Soro,Granada,6.6,23-24
+César Tárrega,Valencia,6.6,23-24
+Silvi Clúa,Girona FC,6.6,23-24
+Iñaki González,Las Palmas,6.6,23-24
+Gorka Rivera,Getafe,6.6,23-24
+Ibrahima Kébé,Girona FC,6.6,23-24
+Alberto Perea,Granada,6.6,23-24
+Victor Parada,Deportivo Alavés,6.6,23-24
+José Mari,Cádiz,6.6,23-24
+Chumi,Almería,6.6,23-24
+Marko Milovanović,Almería,6.59,23-24
+Raúl Torrente,Granada,6.59,23-24
+Óscar Trejo,Rayo Vallecano,6.58,23-24
+Kevin Vázquez,Celta Vigo,6.58,23-24
+José Ángel Carmona,Getafe,6.58,23-24
+Jesús Vázquez,Valencia,6.58,23-24
+Kike Barja,Osasuna,6.58,23-24
+Roman Yaremchuk,Valencia,6.58,23-24
+Álvaro Odriozola,Real Sociedad,6.58,23-24
+Álvaro Lemos,Las Palmas,6.58,23-24
+Joseba Zaldúa,Cádiz,6.58,23-24
+Iván Alejo,Cádiz,6.57,23-24
+Mauro Arambarri,Getafe,6.57,23-24
+Raúl García,Athletic Club,6.57,23-24
+Marc Bartra,Real Betis,6.57,23-24
+Lázaro,Almería,6.56,23-24
+Jordi Martín,Getafe,6.56,23-24
+Aitor Fernández,Osasuna,6.56,23-24
+Unai García,Osasuna,6.56,23-24
+Ibrahima Kone,Almería,6.56,23-24
+Héctor Bellerín,Real Betis,6.55,23-24
+Kaiky,Almería,6.55,23-24
+Cédric Bakambu,Real Betis,6.55,23-24
+Mamadou Sylla,Deportivo Alavés,6.55,23-24
+Andrei Rațiu,Rayo Vallecano,6.54,23-24
+Miguel de la Fuente,Deportivo Alavés,6.53,23-24
+Tadeo Allende,Celta Vigo,6.53,23-24
+Jhon Solís,Girona FC,6.53,23-24
+Antonio Puertas,Granada,6.53,23-24
+Ben Brereton Díaz,Villarreal,6.52,23-24
+Arthur Vermeeren,Atlético Madrid,6.52,23-24
+Urko González,Real Sociedad,6.52,23-24
+Shon Weissman,Granada,6.52,23-24
+Sory Kaba,Las Palmas,6.52,23-24
+Tanguy Nianzou,Sevilla,6.51,23-24
+Vitor Roque,Barcelona,6.5,23-24
+Salim El Jebari,Atlético Madrid,6.5,23-24
+Javier Rueda,Celta Vigo,6.5,23-24
+Eneko Ortiz,Deportivo Alavés,6.5,23-24
+Jeremy Jorge,Getafe,6.5,23-24
+Paco Sanz,Almería,6.5,23-24
+Aingeru Olabarrieta,Athletic Club,6.5,23-24
+Stefan Leković,Villarreal,6.5,23-24
+Salvi Sánchez,Rayo Vallecano,6.5,23-24
+Etta Eyong,Cádiz,6.5,23-24
+Iñigo Arguibide,Osasuna,6.5,23-24
+Jon Karrikaburu,Deportivo Alavés,6.5,23-24
+Darko Brašanac,Osasuna,6.5,23-24
+Randy Nteka,Rayo Vallecano,6.49,23-24
+Miguel Rodríguez,Celta Vigo,6.49,23-24
+Alejandro Pozo,Almería,6.49,23-24
+Houboulang Mendes,Almería,6.49,23-24
+Carlos Romero,Villarreal,6.48,23-24
+Marciano Sanca Tchami,Almería,6.48,23-24
+Alejo Véliz,Sevilla,6.48,23-24
+Mohamed-Ali Cho,Real Sociedad,6.47,23-24
+Domingos Duarte,Getafe,6.47,23-24
+Daley Sinkgraven,Las Palmas,6.46,23-24
+Nico Paz,Real Madrid,6.45,23-24
+Martin Hongla,Granada,6.45,23-24
+Adrià Altimira,Villarreal,6.45,23-24
+Mikel Jauregizar,Athletic Club,6.44,23-24
+Arnau Puigmal,Almería,6.44,23-24
+Jesús Vallejo,Granada,6.43,23-24
+Abde Raihani,Atlético Madrid,6.4,23-24
+Yassin Tallal,Getafe,6.4,23-24
+Xabi Huarte,Osasuna,6.4,23-24
+Wilson Manafá,Granada,6.4,23-24
+Bono,Sevilla,6.4,23-24
+Tomás Mendes,Deportivo Alavés,6.4,23-24
+Alberto Dadie,Real Sociedad,6.4,23-24
+Federico Gattoni,Sevilla,6.4,23-24
+Kamil Piątkowski,Granada,6.36,23-24
+Raúl Fernández,Granada,6.35,23-24
+Pablo Gozálbez,Valencia,6.32,23-24
+Dani Cárdenas,Rayo Vallecano,6.3,23-24
+Jorge Moreno,Osasuna,6.3,23-24
+Unai Ropero,Deportivo Alavés,6.3,23-24
+Santi García,Getafe,6.3,23-24
+Nabil Aberdin,Getafe,6.25,23-24
+Víctor Díaz,Granada,6.25,23-24
+Daniel Fuzato,Getafe,6.2,23-24
+Miguel Ángel Brau,Granada,6.2,23-24
+Aarón Escandell,Las Palmas,6.2,23-24
+Gabri Veiga,Celta Vigo,6.1,23-24
+Adria Miquel Bosch Sanchis,Granada,6.1,23-24
+Çağlar Söyüncü,Atlético Madrid,6.1,23-24
+Max Svensson,Osasuna,0.0,23-24
+Borja Vázquez,Cádiz,0.0,23-24
+Álvaro Rodríguez,Real Madrid,0.0,23-24
+Moussa Diakité,Cádiz,0.0,23-24
